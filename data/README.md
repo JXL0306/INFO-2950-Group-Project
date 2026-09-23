@@ -1,1 +1,1 @@
-Please put everything about data (raw or processed) in this folder
+Please put the raw data into this folder
