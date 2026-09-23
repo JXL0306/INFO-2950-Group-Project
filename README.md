@@ -9,8 +9,8 @@ Decision making: Majority vote.
 **Communication**
 
 Meeting location: Collegetown Terrace
-Methods: WeChat Group Chat
-Expectations for response times: within 12 hours
+Methods: WeChat Group Chat & iMessages
+Expectations for response times: within 12 hours/24 hours with explaination
 
 **Meeting times**
 
