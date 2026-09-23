@@ -15,9 +15,9 @@ final report: the folder for writing the final report.
 
 
 
-We agree to the following policies for our team. Once agreed to, these policies cannot be changed for the duration of the project.
-
 **Group Contract**
+
+We agree to the following policies for our team. Once agreed to, these policies cannot be changed for the duration of the project.
 
 Decision making: Majority vote.
 
