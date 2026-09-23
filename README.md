@@ -7,9 +7,11 @@ ideas: the folder for storing ideas.
 
 data collection & raw data: the folder to store the raw data collected.
 
-workspace: the folder for data cleaning, EDA, building models, and other data analysis
+data cleaning & processing: the folder for data cleaning and processing. 
 
-final report: the folder for writing the final report
+data analysis & model: the folder for conducting data analysis and develop the model.
+
+final report: the folder for writing the final report.
 
 
 
