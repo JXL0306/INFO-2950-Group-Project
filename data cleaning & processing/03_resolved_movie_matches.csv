@@ -1,0 +1,197 @@
+ceremony_year,film_title,tmdb_id,tmdb_title,tmdb_release_date,match_method,search_file,movie_popularity,popularity_collected_at_utc
+2000,American Beauty,14,American Beauty,1999-09-15,unique_title_year,search_000.json,19.1931,2026-10-15T21:54:05.188662+00:00
+2000,The Cider House Rules,1715,The Cider House Rules,1999-12-17,unique_title_year,search_001.json,16.7689,2026-10-15T21:54:05.554844+00:00
+2000,The Green Mile,497,The Green Mile,1999-12-10,unique_title_year,search_002.json,64.0006,2026-10-15T21:54:07.027072+00:00
+2000,The Insider,9008,The Insider,1999-10-28,unique_title_year,search_003.json,19.5745,2026-10-15T21:54:07.379985+00:00
+2000,The Sixth Sense,745,The Sixth Sense,1999-08-06,unique_title_year,search_004.json,29.65,2026-10-15T21:54:07.770382+00:00
+2001,Chocolat,392,Chocolat,2000-12-22,unique_title_year,search_005.json,25.835,2026-10-15T21:54:08.156448+00:00
+2001,"Crouching Tiger, Hidden Dragon",146,"Crouching Tiger, Hidden Dragon",2000-07-06,unique_title_year,search_006.json,23.4751,2026-10-15T21:54:08.522781+00:00
+2001,Erin Brockovich,462,Erin Brockovich,2000-03-17,unique_title_year,search_007.json,12.0679,2026-10-15T21:54:08.902602+00:00
+2001,Gladiator,98,Gladiator,2000-05-04,unique_title_year,search_008.json,83.1402,2026-10-15T21:54:09.308115+00:00
+2001,Traffic,1900,Traffic,2000-12-27,unique_title_year,search_009.json,22.8497,2026-10-15T21:54:09.678118+00:00
+2002,A Beautiful Mind,453,A Beautiful Mind,2001-12-14,unique_title_year,search_010.json,42.7426,2026-10-15T21:54:10.051738+00:00
+2002,Gosford Park,5279,Gosford Park,2001-12-26,unique_title_year,search_011.json,7.5491,2026-10-15T21:54:10.429690+00:00
+2002,In the Bedroom,1999,In the Bedroom,2001-11-23,unique_title_year,search_012.json,11.5357,2026-10-15T21:54:10.790972+00:00
+2002,Moulin Rouge!,824,Moulin Rouge!,2001-05-18,unique_title_year,search_013.json,8.7965,2026-10-15T21:54:11.170376+00:00
+2002,The Lord of the Rings: The Fellowship of the Ring,120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,unique_title_year,search_014.json,48.0165,2026-10-15T21:54:11.546059+00:00
+2003,Chicago,1574,Chicago,2002-12-10,reviewed_title_date_synopsis,search_015.json,16.024,2026-10-15T21:54:11.922702+00:00
+2003,Gangs of New York,3131,Gangs of New York,2002-12-14,unique_title_year,search_016.json,15.2237,2026-10-15T21:54:12.099129+00:00
+2003,The Hours,590,The Hours,2002-12-27,unique_title_year,search_017.json,10.9568,2026-10-15T21:54:12.469155+00:00
+2003,The Lord of the Rings: The Two Towers,121,The Lord of the Rings: The Two Towers,2002-12-18,unique_title_year,search_018.json,38.8742,2026-10-15T21:54:12.831040+00:00
+2003,The Pianist,423,The Pianist,2002-09-17,unique_title_year,search_019.json,31.1785,2026-10-15T21:54:13.210525+00:00
+2004,Lost in Translation,153,Lost in Translation,2003-09-18,unique_title_year,search_020.json,21.4795,2026-10-15T21:54:13.570278+00:00
+2004,Master and Commander: The Far Side of the World,8619,Master and Commander: The Far Side of the World,2003-11-14,unique_title_year,search_021.json,15.5192,2026-10-15T21:54:13.941316+00:00
+2004,Mystic River,322,Mystic River,2003-10-08,unique_title_year,search_022.json,28.9613,2026-10-15T21:54:14.322201+00:00
+2004,Seabiscuit,4464,Seabiscuit,2003-07-22,reviewed_title_date_synopsis,search_023.json,9.638,2026-10-15T21:54:14.679136+00:00
+2004,The Lord of the Rings: The Return of the King,122,The Lord of the Rings: The Return of the King,2003-12-17,unique_title_year,search_024.json,130.3763,2026-10-15T21:54:14.862637+00:00
+2005,Finding Neverland,866,Finding Neverland,2004-10-29,unique_title_year,search_025.json,49.8809,2026-10-15T21:54:15.240694+00:00
+2005,Million Dollar Baby,70,Million Dollar Baby,2004-12-05,unique_title_year,search_026.json,32.2092,2026-10-15T21:54:15.617645+00:00
+2005,Ray,1677,Ray,2004-10-29,reviewed_title_date_synopsis,search_027.json,12.5995,2026-10-15T21:54:16.018224+00:00
+2005,Sideways,9675,Sideways,2004-10-22,unique_title_year,search_028.json,23.5246,2026-10-15T21:54:16.198194+00:00
+2005,The Aviator,2567,The Aviator,2004-12-17,unique_title_year,search_029.json,30.6052,2026-10-15T21:54:16.562325+00:00
+2006,Brokeback Mountain,142,Brokeback Mountain,2005-10-22,unique_title_year,search_030.json,21.4724,2026-10-15T21:54:16.948265+00:00
+2006,Capote,398,Capote,2005-09-30,unique_title_year,search_031.json,6.9542,2026-10-15T21:54:17.323061+00:00
+2006,Crash,1640,Crash,2005-05-06,reviewed_title_date_synopsis,search_032.json,11.1307,2026-10-15T21:54:17.681049+00:00
+2006,"Good Night, and Good Luck",3291,"Good Night, and Good Luck.",2005-09-16,unique_title_year,search_033.json,5.8187,2026-10-15T21:54:17.856796+00:00
+2006,Munich,612,Munich,2005-12-23,unique_title_year,search_034.json,17.6549,2026-10-15T21:54:18.257539+00:00
+2007,Babel,1164,Babel,2006-10-26,unique_title_year,search_035.json,18.5932,2026-10-15T21:54:18.650990+00:00
+2007,Letters from Iwo Jima,1251,Letters from Iwo Jima,2006-12-09,unique_title_year,search_036.json,9.3527,2026-10-15T21:54:19.004362+00:00
+2007,Little Miss Sunshine,773,Little Miss Sunshine,2006-07-26,unique_title_year,search_037.json,21.7651,2026-10-15T21:54:19.368939+00:00
+2007,The Departed,1422,The Departed,2006-10-04,unique_title_year,search_038.json,57.2072,2026-10-15T21:54:19.779867+00:00
+2007,The Queen,1165,The Queen,2006-09-15,unique_title_year,search_039.json,10.4429,2026-10-15T21:54:20.163645+00:00
+2008,Atonement,4347,Atonement,2007-02-27,unique_title_year,search_040.json,28.1637,2026-10-15T21:54:20.538734+00:00
+2008,Juno,7326,Juno,2007-12-05,unique_title_year,search_041.json,35.5348,2026-10-15T21:54:20.903395+00:00
+2008,Michael Clayton,4566,Michael Clayton,2007-09-28,unique_title_year,search_042.json,18.4584,2026-10-15T21:54:21.261677+00:00
+2008,No Country for Old Men,6977,No Country for Old Men,2007-11-09,unique_title_year,search_043.json,28.0854,2026-10-15T21:54:21.674701+00:00
+2008,There Will Be Blood,7345,There Will Be Blood,2007-12-26,unique_title_year,search_044.json,22.8976,2026-10-15T21:54:22.047203+00:00
+2009,Frost/Nixon,11499,Frost/Nixon,2008-10-15,unique_title_year,search_045.json,20.8009,2026-10-15T21:54:22.414246+00:00
+2009,Milk,10139,Milk,2008-11-05,reviewed_title_date_synopsis,search_046.json,7.5523,2026-10-15T21:54:22.780462+00:00
+2009,Slumdog Millionaire,12405,Slumdog Millionaire,2008-11-12,unique_title_year,search_047.json,19.5246,2026-10-15T21:54:22.967702+00:00
+2009,The Curious Case of Benjamin Button,4922,The Curious Case of Benjamin Button,2008-12-25,unique_title_year,search_048.json,31.5819,2026-10-15T21:54:23.320722+00:00
+2009,The Reader,8055,The Reader,2008-12-10,unique_title_year,search_049.json,13.2624,2026-10-15T21:54:23.725684+00:00
+2010,A Serious Man,12573,A Serious Man,2009-10-02,unique_title_year,search_050.json,9.1985,2026-10-15T21:54:24.079382+00:00
+2010,An Education,24684,An Education,2009-10-29,unique_title_year,search_051.json,7.6804,2026-10-15T21:54:24.453355+00:00
+2010,Avatar,19995,Avatar,2009-12-16,unique_title_year,search_052.json,48.338,2026-10-15T21:54:24.822395+00:00
+2010,District 9,17654,District 9,2009-08-05,unique_title_year,search_053.json,31.0051,2026-10-15T21:54:25.232970+00:00
+2010,Inglourious Basterds,16869,Inglourious Basterds,2009-08-02,unique_title_year,search_054.json,62.4647,2026-10-15T21:54:25.644404+00:00
+2010,"Precious: Based on the Novel ""Push"" by Sapphire",25793,Precious: Based on the Novel 'Push' by Sapphire,2009-11-06,unique_title_year,search_055.json,21.4148,2026-10-15T21:54:26.027306+00:00
+2010,The Blind Side,22881,The Blind Side,2009-11-20,unique_title_year,search_056.json,36.587,2026-10-15T21:54:26.386746+00:00
+2010,The Hurt Locker,12162,The Hurt Locker,2008-10-10,unique_title_year,search_057.json,26.6364,2026-10-15T21:54:26.743710+00:00
+2010,Up,14160,Up,2009-05-28,unique_title_year,search_058.json,39.2952,2026-10-15T21:54:27.454540+00:00
+2010,Up in the Air,22947,Up in the Air,2009-12-04,unique_title_year,search_059.json,11.7746,2026-10-15T21:54:27.837612+00:00
+2011,127 Hours,44115,127 Hours,2010-11-12,unique_title_year,search_060.json,19.1063,2026-10-15T21:54:28.193466+00:00
+2011,Black Swan,44214,Black Swan,2010-12-03,unique_title_year,search_061.json,23.7337,2026-10-15T21:54:28.633324+00:00
+2011,Inception,27205,Inception,2010-07-15,unique_title_year,search_062.json,54.2122,2026-10-15T21:54:29.011892+00:00
+2011,The Fighter,45317,The Fighter,2010-12-10,reviewed_title_date_synopsis,search_063.json,21.3953,2026-10-15T21:54:29.449921+00:00
+2011,The Kids Are All Right,39781,The Kids Are All Right,2010-07-09,unique_title_year,search_064.json,7.1123,2026-10-15T21:54:29.625436+00:00
+2011,The King's Speech,45269,The King's Speech,2010-11-26,unique_title_year,search_065.json,39.6996,2026-10-15T21:54:29.990291+00:00
+2011,The Social Network,37799,The Social Network,2010-10-01,unique_title_year,search_066.json,34.0433,2026-10-15T21:54:30.468068+00:00
+2011,Toy Story 3,10193,Toy Story 3,2010-06-16,unique_title_year,search_067.json,44.8412,2026-10-15T21:54:30.857411+00:00
+2011,True Grit,44264,True Grit,2010-12-22,unique_title_year,search_068.json,10.0767,2026-10-15T21:54:31.237021+00:00
+2011,Winter's Bone,39013,Winter's Bone,2010-06-11,unique_title_year,search_069.json,26.5204,2026-10-15T21:54:31.625891+00:00
+2012,Extremely Loud & Incredibly Close,64685,Extremely Loud & Incredibly Close,2011-12-25,unique_title_year,search_070.json,10.222,2026-10-15T21:54:31.983812+00:00
+2012,Hugo,44826,Hugo,2011-11-22,reviewed_title_date_synopsis,search_071.json,12.3703,2026-10-15T21:54:34.357848+00:00
+2012,Midnight in Paris,59436,Midnight in Paris,2011-05-11,unique_title_year,search_072.json,17.698,2026-10-15T21:54:34.677448+00:00
+2012,Moneyball,60308,Moneyball,2011-09-23,unique_title_year,search_073.json,10.3266,2026-10-15T21:54:35.058586+00:00
+2012,The Artist,74643,The Artist,2011-10-12,unique_title_year,search_074.json,20.8213,2026-10-15T21:54:35.450482+00:00
+2012,The Descendants,65057,The Descendants,2011-09-09,unique_title_year,search_075.json,22.2728,2026-10-15T21:54:35.823205+00:00
+2012,The Help,50014,The Help,2011-08-09,unique_title_year,search_076.json,44.5493,2026-10-15T21:54:36.211513+00:00
+2012,The Tree of Life,8967,The Tree of Life,2011-05-17,unique_title_year,search_077.json,12.4691,2026-10-15T21:54:36.564382+00:00
+2012,War Horse,57212,War Horse,2011-12-25,unique_title_year,search_078.json,10.3575,2026-10-15T21:54:36.926299+00:00
+2013,Amour,86837,Amour,2012-09-20,unique_title_year,search_079.json,6.4624,2026-10-15T21:54:37.327579+00:00
+2013,Argo,68734,Argo,2012-10-11,unique_title_year,search_080.json,11.124,2026-10-15T21:54:37.996406+00:00
+2013,Beasts of the Southern Wild,84175,Beasts of the Southern Wild,2012-06-29,unique_title_year,search_081.json,4.583,2026-10-15T21:54:38.384464+00:00
+2013,Django Unchained,68718,Django Unchained,2012-12-25,unique_title_year,search_082.json,35.0464,2026-10-15T21:54:38.751756+00:00
+2013,Les Misérables,82695,Les Misérables,2012-12-18,unique_title_year,search_083.json,28.845,2026-10-15T21:54:39.136025+00:00
+2013,Life of Pi,87827,Life of Pi,2012-11-20,unique_title_year,search_084.json,17.0957,2026-10-15T21:54:39.539343+00:00
+2013,Lincoln,72976,Lincoln,2012-11-09,unique_title_year,search_085.json,23.367,2026-10-15T21:54:39.915327+00:00
+2013,Silver Linings Playbook,82693,Silver Linings Playbook,2012-11-16,unique_title_year,search_086.json,14.6457,2026-10-15T21:54:40.288670+00:00
+2013,Zero Dark Thirty,97630,Zero Dark Thirty,2012-12-19,unique_title_year,search_087.json,13.4055,2026-10-15T21:54:40.659303+00:00
+2014,12 Years a Slave,76203,12 Years a Slave,2013-10-18,unique_title_year,search_088.json,17.5571,2026-10-15T21:54:41.061373+00:00
+2014,American Hustle,168672,American Hustle,2013-12-12,unique_title_year,search_089.json,45.6866,2026-10-15T21:54:41.472946+00:00
+2014,Captain Phillips,109424,Captain Phillips,2013-10-10,unique_title_year,search_090.json,28.4756,2026-10-15T21:54:41.826554+00:00
+2014,Dallas Buyers Club,152532,Dallas Buyers Club,2013-11-01,unique_title_year,search_091.json,11.7208,2026-10-15T21:54:42.201833+00:00
+2014,Gravity,49047,Gravity,2013-10-03,unique_title_year,search_092.json,15.5101,2026-10-15T21:54:42.571894+00:00
+2014,Her,152601,Her,2013-12-18,unique_title_year,search_093.json,80.8316,2026-10-15T21:54:42.956041+00:00
+2014,Nebraska,129670,Nebraska,2013-09-21,unique_title_year,search_094.json,10.5453,2026-10-15T21:54:43.332987+00:00
+2014,Philomena,205220,Philomena,2013-11-01,unique_title_year,search_095.json,15.7834,2026-10-15T21:54:43.685176+00:00
+2014,The Wolf of Wall Street,106646,The Wolf of Wall Street,2013-12-25,unique_title_year,search_096.json,57.4163,2026-10-15T21:54:44.028243+00:00
+2015,American Sniper,190859,American Sniper,2014-12-25,unique_title_year,search_097.json,23.4562,2026-10-15T21:54:44.432331+00:00
+2015,Birdman or (The Unexpected Virtue of Ignorance),194662,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,unique_title_year,search_098.json,75.7639,2026-10-15T21:54:44.819901+00:00
+2015,Boyhood,85350,Boyhood,2014-06-05,unique_title_year,search_099.json,39.9048,2026-10-15T21:54:45.220403+00:00
+2015,Selma,273895,Selma,2014-12-25,reviewed_title_date_synopsis,search_100.json,4.5387,2026-10-15T21:54:45.581914+00:00
+2015,The Grand Budapest Hotel,120467,The Grand Budapest Hotel,2014-02-26,unique_title_year,search_101.json,54.4635,2026-10-15T21:54:45.897373+00:00
+2015,The Imitation Game,205596,The Imitation Game,2014-11-14,unique_title_year,search_102.json,82.4352,2026-10-15T21:54:46.278595+00:00
+2015,The Theory of Everything,266856,The Theory of Everything,2014-11-07,reviewed_title_date_synopsis,search_103.json,16.1882,2026-10-15T21:54:46.631868+00:00
+2015,Whiplash,244786,Whiplash,2014-10-10,reviewed_title_date_synopsis,search_104.json,59.2824,2026-10-15T21:54:46.818388+00:00
+2016,Bridge of Spies,296098,Bridge of Spies,2015-10-15,unique_title_year,search_105.json,25.9296,2026-10-15T21:54:47.004063+00:00
+2016,Brooklyn,167073,Brooklyn,2015-10-20,reviewed_title_date_synopsis,search_106.json,20.7345,2026-10-15T21:54:47.394262+00:00
+2016,Mad Max: Fury Road,76341,Mad Max: Fury Road,2015-05-13,unique_title_year,search_107.json,58.1487,2026-10-15T21:54:47.573677+00:00
+2016,Room,264644,Room,2015-10-16,unique_title_year,search_108.json,9.2452,2026-10-15T21:54:47.949541+00:00
+2016,Spotlight,314365,Spotlight,2015-11-06,unique_title_year,search_109.json,21.7129,2026-10-15T21:54:48.306455+00:00
+2016,The Big Short,318846,The Big Short,2015-12-11,unique_title_year,search_110.json,65.859,2026-10-15T21:54:48.681358+00:00
+2016,The Martian,286217,The Martian,2015-09-30,unique_title_year,search_111.json,52.6428,2026-10-15T21:54:49.084908+00:00
+2016,The Revenant,281957,The Revenant,2015-12-25,unique_title_year,search_112.json,30.2306,2026-10-15T21:54:49.505214+00:00
+2017,Arrival,329865,Arrival,2016-11-10,reviewed_title_date_synopsis,search_113.json,60.365,2026-10-15T21:54:49.891408+00:00
+2017,Fences,393457,Fences,2016-12-16,reviewed_title_date_synopsis,search_114.json,6.9581,2026-10-15T21:54:50.075154+00:00
+2017,Hacksaw Ridge,324786,Hacksaw Ridge,2016-10-07,unique_title_year,search_115.json,54.7935,2026-10-15T21:54:50.252521+00:00
+2017,Hell or High Water,338766,Hell or High Water,2016-08-11,reviewed_title_date_synopsis,search_116.json,16.8294,2026-10-15T21:54:50.644770+00:00
+2017,Hidden Figures,381284,Hidden Figures,2016-12-10,unique_title_year,search_117.json,56.491,2026-10-15T21:54:50.838674+00:00
+2017,La La Land,313369,La La Land,2016-12-01,unique_title_year,search_118.json,28.2928,2026-10-15T21:54:51.214306+00:00
+2017,Lion,334543,Lion,2016-11-24,unique_title_year,search_119.json,11.5178,2026-10-15T21:54:51.595792+00:00
+2017,Manchester by the Sea,334541,Manchester by the Sea,2016-11-17,unique_title_year,search_120.json,38.5745,2026-10-15T21:54:51.955295+00:00
+2017,Moonlight,376867,Moonlight,2016-10-21,unique_title_year,search_121.json,37.5297,2026-10-15T21:54:52.324668+00:00
+2018,Call Me by Your Name,398818,Call Me by Your Name,2017-10-01,unique_title_year,search_122.json,70.0278,2026-10-15T21:54:52.689231+00:00
+2018,Darkest Hour,399404,Darkest Hour,2017-11-22,unique_title_year,search_123.json,22.3993,2026-10-15T21:54:53.059691+00:00
+2018,Dunkirk,374720,Dunkirk,2017-07-19,unique_title_year,search_124.json,32.8961,2026-10-15T21:54:53.451622+00:00
+2018,Get Out,419430,Get Out,2017-02-24,unique_title_year,search_125.json,45.3043,2026-10-15T21:54:53.832486+00:00
+2018,Lady Bird,391713,Lady Bird,2017-09-01,unique_title_year,search_126.json,32.0119,2026-10-15T21:54:54.199167+00:00
+2018,Phantom Thread,400617,Phantom Thread,2017-12-25,unique_title_year,search_127.json,20.2302,2026-10-15T21:54:54.569865+00:00
+2018,The Post,446354,The Post,2017-12-22,unique_title_year,search_128.json,8.7275,2026-10-15T21:54:54.959643+00:00
+2018,The Shape of Water,399055,The Shape of Water,2017-12-01,unique_title_year,search_129.json,53.8626,2026-10-15T21:54:55.358948+00:00
+2018,"Three Billboards Outside Ebbing, Missouri",359940,"Three Billboards Outside Ebbing, Missouri",2017-12-01,unique_title_year,search_130.json,64.2237,2026-10-15T21:54:55.759824+00:00
+2019,A Star Is Born,332562,A Star Is Born,2018-10-03,unique_title_year,search_131.json,34.8411,2026-10-15T21:54:56.157276+00:00
+2019,BlacKkKlansman,487558,BlacKkKlansman,2018-08-09,unique_title_year,search_132.json,23.4756,2026-10-15T21:54:56.529197+00:00
+2019,Black Panther,284054,Black Panther,2018-02-13,unique_title_year,search_133.json,51.8174,2026-10-15T21:54:56.910575+00:00
+2019,Bohemian Rhapsody,424694,Bohemian Rhapsody,2018-10-24,unique_title_year,search_134.json,25.7277,2026-10-15T21:54:57.311964+00:00
+2019,Green Book,490132,Green Book,2018-11-16,unique_title_year,search_135.json,62.0201,2026-10-15T21:54:57.691993+00:00
+2019,Roma,426426,Roma,2018-11-21,reviewed_title_date_synopsis,search_136.json,5.7175,2026-10-15T21:54:58.092385+00:00
+2019,The Favourite,375262,The Favourite,2018-11-23,unique_title_year,search_137.json,46.2141,2026-10-15T21:54:58.281531+00:00
+2019,Vice,429197,Vice,2018-12-25,unique_title_year,search_138.json,9.4859,2026-10-15T21:54:58.654457+00:00
+2020,1917,530915,1917,2019-12-25,reviewed_title_date_synopsis,search_139.json,23.0382,2026-10-15T21:54:59.034654+00:00
+2020,Ford v Ferrari,359724,Ford v Ferrari,2019-11-13,unique_title_year,search_140.json,37.9171,2026-10-15T21:54:59.221215+00:00
+2020,Jojo Rabbit,515001,Jojo Rabbit,2019-10-18,unique_title_year,search_141.json,18.6334,2026-10-15T21:54:59.597034+00:00
+2020,Joker,475557,Joker,2019-10-01,unique_title_year,search_142.json,40.3777,2026-10-15T21:54:59.954395+00:00
+2020,Little Women,331482,Little Women,2019-12-25,reviewed_title_date_synopsis,search_143.json,43.4125,2026-10-15T21:55:00.336464+00:00
+2020,Marriage Story,492188,Marriage Story,2019-09-28,unique_title_year,search_144.json,35.1967,2026-10-15T21:55:00.521547+00:00
+2020,Once Upon a Time in Hollywood,466272,Once Upon a Time... in Hollywood,2019-07-24,unique_title_year,search_145.json,33.7328,2026-10-15T21:55:00.891004+00:00
+2020,Parasite,496243,Parasite,2019-05-30,unique_title_year,search_146.json,51.5914,2026-10-15T21:55:01.303324+00:00
+2020,The Irishman,398978,The Irishman,2019-11-01,unique_title_year,search_147.json,18.0021,2026-10-15T21:55:01.680329+00:00
+2021,Judas and the Black Messiah,583406,Judas and the Black Messiah,2021-02-12,reviewed_title_date_synopsis,search_148.json,14.5122,2026-10-15T21:55:02.075865+00:00
+2021,Mank,614560,Mank,2020-11-13,unique_title_year,search_149.json,8.7159,2026-10-15T21:55:02.463226+00:00
+2021,Minari,615643,Minari,2021-02-12,reviewed_title_date_synopsis,search_150.json,22.499,2026-10-15T21:55:02.849479+00:00
+2021,Nomadland,581734,Nomadland,2021-01-29,reviewed_title_date_synopsis,search_151.json,10.4509,2026-10-15T21:55:03.230497+00:00
+2021,Promising Young Woman,582014,Promising Young Woman,2020-12-13,unique_title_year,search_152.json,44.8716,2026-10-15T21:55:03.413750+00:00
+2021,Sound of Metal,502033,Sound of Metal,2020-11-20,unique_title_year,search_153.json,26.3125,2026-10-15T21:55:03.828122+00:00
+2021,The Father,600354,The Father,2020-12-23,unique_title_year,search_154.json,18.1834,2026-10-15T21:55:04.191630+00:00
+2021,The Trial of the Chicago 7,556984,The Trial of the Chicago 7,2020-09-25,unique_title_year,search_155.json,19.7826,2026-10-15T21:55:04.563869+00:00
+2022,Belfast,777270,Belfast,2021-11-12,unique_title_year,search_156.json,10.0365,2026-10-15T21:55:04.951942+00:00
+2022,CODA,776503,CODA,2021-08-13,reviewed_title_date_synopsis,search_157.json,12.7327,2026-10-15T21:55:05.323270+00:00
+2022,Don't Look Up,646380,Don't Look Up,2021-12-08,reviewed_title_date_synopsis,search_158.json,24.9391,2026-10-15T21:55:05.506082+00:00
+2022,Drive My Car,758866,Drive My Car,2021-08-18,unique_title_year,search_159.json,17.7559,2026-10-15T21:55:05.679612+00:00
+2022,Dune,438631,Dune,2021-09-15,reviewed_title_date_synopsis,search_160.json,84.2682,2026-10-15T21:55:07.621677+00:00
+2022,King Richard,614917,King Richard,2021-11-18,unique_title_year,search_161.json,21.3755,2026-10-15T21:55:07.798840+00:00
+2022,Licorice Pizza,718032,Licorice Pizza,2021-11-26,unique_title_year,search_162.json,40.9887,2026-10-15T21:55:08.169271+00:00
+2022,Nightmare Alley,597208,Nightmare Alley,2021-12-02,unique_title_year,search_163.json,22.6186,2026-10-15T21:55:09.143600+00:00
+2022,The Power of the Dog,600583,The Power of the Dog,2021-10-25,unique_title_year,search_164.json,23.3513,2026-10-15T21:55:09.500138+00:00
+2022,West Side Story,511809,West Side Story,2021-12-08,unique_title_year,search_165.json,35.4809,2026-10-15T21:55:09.931765+00:00
+2023,All Quiet on the Western Front,49046,All Quiet on the Western Front,2022-10-07,unique_title_year,search_166.json,28.907,2026-10-15T21:55:10.322000+00:00
+2023,Avatar: The Way of Water,76600,Avatar: The Way of Water,2022-12-14,unique_title_year,search_167.json,87.3816,2026-10-15T21:55:10.674867+00:00
+2023,Elvis,614934,Elvis,2022-06-22,unique_title_year,search_168.json,21.3439,2026-10-15T21:55:11.057820+00:00
+2023,Everything Everywhere All at Once,545611,Everything Everywhere All at Once,2022-03-24,unique_title_year,search_169.json,48.7839,2026-10-15T21:55:11.435514+00:00
+2023,The Banshees of Inisherin,674324,The Banshees of Inisherin,2022-10-20,unique_title_year,search_170.json,35.4765,2026-10-15T21:55:12.230764+00:00
+2023,The Fabelmans,804095,The Fabelmans,2022-11-11,unique_title_year,search_171.json,26.5344,2026-10-15T21:55:12.606822+00:00
+2023,Top Gun: Maverick,361743,Top Gun: Maverick,2022-05-21,unique_title_year,search_172.json,80.3943,2026-10-15T21:55:14.039652+00:00
+2023,Triangle of Sadness,497828,Triangle of Sadness,2022-09-18,unique_title_year,search_173.json,72.7465,2026-10-15T21:55:14.446731+00:00
+2023,Tár,817758,TÁR,2022-10-07,unique_title_year,search_174.json,12.156,2026-10-15T21:55:14.823172+00:00
+2023,Women Talking,777245,Women Talking,2022-12-23,unique_title_year,search_175.json,15.706,2026-10-15T21:55:15.484480+00:00
+2024,American Fiction,1056360,American Fiction,2023-11-10,unique_title_year,search_176.json,23.1854,2026-10-15T21:55:15.849099+00:00
+2024,Anatomy of a Fall,915935,Anatomy of a Fall,2023-08-23,unique_title_year,search_177.json,21.908,2026-10-15T21:55:16.231632+00:00
+2024,Barbie,346698,Barbie,2023-07-19,unique_title_year,search_178.json,35.2433,2026-10-15T21:55:16.607004+00:00
+2024,Killers of the Flower Moon,466420,Killers of the Flower Moon,2023-10-18,unique_title_year,search_179.json,76.7996,2026-10-15T21:55:17.008986+00:00
+2024,Maestro,523607,Maestro,2023-11-22,reviewed_title_date_synopsis,search_180.json,27.6691,2026-10-15T21:55:17.401611+00:00
+2024,Oppenheimer,872585,Oppenheimer,2023-07-19,unique_title_year,search_181.json,94.6202,2026-10-15T21:55:17.591231+00:00
+2024,Past Lives,666277,Past Lives,2023-06-02,reviewed_title_date_synopsis,search_182.json,34.5228,2026-10-15T21:55:17.974919+00:00
+2024,Poor Things,792307,Poor Things,2023-12-07,unique_title_year,search_183.json,62.5248,2026-10-15T21:55:18.151185+00:00
+2024,The Holdovers,840430,The Holdovers,2023-10-27,unique_title_year,search_184.json,20.9988,2026-10-15T21:55:18.540787+00:00
+2024,The Zone of Interest,467244,The Zone of Interest,2023-12-15,unique_title_year,search_185.json,15.0995,2026-10-15T21:55:19.913449+00:00
+2025,A Complete Unknown,661539,A Complete Unknown,2024-12-25,unique_title_year,search_186.json,31.5074,2026-10-15T21:55:20.294189+00:00
+2025,Anora,1064213,Anora,2024-10-14,unique_title_year,search_187.json,30.3969,2026-10-15T21:55:20.705370+00:00
+2025,Conclave,974576,Conclave,2024-10-25,unique_title_year,search_188.json,37.8072,2026-10-15T21:55:21.076868+00:00
+2025,Dune: Part Two,693134,Dune: Part Two,2024-02-27,unique_title_year,search_189.json,83.2501,2026-10-15T21:55:21.464322+00:00
+2025,Emilia Pérez,974950,Emilia Pérez,2024-08-21,unique_title_year,search_190.json,15.9488,2026-10-15T21:55:21.845713+00:00
+2025,I'm Still Here,1000837,I'm Still Here,2024-09-19,reviewed_title_date_synopsis,search_191.json,11.7493,2026-10-15T21:55:22.213627+00:00
+2025,Nickel Boys,1028196,Nickel Boys,2024-12-13,unique_title_year,search_192.json,9.8102,2026-10-15T21:55:22.389504+00:00
+2025,The Brutalist,549509,The Brutalist,2024-12-20,reviewed_title_date_synopsis,search_193.json,81.2669,2026-10-15T21:55:22.777829+00:00
+2025,The Substance,933260,The Substance,2024-09-18,unique_title_year,search_194.json,74.3118,2026-10-15T21:55:22.965201+00:00
+2025,Wicked,402431,Wicked,2024-10-16,unique_title_year,search_195.json,38.7033,2026-10-15T21:55:23.359023+00:00

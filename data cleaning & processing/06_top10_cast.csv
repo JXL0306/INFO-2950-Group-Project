@@ -1,0 +1,1956 @@
+tmdb_id,person_id,actor_name,character,billing_order,source_position,credit_id,gender_code,gender_category
+14,1979,Kevin Spacey,Lester Burnham,0,0,52fe420ec3a36847f80007db,2,male
+14,516,Annette Bening,Carolyn Burnham,1,1,52fe420ec3a36847f80007cf,1,female
+14,2155,Thora Birch,Jane Burnham,2,2,52fe420ec3a36847f80007d7,1,female
+14,8210,Wes Bentley,Ricky Fitts,3,3,52fe420ec3a36847f80007df,2,male
+14,8211,Mena Suvari,Angela Hayes,4,4,52fe420ec3a36847f80007e3,1,female
+14,8212,Peter Gallagher,Buddy Kane,5,5,52fe420ec3a36847f80007eb,2,male
+14,19,Allison Janney,Barbara Fitts,6,6,52fe420ec3a36847f80007ef,1,female
+14,2955,Chris Cooper,Colonel Fitts,7,7,52fe420ec3a36847f80007e7,2,male
+14,2154,Scott Bakula,Jim Olmeyer,8,8,52fe420ec3a36847f80007d3,2,male
+14,8213,Sam Robards,Jim Berkley,9,9,52fe420ec3a36847f80007f3,2,male
+1715,2219,Tobey Maguire,Homer Wells,0,0,52fe430fc3a36847f80376cf,2,male
+1715,6885,Charlize Theron,Candy Kendall,1,1,52fe430fc3a36847f80376d3,1,female
+1715,3895,Michael Caine,Dr. Wilbur Larch,2,2,52fe430fc3a36847f80376df,2,male
+1715,18792,Delroy Lindo,Arthur Rose,3,3,52fe430fc3a36847f80376d7,2,male
+1715,22226,Paul Rudd,Lt. Wally Worthington,4,4,52fe430fc3a36847f80376db,2,male
+1715,13724,Jane Alexander,Nurse Edna,5,5,52fe430fc3a36847f80376e3,1,female
+1715,1907,Kathy Baker,Nurse Angela,6,6,52fe430fc3a36847f80376e7,1,female
+1715,4237,Erykah Badu,Rose Rose,7,7,52fe430fc3a36847f80376eb,1,female
+1715,18793,Kieran Culkin,Buster,8,8,52fe430fc3a36847f80376ef,2,male
+1715,18794,Kate Nelligan,Olive Worthington,9,9,52fe430fc3a36847f80376f3,1,female
+497,31,Tom Hanks,Paul Edgecomb,0,0,52fe424ac3a36847f8012bc7,2,male
+497,52,David Morse,Brutus 'Brutal' Howell,1,1,52fe424ac3a36847f8012c0f,2,male
+497,5149,Bonnie Hunt,Jan Edgecomb,2,2,52fe424ac3a36847f8012c0b,1,female
+497,61981,Michael Clarke Duncan,John Coffey,3,3,52fe424ac3a36847f8012bcb,2,male
+497,2505,James Cromwell,Warden Hal Moores,4,4,52fe424ac3a36847f8012c2f,2,male
+497,2169,Michael Jeter,Eduard Delacroix,5,5,52fe424ac3a36847f8012c13,2,male
+497,6804,Graham Greene,Arlen Bitterbuck,6,6,52fe424ac3a36847f8012c17,2,male
+497,6806,Doug Hutchison,Percy Wetmore,7,7,52fe424ac3a36847f8012c27,2,male
+497,6807,Sam Rockwell,'Wild Bill' Wharton,8,8,52fe424ac3a36847f8012c2b,2,male
+497,12834,Barry Pepper,Dean Stanton,9,9,52fe424ac3a36847f8012c33,2,male
+9008,1158,Al Pacino,Lowell Bergman,0,0,52fe44d1c3a36847f80abae3,2,male
+9008,934,Russell Crowe,Jeffrey Wigand,1,1,52fe44d1c3a36847f80abae7,2,male
+9008,290,Christopher Plummer,Mike Wallace,2,2,52fe44d1c3a36847f80abaeb,2,male
+9008,6200,Diane Venora,Liane Wigand,3,3,52fe44d1c3a36847f80abaef,1,female
+9008,4492,Philip Baker Hall,Don Hewitt,4,4,52fe44d1c3a36847f80abaf3,2,male
+9008,32225,Lindsay Crouse,Sharon Tiller,5,5,52fe44d1c3a36847f80abaf7,1,female
+9008,5578,Debi Mazar,Debbie De Luca,6,6,52fe44d1c3a36847f80abafb,1,female
+9008,537,Stephen Tobolowsky,Eric Kluster,7,7,52fe44d1c3a36847f80abaff,2,male
+9008,10132,Colm Feore,Richard Scruggs,8,8,52fe44d1c3a36847f80abb03,2,male
+9008,14888,Bruce McGill,Ron Motley,9,9,52fe44d1c3a36847f80abb07,2,male
+745,62,Bruce Willis,Malcolm Crowe,0,0,52fe426fc3a36847f801e74b,2,male
+745,9640,Haley Joel Osment,Cole Sear,1,1,52fe426fc3a36847f801e74f,2,male
+745,3051,Toni Collette,Lynn Sear,2,2,52fe426fc3a36847f801e753,1,female
+745,11616,Olivia Williams,Anna Crowe,3,3,52fe426fc3a36847f801e757,1,female
+745,4940,Trevor Morgan,Tommy Tammisimo,4,4,52fe426fc3a36847f801e763,2,male
+745,2680,Donnie Wahlberg,Vincent Gray,5,5,52fe426fc3a36847f801e75f,2,male
+745,52861,Peter Anthony Tambakis,Darren,6,6,5497f2ebc3a368054b0011ba,2,male
+745,11619,Jeffrey Zubernis,Bobby,7,7,52fe426fc3a36847f801e76b,2,male
+745,11621,Bruce Norris,Stanley Cunningham,8,8,52fe426fc3a36847f801e785,2,male
+745,10694,Glenn Fitzgerald,Sean,9,9,52fe426fc3a36847f801e76f,2,male
+392,1137,Juliette Binoche,Vianne Rocher,0,0,52fe423dc3a36847f800ee67,1,female
+392,5309,Judi Dench,Armande Voizin,1,1,52fe423dc3a36847f800ee73,1,female
+392,658,Alfred Molina,Count Paul de Reynaud,2,2,52fe423dc3a36847f800ee6b,2,male
+392,5313,Lena Olin,Josephine Muscat,3,3,52fe423dc3a36847f800ee87,1,female
+392,85,Johnny Depp,Roux,4,4,52fe423dc3a36847f800ee7f,2,male
+392,5312,Hugh O'Conor,Father Henri,5,5,52fe423dc3a36847f800ee83,2,male
+392,530,Carrie-Anne Moss,Caroline Clairmont,6,6,52fe423dc3a36847f800ee6f,1,female
+392,8937,John Wood,Guillaume Blerot,7,7,52fe423ec3a36847f800ef4d,2,male
+392,53,Peter Stormare,Serge Muscat,8,8,52fe423dc3a36847f800ee8b,2,male
+392,5320,Leslie Caron,Mrs. Audel,9,9,52fe423dc3a36847f800eea7,1,female
+146,1619,Chow Yun-Fat,Li Mu Bai,0,0,52fe421ec3a36847f8005615,2,male
+146,1620,Michelle Yeoh,Yu Shu Lien,1,1,52fe421ec3a36847f80055c3,1,female
+146,1339,Zhang Ziyi,Jen,2,2,52fe421ec3a36847f80055c7,1,female
+146,1622,Chang Chen,Lo,3,3,52fe421ec3a36847f80055cb,2,male
+146,1623,Lung Sihung,Sir Te,4,4,52fe421ec3a36847f80055cf,2,male
+146,1624,Cheng Pei-pei,Jade Fox,5,5,52fe421ec3a36847f80055d3,1,female
+146,1625,Li Fazeng,Governor Yu,6,6,52fe421ec3a36847f80055d7,2,male
+146,1626,Gao Xian,Bo,7,7,52fe421ec3a36847f80055db,2,male
+146,1627,Hai Yan,Madame Yu,8,8,52fe421ec3a36847f80055df,1,female
+146,1628,Wang Deming,Tsai,9,9,52fe421ec3a36847f80055e3,2,male
+462,1204,Julia Roberts,Erin Brockovich,0,0,52fe4246c3a36847f801198d,1,female
+462,3926,Albert Finney,Ed Masry,1,1,52fe4246c3a36847f8011991,2,male
+462,6383,Aaron Eckhart,George,2,2,52fe4246c3a36847f8011995,2,male
+462,19838,Marg Helgenberger,Donna Jensen,3,3,52fe4246c3a36847f8011999,1,female
+462,1956,Cherry Jones,Pamela Duncan,4,4,52fe4246c3a36847f801199d,1,female
+462,26719,Veanne Cox,Theresa Dallavale,5,5,52fe4246c3a36847f80119a1,1,female
+462,1909,Conchata Ferrell,Brenda,6,6,52fe4246c3a36847f80119a5,1,female
+462,3801,Tracey Walter,Charles Embry,7,7,52fe4246c3a36847f80119a9,2,male
+462,9979,Peter Coyote,Kurt Potter,8,8,52fe4246c3a36847f80119ad,2,male
+462,1214447,Michael Harney,Pete Jensen,9,9,5e89703ab84f940018cb7272,2,male
+98,934,Russell Crowe,Maximus,0,0,52fe4217c3a36847f8003435,2,male
+98,73421,Joaquin Phoenix,Commodus,1,1,52fe4217c3a36847f8003439,2,male
+98,935,Connie Nielsen,Lucilla,2,2,52fe4217c3a36847f800343d,1,female
+98,936,Oliver Reed,Proximo,3,3,52fe4217c3a36847f8003441,2,male
+98,194,Richard Harris,Marcus Aurelius,4,4,52fe4217c3a36847f8003445,2,male
+98,937,Derek Jacobi,Gracchus,5,5,52fe4217c3a36847f8003449,2,male
+98,938,Djimon Hounsou,Juba,6,6,52fe4217c3a36847f800344d,2,male
+98,939,David Schofield,Falco,7,7,52fe4217c3a36847f8003451,2,male
+98,940,John Shrapnel,Gaius,8,8,52fe4217c3a36847f8003455,2,male
+98,941,Tomas Arana,Quintus,9,9,52fe4217c3a36847f8003459,2,male
+1900,3392,Michael Douglas,Robert Wakefield,0,0,52fe431fc3a36847f803c159,2,male
+1900,1121,Benicio del Toro,Javier Rodriguez,1,1,52fe431fc3a36847f803c15d,2,male
+1900,1922,Catherine Zeta-Jones,Helena Ayala,2,2,52fe431fc3a36847f803c171,1,female
+1900,21711,Erika Christensen,Caroline Wakefield,3,3,52fe431fc3a36847f803c179,1,female
+1900,1896,Don Cheadle,Montel Gordon,4,4,52fe431fc3a36847f803c17d,2,male
+1900,16429,Jacob Vargas,Manolo Sanchez,5,5,52fe431fc3a36847f803c161,2,male
+1900,15860,Miguel Ferrer,Eduardo Ruiz,6,6,52fe431fc3a36847f803c18f,2,male
+1900,40481,Luis Guzmán,Ray Castro,7,7,581085b7925141579e006e3c,2,male
+1900,17052,Topher Grace,Seth Abrahms,8,8,5810856fc3a3687a9d007061,2,male
+1900,21708,Tomas Milian,Gen. Arturo Salazar,9,9,52fe431fc3a36847f803c165,2,male
+453,934,Russell Crowe,John Nash,0,0,52fe4245c3a36847f80113a3,2,male
+453,6161,Jennifer Connelly,Alicia Nash,1,1,52fe4245c3a36847f80113ab,1,female
+453,228,Ed Harris,William Parcher,2,2,52fe4245c3a36847f80113a7,2,male
+453,6162,Paul Bettany,Charles Herman,3,3,52fe4245c3a36847f80113b3,2,male
+453,290,Christopher Plummer,Dr. Rosen,4,4,52fe4245c3a36847f80113af,2,male
+453,6163,Adam Goldberg,Richard Sol,5,5,52fe4245c3a36847f80113b7,2,male
+453,6164,Josh Lucas,Martin Hansen,6,6,52fe4245c3a36847f80113bb,2,male
+453,6165,Anthony Rapp,Bender,7,7,52fe4245c3a36847f80113bf,2,male
+453,6166,Jason Gray-Stanford,Ainsley Neilson,8,8,52fe4245c3a36847f80113c3,2,male
+453,6167,Judd Hirsch,Helinger,9,9,52fe4245c3a36847f80113c7,2,male
+5279,10978,Maggie Smith,Constance Trentham,0,0,52fe4401c3a36847f807cdff,1,female
+5279,5658,Michael Gambon,William McCordle,1,1,52fe4401c3a36847f807ce0f,2,male
+5279,5470,Kristin Scott Thomas,Sylvia McCordle,2,2,52fe4401c3a36847f807ce0b,1,female
+5279,38809,Camilla Rutherford,Isobel McCordle,3,3,52fe4401c3a36847f807ce37,1,female
+5279,4391,Charles Dance,Raymond Stockbridge,4,4,52fe4401c3a36847f807ce33,2,male
+5279,10988,Geraldine Somerville,Louisa Stockbridge,5,5,52fe4401c3a36847f807ce03,1,female
+5279,2441,Tom Hollander,Anthony Meredith,6,6,568df3acc3a36858f9001998,2,male
+5279,11277,Natasha Wightman,Lavinia Meredith,7,7,52fe4401c3a36847f807ce43,1,female
+5279,18325,Jeremy Northam,Ivor Novello,8,8,52fe4401c3a36847f807ce07,2,male
+5279,12438,Bob Balaban,Morris Weissman,9,9,52fe4401c3a36847f807ce3b,2,male
+1999,207,Tom Wilkinson,Matt Fowler,0,0,52fe432ac3a36847f803f60f,2,male
+1999,5606,Sissy Spacek,Ruth Fowler,1,1,52fe432ac3a36847f803f613,1,female
+1999,6408,Nick Stahl,Frank Fowler,2,2,52fe432ac3a36847f803f617,2,male
+1999,3141,Marisa Tomei,Natalie Strout,3,3,52fe432ac3a36847f803f61b,1,female
+1999,15338,William Mapother,Richard Strout,4,4,52fe432ac3a36847f803f61f,2,male
+1999,20542,William Wise,Willis Grinnel,5,5,52fe432ac3a36847f803f623,2,male
+1999,1989,Celia Weston,Katie Grinnel,6,6,52fe432ac3a36847f803f62b,1,female
+1999,650,Karen Allen,Marla Keyes,7,7,52fe432ac3a36847f803f627,1,female
+1999,20543,Frank T. Wells,Henry,8,8,52fe432ac3a36847f803f62f,0,unspecified
+1999,20544,W. Clapham Murray,Carl,9,9,52fe432ac3a36847f803f633,0,unspecified
+824,3061,Ewan McGregor,Christian,0,0,52fe427cc3a36847f802277d,2,male
+824,2227,Nicole Kidman,Satine,1,1,52fe427cc3a36847f8022779,1,female
+824,5723,John Leguizamo,Toulouse-Lautrec,2,2,52fe427cc3a36847f8022789,2,male
+824,388,Jim Broadbent,Harold Zidler,3,3,52fe427cc3a36847f8022785,2,male
+824,12206,Richard Roxburgh,The Duke,4,4,52fe427cc3a36847f8022781,2,male
+824,12211,Garry McDonald,The Doctor,5,5,52fe427cc3a36847f80227a1,2,male
+824,12210,Jacek Koman,The Unconscious Argentinean,6,6,52fe427cc3a36847f802279d,2,male
+824,12212,Matthew Whittet,Satie,7,7,52fe427cc3a36847f80227a5,2,male
+824,10756,Kerry Walker,Marie,8,8,52fe427cc3a36847f80227a9,1,female
+824,12209,Caroline O'Connor,Nini Legs in the Air,9,9,52fe427cc3a36847f8022799,1,female
+120,109,Elijah Wood,Frodo,0,0,52fe421ac3a36847f800448f,2,male
+120,1327,Ian McKellen,Gandalf,1,1,52fe421ac3a36847f8004493,2,male
+120,110,Viggo Mortensen,Aragorn,2,2,52fe421ac3a36847f8004497,2,male
+120,1328,Sean Astin,Sam,3,3,52fe421ac3a36847f80044af,2,male
+120,65,Ian Holm,Bilbo,4,4,52fe421ac3a36847f80044c3,2,male
+120,882,Liv Tyler,Arwen,5,5,52fe421ac3a36847f800449b,1,female
+120,113,Christopher Lee,Saruman,6,6,52fe421ac3a36847f80044ab,2,male
+120,48,Sean Bean,Boromir,7,7,52fe421ac3a36847f80044a7,2,male
+120,1329,Billy Boyd,Pippin,8,8,52fe421ac3a36847f80044b3,2,male
+120,1330,Dominic Monaghan,Merry,9,9,52fe421ac3a36847f80044b7,2,male
+1574,9137,Renée Zellweger,Roxie Hart,0,0,52fe42ffc3a36847f8032b81,1,female
+1574,1922,Catherine Zeta-Jones,Velma Kelly,1,1,52fe42ffc3a36847f8032b7d,1,female
+1574,1205,Richard Gere,Billy Flynn,2,2,52fe42ffc3a36847f8032b89,2,male
+1574,15758,Queen Latifah,Matron Mama Morton,3,3,52fe42ffc3a36847f8032b85,1,female
+1574,4764,John C. Reilly,Amos Hart,4,4,52fe42ffc3a36847f8032b9d,2,male
+1574,10132,Colm Feore,Harrison,5,5,52fe42ffc3a36847f8032ba1,2,male
+1574,17287,Dominic West,Fred Casely,6,6,52fe42ffc3a36847f8032b99,2,male
+1574,11870,Christine Baranski,Mary Sunshine,7,7,52fe42ffc3a36847f8032b8d,1,female
+1574,17644,Ekaterina Chtchelkanova,"Katalin Helinski ""Hunyak""",8,8,52fe42ffc3a36847f8032bb9,1,female
+1574,140,Lucy Liu,Kitty Baxter,9,9,52fe42ffc3a36847f8032bbd,1,female
+3131,6193,Leonardo DiCaprio,Amsterdam Vallon,0,0,52fe4389c3a36847f805bbc1,2,male
+3131,11856,Daniel Day-Lewis,Bill 'The Butcher' Cutting,1,1,52fe4389c3a36847f805bbc5,2,male
+3131,6941,Cameron Diaz,Jenny Everdeane,2,2,52fe4389c3a36847f805bbc9,1,female
+3131,388,Jim Broadbent,Boss Tweed,3,3,52fe4389c3a36847f805bc15,2,male
+3131,4764,John C. Reilly,Happy Jack,4,4,52fe4389c3a36847f805bc11,2,male
+3131,9976,Henry Thomas,Johnny Sirocco,5,5,52fe4389c3a36847f805bc8f,2,male
+3131,3896,Liam Neeson,'Priest' Vallon,6,6,52fe4389c3a36847f805bc09,2,male
+3131,2039,Brendan Gleeson,Walter 'Monk' McGinn,7,7,52fe4389c3a36847f805bc0d,2,male
+3131,480,Gary Lewis,McGloin,8,8,52fe4389c3a36847f805bc93,2,male
+3131,1115,Stephen Graham,Shang,9,9,58827eacc3a3681443011f6f,2,male
+590,2227,Nicole Kidman,Virginia Woolf,0,0,52fe4258c3a36847f80172a1,1,female
+590,1231,Julianne Moore,Laura Brown,1,1,52fe4258c3a36847f80172a5,1,female
+590,5064,Meryl Streep,Clarissa Vaughan,2,2,52fe4258c3a36847f80172a9,1,female
+590,8435,Stephen Dillane,Leonard Woolf,3,3,52fe4258c3a36847f80172ad,2,male
+590,1310666,Jack Rovello,Richie,4,4,5764f0dac3a3680ccb000bf1,2,male
+590,228,Ed Harris,Richard Brown,5,5,52fe4258c3a36847f80172dd,2,male
+590,8436,Miranda Richardson,Vanessa Bell,6,6,52fe4258c3a36847f80172b1,1,female
+590,4764,John C. Reilly,Dan Brown,7,7,52fe4258c3a36847f80172d1,2,male
+590,19,Allison Janney,Sally Lester,8,8,52fe4258c3a36847f80172e1,1,female
+590,8439,George Loftus,Quentin Bell,9,9,52fe4258c3a36847f80172b5,0,unspecified
+121,109,Elijah Wood,Frodo,0,0,52fe421ac3a36847f8004589,2,male
+121,1327,Ian McKellen,Gandalf,1,1,52fe421ac3a36847f800458d,2,male
+121,110,Viggo Mortensen,Aragorn,2,2,52fe421ac3a36847f8004591,2,male
+121,1328,Sean Astin,Sam,3,3,52fe421ac3a36847f80045a5,2,male
+121,1333,Andy Serkis,Gollum,4,4,52fe421ac3a36847f80045bd,2,male
+121,655,John Rhys-Davies,Gimli / Treebeard (voice),5,5,52fe421ac3a36847f800459d,2,male
+121,114,Orlando Bloom,Legolas,6,6,52fe421ac3a36847f8004599,2,male
+121,1369,Bernard Hill,Théoden,7,7,52fe421ac3a36847f80045b9,2,male
+121,502,Miranda Otto,Éowyn,8,8,52fe421ac3a36847f80045c5,1,female
+121,1330,Dominic Monaghan,Merry,9,9,52fe421ac3a36847f80045ad,2,male
+423,3490,Adrien Brody,Władysław 'Władek' Szpilman,0,0,52fe4241c3a36847f80101af,2,male
+423,3491,Thomas Kretschmann,Captain Wilm Hosenfeld,1,1,52fe4241c3a36847f80101b3,2,male
+423,6637,Frank Finlay,Father,2,2,52fe4241c3a36847f80101b7,2,male
+423,6638,Maureen Lipman,Mother,3,3,52fe4241c3a36847f80101bb,1,female
+423,6639,Emilia Fox,Dorota,4,4,52fe4241c3a36847f80101bf,1,female
+423,6640,Ed Stoppard,Henryk Szpilman,5,5,52fe4241c3a36847f80101c3,2,male
+423,6641,Julia Rayner,Regina Szpilman,6,6,52fe4241c3a36847f80101c7,1,female
+423,6642,Jessica Kate Meyer,Halina Szpilman,7,7,52fe4241c3a36847f80101cb,1,female
+423,6643,Michał Żebrowski,Jurek,8,8,52fe4241c3a36847f80101cf,2,male
+423,6644,Wanja Mues,SS Slapping Father,9,9,52fe4241c3a36847f80101d3,2,male
+153,1532,Bill Murray,Bob Harris,0,0,52fe421fc3a36847f8005b35,2,male
+153,1245,Scarlett Johansson,Charlotte,1,1,52fe421fc3a36847f8005b39,1,female
+153,1771,Giovanni Ribisi,John,2,2,52fe421fc3a36847f8005b41,2,male
+153,1772,Anna Faris,Kelly,3,3,52fe421fc3a36847f8005b45,1,female
+153,1770,Akiko Takeshita,Ms. Kawasaki,4,4,52fe421fc3a36847f8005b3d,1,female
+153,1773,Kazuyoshi Minamimagoe,Press Agent,5,5,52fe421fc3a36847f8005b49,1,female
+153,1774,Kazuko Shibata,Press Agent,6,6,52fe421fc3a36847f8005b4d,1,female
+153,1775,Take,Press Agent,7,7,52fe421fc3a36847f8005b51,0,unspecified
+153,2510694,Ryuichiro Baba,Concierge,8,8,5e1f1077e559370015246bc0,2,male
+153,5399776,Akira Yamaguchi,Bellboy,9,9,680e1935baac1c5a7d8116dc,2,male
+8619,934,Russell Crowe,Captain Jack Aubrey,0,0,52fe44b1c3a36847f80a493d,2,male
+8619,6162,Paul Bettany,Dr. Stephen Maturin,1,1,52fe44b1c3a36847f80a4941,2,male
+8619,19655,James D'Arcy,1st Lt. Thomas Pullings,2,2,52fe44b1c3a36847f80a4945,2,male
+8619,47643,Robert Pugh,"Mr. Allen, Master",3,3,52fe44b1c3a36847f80a49bb,2,male
+8619,59081,David Threlfall,"Preserved Killick, Captain's Steward",4,4,52fe44b1c3a36847f80a49cb,2,male
+8619,229672,Lee Ingleby,Midshipman Hollom,5,5,52fe44b1c3a36847f80a49b3,2,male
+8619,215661,Max Pirkis,Midshipman Blakeney,6,6,52fe44b1c3a36847f80a49a7,2,male
+8619,1032202,Max Benitz,Midshipman Calamy,7,7,52fe44b1c3a36847f80a49af,2,male
+8619,1329,Billy Boyd,"Barrent Bonden, Coxswain",8,8,52fe44b1c3a36847f80a4949,2,male
+8619,219496,Edward Woodall,2nd Lt. William Mowett,9,9,52fe44b1c3a36847f80a499f,2,male
+322,2228,Sean Penn,Jimmy Markum,0,0,52fe4238c3a36847f800d061,2,male
+322,504,Tim Robbins,Dave Boyle,1,1,52fe4238c3a36847f800d065,2,male
+322,4724,Kevin Bacon,Sean Devine,2,2,52fe4238c3a36847f800d069,2,male
+322,2975,Laurence Fishburne,Whitey Powers,3,3,52fe4238c3a36847f800d0e5,2,male
+322,4726,Marcia Gay Harden,Celeste Boyle,4,4,52fe4238c3a36847f800d06d,1,female
+322,350,Laura Linney,Annabeth Markum,5,5,52fe4238c3a36847f800d0e9,1,female
+322,4728,Kevin Chapman,Val Savage,6,6,52fe4238c3a36847f800d071,2,male
+322,4729,Tom Guiry,Brendan Harris,7,7,52fe4238c3a36847f800d075,2,male
+322,4730,Emmy Rossum,Katie Markum,8,8,52fe4238c3a36847f800d079,1,female
+322,4012,Spencer Treat Clark,Silent Ray Harris,9,9,52fe4238c3a36847f800d07d,2,male
+4464,2219,Tobey Maguire,Red Pollard,0,0,52fe43c4c3a36847f806de2d,2,male
+4464,37332,David McCullough,Narrator,1,1,52fe43c4c3a36847f806ddb5,2,male
+4464,1229,Jeff Bridges,Charles Howard,2,2,52fe43c4c3a36847f806ddb9,2,male
+4464,2955,Chris Cooper,Tom Smith,3,3,52fe43c4c3a36847f806de29,2,male
+4464,9281,Elizabeth Banks,Marcela Howard,4,4,52fe43c4c3a36847f806de31,1,female
+4464,38272,Gary L. Stevens,George Woolf,5,5,52fe43c4c3a36847f806de35,2,male
+4464,8692,Eddie Jones,Samuel D. Riddle,6,6,52fe43c4c3a36847f806de41,2,male
+4464,3905,William H. Macy,Tick Tock McGlaughlin,7,7,52fe43c4c3a36847f806de39,2,male
+4464,22251,Royce D. Applegate,Dutch Doogan,8,8,52fe43c4c3a36847f806de3d,2,male
+4464,38273,Chris McCarron,Charley Kurtsinger,9,9,52fe43c4c3a36847f806de45,0,unspecified
+122,109,Elijah Wood,Frodo,0,0,52fe421bc3a36847f80046f7,2,male
+122,1327,Ian McKellen,Gandalf,1,1,52fe421bc3a36847f80046fb,2,male
+122,110,Viggo Mortensen,Aragorn,2,2,52fe421bc3a36847f80046ff,2,male
+122,1328,Sean Astin,Sam,3,3,52fe421bc3a36847f800470f,2,male
+122,1333,Andy Serkis,Gollum / Smeagol,4,4,52fe421bc3a36847f8004723,2,male
+122,1330,Dominic Monaghan,Merry,5,5,52fe421bc3a36847f8004717,2,male
+122,1329,Billy Boyd,Pippin,6,6,52fe421bc3a36847f8004713,2,male
+122,1381,John Noble,Denethor,7,7,52fe421bc3a36847f8004733,2,male
+122,1371,David Wenham,Faramir,8,8,52fe421bc3a36847f800472b,2,male
+122,502,Miranda Otto,Éowyn,9,9,52fe421bc3a36847f8004727,1,female
+866,85,Johnny Depp,Sir James Matthew Barrie,0,0,52fe4284c3a36847f802531b,2,male
+866,204,Kate Winslet,Sylvia Llewelyn Davies,1,1,52fe4284c3a36847f802531f,1,female
+866,1666,Julie Christie,Mrs. Emma du Maurier,2,2,52fe4284c3a36847f8025323,1,female
+866,4483,Dustin Hoffman,Charles Frohman,3,3,52fe4284c3a36847f8025327,2,male
+866,1281,Freddie Highmore,Peter Llewelyn Davies,4,4,52fe4284c3a36847f802532b,2,male
+866,8329,Radha Mitchell,Mary Ansell Barrie,5,5,52fe4284c3a36847f802532f,1,female
+866,13010,Kate Maberly,Wendy,6,6,52fe4284c3a36847f8025333,1,female
+866,13011,Joe Prospero,Jack Llewelyn Davies,7,7,52fe4284c3a36847f8025337,2,male
+866,13012,Nick Roud,George Llewelyn Davies,8,8,52fe4284c3a36847f802533b,2,male
+866,13013,Luke Spill,Michael Llewelyn Davies,9,9,52fe4284c3a36847f802533f,2,male
+70,190,Clint Eastwood,Frankie Dunn,0,0,52fe4213c3a36847f8002015,2,male
+70,448,Hilary Swank,Maggie Fitzgerald,1,1,52fe4213c3a36847f8002079,1,female
+70,192,Morgan Freeman,Eddie Scrap-Iron Dupris,2,2,52fe4213c3a36847f8002083,2,male
+70,449,Jay Baruchel,Danger Barch,3,3,52fe4213c3a36847f8002019,2,male
+70,450,Mike Colter,Big Willie Little,4,4,52fe4213c3a36847f800201d,2,male
+70,451,Lucia Rijker,Billie 'The Blue Bear',5,5,52fe4213c3a36847f8002021,1,female
+70,31713,Brían F. O'Byrne,Father Horvak,6,6,52fe4213c3a36847f8002091,2,male
+70,53650,Anthony Mackie,Shawrelle Berry,7,7,52fe4213c3a36847f8002087,2,male
+70,452,Margo Martindale,Earline Fitzgerald,8,8,52fe4213c3a36847f8002025,1,female
+70,453,Riki Lindhome,Mardell Fitzgerald,9,9,52fe4213c3a36847f8002029,1,female
+1677,134,Jamie Foxx,Ray Charles,0,0,52fe430bc3a36847f80363df,2,male
+1677,11703,Kerry Washington,Della Bea Robinson,1,1,52fe430bc3a36847f80363e3,1,female
+1677,9788,Regina King,Margie Hendricks,2,2,52fe430bc3a36847f80363e7,1,female
+1677,9464,Harry Lennix,Joe Adams,3,3,52fe430bc3a36847f80363eb,2,male
+1677,58924,Clifton Powell,Jeff Brown,4,4,52fe430bc3a36847f80363fb,2,male
+1677,71913,Bokeem Woodbine,Fathead Newman,5,5,52fe430bc3a36847f80363ff,2,male
+1677,1192675,Sharon Warren,Aretha Robinson,6,6,52fe430bc3a36847f8036407,0,unspecified
+1677,1192676,C.J. Sanders,Young Ray Robinson,7,7,52fe430bc3a36847f803640b,2,male
+1677,87003,Curtis Armstrong,Ahmet Ertegun,8,8,52fe430bc3a36847f803640f,2,male
+1677,31028,Richard Schiff,Jerry Wexler,9,9,52fe430bc3a36847f8036413,2,male
+9675,13242,Paul Giamatti,Miles,0,0,52fe4519c3a36847f80bc6f9,2,male
+9675,19159,Thomas Haden Church,Jack,1,1,52fe4519c3a36847f80bc6fd,2,male
+9675,12519,Virginia Madsen,Maya,2,2,52fe4519c3a36847f80bc701,1,female
+9675,25540,Sandra Oh,Stephanie,3,3,52fe4519c3a36847f80bc705,1,female
+9675,57823,Marylouise Burke,Miles's Mother,4,4,52fe4519c3a36847f80bc74b,1,female
+9675,14984,Jessica Hecht,Victoria,5,5,52fe4519c3a36847f80bc74f,1,female
+9675,1223003,Missy Doty,Cammi,6,6,52fe4519c3a36847f80bc753,1,female
+9675,22132,M.C. Gainey,Cammi's Husband,7,7,52fe4519c3a36847f80bc773,2,male
+9675,109740,Alysia Reiner,Christine Erganian,8,8,52fe4519c3a36847f80bc757,1,female
+9675,1127469,Shake Tukhmanyan,Mrs. Erganian,9,9,52fe4519c3a36847f80bc75b,1,female
+2567,6193,Leonardo DiCaprio,Howard Hughes,0,0,52fe435dc3a36847f804ed4b,2,male
+2567,112,Cate Blanchett,Katharine Hepburn,1,1,52fe435dc3a36847f804ed4f,1,female
+2567,3967,Kate Beckinsale,Ava Gardner,2,2,52fe435dc3a36847f804ed57,1,female
+2567,4764,John C. Reilly,Noah Dietrich,3,3,52fe435dc3a36847f804ed53,2,male
+2567,7447,Alec Baldwin,Juan Trippe,4,4,52fe435dc3a36847f804ed5b,2,male
+2567,21278,Alan Alda,Senator Ralph Owen Brewster,5,5,52fe435dc3a36847f804ed5f,2,male
+2567,65,Ian Holm,Professor Fitz,6,6,52fe435dc3a36847f804ed63,2,male
+2567,6413,Danny Huston,Jack Frye,7,7,52fe435dc3a36847f804ed6f,2,male
+2567,77070,Gwen Stefani,Jean Harlow,8,8,539c53ffc3a36810da002304,1,female
+2567,9642,Jude Law,Errol Flynn,9,9,52fe435dc3a36847f804ed67,2,male
+142,1810,Heath Ledger,Ennis Del Mar,0,0,52fe421dc3a36847f8005317,2,male
+142,131,Jake Gyllenhaal,Jack Twist,1,1,52fe421dc3a36847f800531b,2,male
+142,1812,Michelle Williams,Alma Beers,2,2,52fe421dc3a36847f8005323,1,female
+142,1813,Anne Hathaway,Lureen Newsome,3,3,52fe421dc3a36847f8005327,1,female
+142,1811,Randy Quaid,Joe Aguirre,4,4,52fe421dc3a36847f800531f,2,male
+142,1817,Linda Cardellini,Cassie Cartwright,5,5,52fe421dc3a36847f8005337,1,female
+142,1772,Anna Faris,Lashawn Malone,6,6,52fe421dc3a36847f800533b,1,female
+142,35029,David Harbour,Randall Malone,7,7,58c99d629251410cb7000228,2,male
+142,10362,Roberta Maxwell,Jack's Mother,8,8,58fac4fe92514163f50054ba,1,female
+142,51072,Kate Mara,Alma Del Mar Jr. (age 19),9,9,52fe421dc3a36847f800533f,1,female
+398,1233,Philip Seymour Hoffman,Truman Capote,0,0,52fe423ec3a36847f800f269,2,male
+398,2229,Catherine Keener,Harper Lee,1,1,52fe423ec3a36847f800f297,1,female
+398,5365,Clifton Collins Jr.,Perry Smith,2,2,52fe423ec3a36847f800f2e1,2,male
+398,21089,Bruce Greenwood,Jack Dunphy,3,3,532f294ec3a3685fac00473e,2,male
+398,12438,Bob Balaban,William Shawn,4,4,5a384c36c3a3680b881f3b99,2,male
+398,1236,Mark Pellegrino,Dick Hickock,5,5,52fe423ec3a36847f800f2e5,2,male
+398,3041,Marshall Bell,Warden Marshall Krutch,6,6,5e05379b9bcd0f00170cacc2,2,male
+398,39388,Amy Ryan,Marie Dewey,7,7,52fe423ec3a36847f800f2e9,1,female
+398,109899,Bess Meyer,Linda Murchak,8,8,5e0537c8d236e6001299f204,1,female
+398,2955,Chris Cooper,Alvin Dewey,9,9,52fe423ec3a36847f800f2dd,2,male
+1640,1896,Don Cheadle,Det. Graham Waters,0,0,52fe4307c3a36847f8035041,2,male
+1640,18277,Sandra Bullock,Jean Cabot,1,1,52fe4307c3a36847f803503d,1,female
+1640,18269,Brendan Fraser,Rick Cabot,2,2,52fe4307c3a36847f8035051,2,male
+1640,2876,Matt Dillon,Officer John Ryan,3,3,52fe4307c3a36847f8035049,2,male
+1640,18285,Jennifer Esposito,Ria,4,4,52fe4307c3a36847f803504d,1,female
+1640,454,Michael Peña,Daniel Ruiz,5,5,52fe4307c3a36847f8035045,2,male
+1640,18288,Terrence Howard,Cameron Thayer,6,6,52fe4307c3a36847f8035059,2,male
+1640,9030,Thandiwe Newton,Christine Thayer,7,7,52fe4307c3a36847f8035061,1,female
+1640,8171,Ludacris,Anthony,8,8,52fe4307c3a36847f803505d,2,male
+1640,18291,Larenz Tate,Peter,9,9,52fe4307c3a36847f803506d,2,male
+3291,11064,David Strathairn,Edward R. Murrow,0,0,52fe438fc3a36847f805dae3,2,male
+3291,1276,Patricia Clarkson,Shirley Wershba,1,1,52fe438fc3a36847f805dafb,1,female
+3291,1461,George Clooney,Fred Friendly,2,2,52fe438fc3a36847f805db03,2,male
+3291,8447,Jeff Daniels,Sig Mickelson,3,3,52fe438fc3a36847f805dadf,2,male
+3291,3223,Robert Downey Jr.,Joe Wershba,4,4,52fe438fc3a36847f805daff,2,male
+3291,8924,Frank Langella,William Paley,5,5,52fe438fc3a36847f805db27,2,male
+3291,6719,Ray Wise,Don Hollenbeck,6,6,52fe438fc3a36847f805db1b,2,male
+3291,31512,Robert John Burke,Charlie Mack,7,7,52fe438fc3a36847f805db17,2,male
+3291,31508,Reed Diamond,John Aaron,8,8,52fe438fc3a36847f805daf3,2,male
+3291,15455,Tate Donovan,Jesse Zousmer,9,9,52fe438fc3a36847f805daef,2,male
+612,8783,Eric Bana,Avner,0,0,52fe425dc3a36847f8018a81,2,male
+612,8784,Daniel Craig,Steve,1,1,52fe425dc3a36847f8018a85,2,male
+612,8785,Ciarán Hinds,Carl,2,2,52fe425dc3a36847f8018a89,2,male
+612,2406,Mathieu Kassovitz,Robert,3,3,52fe425dc3a36847f8018a8d,2,male
+612,169,Hanns Zischler,Hans,4,4,52fe425dc3a36847f8018a91,2,male
+612,8786,Ayelet Zurer,Daphna,5,5,52fe425dc3a36847f8018a95,1,female
+612,118,Geoffrey Rush,Ephraim,6,6,52fe425dc3a36847f8018a99,2,male
+612,8787,Gila Almagor,Avner's Mother,7,7,52fe425dc3a36847f8018a9d,1,female
+612,2369,Michael Lonsdale,Papa,8,8,52fe425dc3a36847f8018aeb,2,male
+612,8789,Mathieu Amalric,Louis,9,9,52fe425dc3a36847f8018aa1,2,male
+1164,287,Brad Pitt,Richard Jones,0,0,52fe42e9c3a36847f802c221,2,male
+1164,18054,Rinko Kikuchi,Chieko,1,1,52fe42e9c3a36847f802c2a1,1,female
+1164,270,Adriana Barraza,Amelia,2,2,52fe42e9c3a36847f802c299,1,female
+1164,112,Cate Blanchett,Susan Jones,3,3,52fe42e9c3a36847f802c225,1,female
+1164,18061,Satoshi Nikaido,Kenji Mamiya,4,4,5f178f4e78570e00346cc65e,2,male
+1164,18045,Said Tarchani,Ahmed,5,5,57d735409251412041002730,2,male
+1164,18044,Boubker Ait El Caid,Yussef,6,6,57cca980c3a36872eb002c6c,2,male
+1164,258,Gael García Bernal,Santiago,7,7,52fe42e9c3a36847f802c29d,2,male
+1164,18052,Nathan Gamble,Mike Jones,8,8,57cca30d92514126130049e5,2,male
+1164,18050,Elle Fanning,Debbie Jones,9,9,5754e5a6c3a3685f81001735,1,female
+1251,3899,Ken Watanabe,General Tadamichi Kuribayashi,0,0,52fe42eac3a36847f802c887,2,male
+1251,33515,Kazunari Ninomiya,Private Saigo,1,1,52fe42eac3a36847f802c88b,2,male
+1251,33516,Tsuyoshi Ihara,Colonel Baron Nishi,2,2,52fe42eac3a36847f802c88f,2,male
+1251,33517,Ryo Kase,Private Shimizu,3,3,52fe42eac3a36847f802c893,2,male
+1251,72202,Shido Nakamura,Lieutenant Ito,4,4,52fe42eac3a36847f802c8dd,2,male
+1251,33519,Hiroshi Watanabe,Lieutenant Fujita,5,5,52fe42eac3a36847f802c897,2,male
+1251,1011669,Takumi Bando,Captain Tanida,6,6,60b2ce2efd140b0059783391,2,male
+1251,77955,Yuki Matsuzaki,Private Nozaki,7,7,52fe42eac3a36847f802c8d9,2,male
+1251,1857018,Takashi Yamaguchi,Kashiwara,8,8,638c45d08d77c400b80eb61a,2,male
+1251,33520,Eijiro Ozaki,Lieutenant Okubo,9,9,52fe42eac3a36847f802c89b,2,male
+773,17141,Greg Kinnear,Richard Hoover,0,0,52fe4274c3a36847f80200c7,2,male
+773,3051,Toni Collette,Sheryl Hoover,1,1,52fe4274c3a36847f80200c3,1,female
+773,4495,Steve Carell,Frank Ginsberg,2,2,52fe4274c3a36847f80200d3,2,male
+773,17142,Paul Dano,Dwayne Hoover,3,3,52fe4274c3a36847f80200cb,2,male
+773,17140,Abigail Breslin,Olive Hoover,4,4,52fe4274c3a36847f80200bf,1,female
+773,1903,Alan Arkin,Edwin Hoover,5,5,52fe4274c3a36847f80200cf,2,male
+773,17419,Bryan Cranston,Stan Grossman,6,6,54910f6ac3a368465a000abb,2,male
+773,5151,Beth Grant,Nancy Jenkins,7,7,577cf9cd9251413bd8002608,1,female
+773,17421,Wallace Langham,Kirby,8,8,577d76b19251415da10026be,2,male
+773,35521,Matt Winston,Pageant MC,9,9,577d76c99251415d9500273a,2,male
+1422,6193,Leonardo DiCaprio,Billy,0,0,52fe42f5c3a36847f802fecf,2,male
+1422,1892,Matt Damon,Colin,1,1,52fe42f5c3a36847f802ff1f,2,male
+1422,514,Jack Nicholson,Costello,2,2,52fe42f5c3a36847f802fed9,2,male
+1422,13240,Mark Wahlberg,Dignam,3,3,52fe42f5c3a36847f802fedd,2,male
+1422,8349,Martin Sheen,Queenan,4,4,52fe42f5c3a36847f802ff23,2,male
+1422,5538,Ray Winstone,Mr. French,5,5,52fe42f5c3a36847f802fee7,2,male
+1422,21657,Vera Farmiga,Madolyn,6,6,52fe42f5c3a36847f802ff17,1,female
+1422,18471,Anthony Anderson,Brown,7,7,52fe42f5c3a36847f802feeb,2,male
+1422,7447,Alec Baldwin,Ellerby,8,8,52fe42f5c3a36847f802feef,2,male
+1422,18472,Kevin Corrigan,Cousin Sean,9,9,52fe42f5c3a36847f802fef3,2,male
+1165,15735,Helen Mirren,The Queen,0,0,52fe42e9c3a36847f802c35f,1,female
+1165,3968,Michael Sheen,Tony Blair,1,1,52fe42e9c3a36847f802c363,2,male
+1165,2505,James Cromwell,Prince Philip,2,2,52fe42e9c3a36847f802c367,2,male
+1165,15737,Helen McCrory,Cherie Blair,3,3,52fe42e9c3a36847f802c36f,1,female
+1165,15739,Alex Jennings,Prince Charles,4,4,52fe42e9c3a36847f802c377,2,male
+1165,11279,Roger Allam,Robin Janvrin,5,5,52fe42e9c3a36847f802c37b,2,male
+1165,15736,Sylvia Syms,Queen Mother,6,6,52fe42e9c3a36847f802c36b,1,female
+1165,15738,Paul Barrett,Trevor Rees-Jones,7,7,52fe42e9c3a36847f802c373,2,male
+1165,15740,Tim McMullan,Stephen Lamport,8,8,52fe42e9c3a36847f802c37f,2,male
+1165,994133,Douglas Reith,Lord Airlie,9,9,5697cf6dc3a36876050000ed,2,male
+4347,5530,James McAvoy,Robbie Turner,0,0,52fe43bbc3a36847f806b5b5,2,male
+4347,116,Keira Knightley,Cecilia Tallis,1,1,52fe43bbc3a36847f806b5b1,1,female
+4347,36592,Saoirse Ronan,Briony Tallis (Age 13),2,2,52fe43bbc3a36847f806b5bd,1,female
+4347,6979,Romola Garai,Briony Tallis (Age 18),3,3,52fe43bbc3a36847f806b5b9,1,female
+4347,13333,Vanessa Redgrave,Briony Tallis (Age 77),4,4,52fe43bbc3a36847f806b5c5,1,female
+4347,4154,Brenda Blethyn,Grace Turner,5,5,52fe43bbc3a36847f806b5c1,1,female
+4347,36594,Juno Temple,Lola Quincey,6,6,52fe43bbc3a36847f806b5c9,1,female
+4347,71580,Benedict Cumberbatch,Paul Marshall,7,7,52fe43bbc3a36847f806b5d3,2,male
+4347,17477,Harriet Walter,Emily Tallis,8,8,52fe43bbc3a36847f806b5d7,1,female
+4347,71586,Alfie Allen,Danny Hardman,9,9,52fe43bbc3a36847f806b5db,2,male
+7326,27578,Elliot Page,Juno MacGuff,0,0,62ca09a3498bc20698a17853,3,nonbinary
+7326,39995,Michael Cera,Paulie Bleeker,1,1,52fe4479c3a36847f80984cb,2,male
+7326,9278,Jennifer Garner,Vanessa Loring,2,2,52fe4479c3a36847f80984cf,1,female
+7326,23532,Jason Bateman,Mark Loring,3,3,52fe4479c3a36847f80984d3,2,male
+7326,18999,J.K. Simmons,Mac MacGuff,4,4,52fe4479c3a36847f80984db,2,male
+7326,19,Allison Janney,Bren MacGuff,5,5,52fe4479c3a36847f80984d7,1,female
+7326,52442,Olivia Thirlby,Leah,6,6,52fe4479c3a36847f80984df,1,female
+7326,52457,Eileen Pedde,Gerta Rauss,7,7,52fe4479c3a36847f80984e3,1,female
+7326,11678,Rainn Wilson,Rollo,8,8,52fe4479c3a36847f80984e7,2,male
+7326,52458,Daniel Clark,Steve Rendazo,9,9,52fe4479c3a36847f80984eb,2,male
+4566,1461,George Clooney,Michael Clayton,0,0,52fe43cdc3a36847f8070bdd,2,male
+4566,207,Tom Wilkinson,Arthur Edens,1,1,52fe43cdc3a36847f8070be1,2,male
+4566,3063,Tilda Swinton,Karen Crowder,2,2,52fe43cdc3a36847f8070be5,1,female
+4566,2226,Sydney Pollack,Marty Bach,3,3,52fe43cdc3a36847f8070be9,2,male
+4566,38085,Michael O'Keefe,Barry Grissom,4,4,52fe43cdc3a36847f8070bed,2,male
+4566,18328,Ken Howard,Don Jeffries,5,5,5f868ed469eb900038c22438,2,male
+4566,104196,Sean Cullen,Gene Clayton,6,6,5f869056a275020037c8c922,2,male
+4566,28044,Merritt Wever,Anna,7,7,55d42b8992514102cf001366,1,female
+4566,78144,Austin Williams,Henry Clayton,8,8,52fe43cdc3a36847f8070bfd,2,male
+4566,38086,Robert Prescott,Mr. Verne,9,9,52fe43cdc3a36847f8070bf1,2,male
+6977,3810,Javier Bardem,Anton Chigurh,0,0,52fe446dc3a36847f80957b3,2,male
+6977,2176,Tommy Lee Jones,Ed Tom Bell,1,1,52fe446dc3a36847f80957af,2,male
+6977,16851,Josh Brolin,Llewelyn Moss,2,2,52fe446dc3a36847f80957b7,2,male
+6977,57755,Woody Harrelson,Carson Wells,3,3,52fe446dc3a36847f80957bb,2,male
+6977,9015,Kelly Macdonald,Carla Jean Moss,4,4,52fe446dc3a36847f80957bf,1,female
+6977,39520,Garret Dillahunt,Wendell,5,5,52fe446dc3a36847f80957c3,2,male
+6977,41249,Tess Harper,Loretta Bell,6,6,52fe446dc3a36847f80957c7,1,female
+6977,12852,Barry Corbin,Ellis,7,7,52fe446dc3a36847f80957cb,2,male
+6977,17401,Stephen Root,Man Who Hires Wells,8,8,52fe446dc3a36847f80957cf,2,male
+6977,51732,Rodger Boyce,El Paso Sheriff,9,9,52fe446dc3a36847f80957d3,2,male
+7345,11856,Daniel Day-Lewis,Daniel Plainview,0,0,52fe447bc3a36847f8098a27,2,male
+7345,17142,Paul Dano,Paul Sunday / Eli Sunday,1,1,52fe447bc3a36847f8098a61,2,male
+7345,18916,Kevin J. O'Connor,Henry,2,2,52fe447bc3a36847f8098a65,2,male
+7345,8785,Ciarán Hinds,Fletcher Hamilton,3,3,52fe447bc3a36847f8098a69,2,male
+7345,52564,Dillon Freasier,H.W. Plainview,4,4,52fe447bc3a36847f8098a6d,2,male
+7345,52565,Hope Elizabeth Reeves,Elizabeth,5,5,52fe447bc3a36847f8098a71,0,unspecified
+7345,52566,Colleen Foy,Mary Sunday,6,6,52fe447bc3a36847f8098a75,1,female
+7345,8214,Barry Del Sherman,H. B. Ailman,7,7,52fe447bc3a36847f8098a79,2,male
+7345,53668,David Willis,Abel Sunday,8,8,52fe447bc3a36847f8098a7d,2,male
+7345,53669,Hans Howes,Mr. Bandy,9,9,52fe447bc3a36847f8098a81,2,male
+11499,8924,Frank Langella,Richard Nixon,0,0,52fe444c9251416c7502fc5d,2,male
+11499,3968,Michael Sheen,David Frost,1,1,52fe444c9251416c7502fc61,2,male
+11499,4724,Kevin Bacon,Jack Brennan,2,2,52fe444c9251416c7502fc55,2,male
+11499,15556,Rebecca Hall,Caroline Cushing,3,3,52fe444c9251416c7502fc73,1,female
+11499,13014,Toby Jones,Swifty Lazar,4,4,52fe444c9251416c7502fc77,2,male
+11499,15576,Matthew Macfadyen,John Birt,5,5,52fe444c9251416c7502fc6b,2,male
+11499,17485,Oliver Platt,Bob Zelnick,6,6,52fe444c9251416c7502fc6f,2,male
+11499,6807,Sam Rockwell,James Reston Jr.,7,7,52fe444c9251416c7502fc59,2,male
+11499,15661,Clint Howard,Lloyd Davis,8,8,52fe444c9251416c7502fc93,2,male
+11499,125026,Patty McCormack,Pat Nixon,9,9,52fe444c9251416c7502fc8b,1,female
+10139,2228,Sean Penn,Harvey Milk,0,0,52fe43339251416c75007555,2,male
+10139,46593,Emile Hirsch,Cleve Jones,1,1,52fe43339251416c75007559,2,male
+10139,16851,Josh Brolin,Dan White,2,2,52fe43339251416c75007561,2,male
+10139,8688,Diego Luna,Jack Lira,3,3,52fe43339251416c75007565,2,male
+10139,17051,James Franco,Scott Smith,4,4,52fe43339251416c7500755d,2,male
+10139,17486,Alison Pill,Anne Kronenberg,5,5,52fe43339251416c75007581,1,female
+10139,8536,Victor Garber,Mayor Moscone,6,6,52fe43339251416c75007585,2,male
+10139,81681,Denis O'Hare,John Briggs,7,7,52fe43339251416c75007589,2,male
+10139,33528,Joseph Cross,Dick Pabich,8,8,52fe43339251416c7500758d,2,male
+10139,57093,Stephen Spinella,Rick Stokes,9,9,52fe43339251416c75007591,2,male
+12405,76788,Dev Patel,Older Jamal,0,0,5de4d4233faba000190f75a3,2,male
+12405,76792,Freida Pinto,Older Latika,1,1,5de4d4527646fd0013945d97,1,female
+12405,964549,Madhur Mittal,Older Salim,2,2,5de4d96b11386c001650ad90,2,male
+12405,72118,Anil Kapoor,Prem,3,3,5de4d435a7e36300166d0ca1,2,male
+12405,85456,Mahesh Manjrekar,Javed,4,4,5de4d4913faba000190f7617,2,male
+12405,76789,Saurabh Shukla,Sergeant Srinivas,5,5,5de4d42c3faba000190f75a8,2,male
+12405,76793,Irrfan Khan,Police Inspector,6,6,5de4d459a7e36300166d0ceb,2,male
+12405,1296867,Ankur Vikal,Maman,7,7,5de4d4fe7646fd0013945e80,2,male
+12405,52771,Tanay Chheda,Middle Jamal,8,8,5de4d57511386c0011509343,2,male
+12405,1120194,Ayush Mahesh Khedekar,Youngest Jamal,9,9,5de4d46b11386c0011509199,0,unspecified
+4922,287,Brad Pitt,Benjamin Button,0,0,52fe43e2c3a36847f807632f,2,male
+4922,112,Cate Blanchett,Daisy Fuller,1,1,52fe43e2c3a36847f807632b,1,female
+4922,40036,Taraji P. Henson,Queenie,2,2,52fe43e2c3a36847f8076347,1,female
+4922,15887,Julia Ormond,Caroline Fuller,3,3,52fe43e2c3a36847f8076343,1,female
+4922,973,Jason Flemyng,Thomas Button,4,4,52fe43e2c3a36847f807633b,2,male
+4922,3063,Tilda Swinton,Elizabeth Abbott,5,5,52fe43e2c3a36847f8076333,1,female
+4922,932967,Mahershala Ali,Tizzy Weathers,6,6,52fe43e2c3a36847f8076379,2,male
+4922,15440,Jared Harris,Captain Mike,7,7,57e4f699c3a3684225000727,2,male
+4922,13550,Elias Koteas,Monsieur Gateau,8,8,52fe43e2c3a36847f807633f,2,male
+4922,17184,Phyllis Somerville,Grandma Fuller,9,9,52fe43e2c3a36847f807637d,1,female
+8055,5469,Ralph Fiennes,Michael Berg,0,0,52fe448fc3a36847f809cde3,2,male
+8055,204,Kate Winslet,Hanna Schmitz,1,1,52fe448ec3a36847f809cda7,1,female
+8055,5847,David Kross,Young Michael Berg,2,2,52fe448fc3a36847f809cdbb,2,male
+8055,5313,Lena Olin,Rose Mather,3,3,56a63243c3a368388e00a9f9,1,female
+8055,2310,Bruno Ganz,Professor Rohl,4,4,52fe448ec3a36847f809cdb3,2,male
+8055,49018,Jeanette Hain,Brigitte,5,5,52fe448fc3a36847f809cdc3,1,female
+8055,16783,Hannah Herzsprung,Julia,6,6,52fe448ec3a36847f809cdab,1,female
+8055,17067,Karoline Herfurth,Marthe,7,7,52fe448ec3a36847f809cdb7,1,female
+8055,23182,Volker Bruch,Dieter Spenz,8,8,52fe448fc3a36847f809cdbf,2,male
+8055,5644,Alexandra Maria Lara,Young Ilana Mather,9,9,52fe448ec3a36847f809cdaf,1,female
+12573,72873,Michael Stuhlbarg,Larry Gopnik,0,0,52fe44fd9251416c75047e97,2,male
+12573,21125,Richard Kind,Uncle Arthur,1,1,52fe44fd9251416c75047e9b,2,male
+12573,105303,Fred Melamed,Sy Ableman,2,2,52fe44fd9251416c75047eab,2,male
+12573,105304,Sari Lennick,Judith Gopnik,3,3,52fe44fd9251416c75047eaf,1,female
+12573,105305,Aaron Wolff,Danny Gopnik,4,4,52fe44fd9251416c75047eb3,2,male
+12573,105306,Jessica McManus,Sarah Gopnik,5,5,52fe44fd9251416c75047eb7,1,female
+12573,159454,Peter Breitmayer,Mr. Brandt,6,6,52fe44fd9251416c75047f1d,2,male
+12573,1015643,Brent Braunschweig,Mitch Brandt,7,7,52fe44fd9251416c75047f21,2,male
+12573,965140,David Kang,Clive Park,8,8,52fe44fd9251416c75047f25,2,male
+12573,1015644,Benjamin Portnoe,Danny's Reefer Buddy,9,9,52fe44fd9251416c75047f29,2,male
+24684,36662,Carey Mulligan,Jenny Mellor,0,0,52fe44a4c3a368484e02e853,1,female
+24684,133,Peter Sarsgaard,David Goldman,1,1,52fe44a4c3a368484e02e863,2,male
+24684,55470,Dominic Cooper,Danny,2,2,52fe44a4c3a368484e02e867,2,male
+24684,10882,Rosamund Pike,Helen,3,3,52fe44a4c3a368484e02e86b,1,female
+24684,11616,Olivia Williams,Miss Stubbs,4,4,52fe44a4c3a368484e02e857,1,female
+24684,658,Alfred Molina,Jack Mellor,5,5,52fe44a4c3a368484e02e85b,2,male
+24684,2617,Cara Seymour,Majorie,6,6,52fe44a4c3a368484e02e85f,1,female
+24684,39658,Sally Hawkins,Sarah Goldman,7,7,52fe44a4c3a368484e02e873,1,female
+24684,7056,Emma Thompson,Headmistress,8,8,52fe44a4c3a368484e02e893,1,female
+24684,1205278,James Norton,Student,9,9,52fe44a4c3a368484e02e8c3,2,male
+19995,65731,Sam Worthington,Jake Sully,0,0,5602a8a7c3a3685532001c9a,2,male
+19995,8691,Zoe Saldaña,Neytiri,1,1,52fe48009251416c750ac9cb,1,female
+19995,10205,Sigourney Weaver,Dr. Grace Augustine,2,2,52fe48009251416c750aca39,1,female
+19995,32747,Stephen Lang,Colonel Miles Quaritch,3,3,52fe48009251416c750ac9cf,2,male
+19995,17647,Michelle Rodriguez,Trudy Chacon,4,4,52fe48009251416c750ac9d3,1,female
+19995,1771,Giovanni Ribisi,Parker Selfridge,5,5,52fe48009251416c750ac9e1,2,male
+19995,59231,Joel David Moore,Norm Spellman,6,6,52fe48009251416c750ac9dd,2,male
+19995,30485,CCH Pounder,Mo'at,7,7,5a66a6ea0e0a2619450033a1,1,female
+19995,15853,Wes Studi,Eytukan,8,8,52fe48009251416c750ac9ed,2,male
+19995,10964,Laz Alonso,Tsu'Tey,9,9,52fe48009251416c750ac9e9,2,male
+17654,82191,Sharlto Copley,Wikus van de Merwe,0,0,52fe473b9251416c75092361,2,male
+17654,82193,Jason Cope,Christopher Johnson / Grey Bradnam / Trent,1,1,52fe473c9251416c75092365,2,male
+17654,97599,Nathalie Boltt,Sarah Livingstone - Sociologist,2,2,52fe473c9251416c750923a1,1,female
+17654,230818,Sylvaine Strike,Dr Katrina McKenzie,3,3,52fe473c9251416c750923a5,1,female
+17654,1086505,Elizabeth Mkandawie,Interviewee,4,4,52fe473c9251416c750923a9,0,unspecified
+17654,3495,John Sumner,Les Feldman - MIL Engineer,5,5,52fe473c9251416c750923ad,2,male
+17654,53087,William Allen Young,Dirk Michaels,6,6,52fe473b9251416c75092359,2,male
+17654,240024,Nick Blake,Francois Moraneu - CIV Engineer Team,7,7,52fe473c9251416c750923b5,2,male
+17654,1029046,Greg Melvill-Smith,Interviewer,8,8,52fe473c9251416c750923b1,2,male
+17654,82190,Robert Hobbs,Ross Pienaar,9,9,52fe473b9251416c7509235d,2,male
+16869,287,Brad Pitt,LT. Aldo Raine,0,0,52fe46f29251416c75088c69,2,male
+16869,19119,Mélanie Laurent,Shosanna,1,1,52fe46f29251416c75088c83,1,female
+16869,27319,Christoph Waltz,COL. Hans Landa,2,2,52fe46f29251416c75088c71,2,male
+16869,16847,Eli Roth,SGT. Donny Donowitz,3,3,52fe46f29251416c75088c8b,2,male
+16869,17288,Michael Fassbender,LT. Archie Hicox,4,4,52fe46f29251416c75088c87,2,male
+16869,9824,Diane Kruger,Bridget von Hammersmark,5,5,52fe46f29251416c75088c7b,1,female
+16869,3872,Daniel Brühl,Fredrick Zoller,6,6,52fe46f29251416c75088cc3,2,male
+16869,1844,Til Schweiger,SGT. Hugo Stiglitz,7,7,52fe46f29251416c75088c8f,2,male
+16869,32823,Gedeon Burkhard,CPL. Wilhelm Wicki,8,8,52fe46f29251416c75088c97,2,male
+16869,51636,Jacky Ido,Marcel,9,9,52fe46f29251416c75088cb7,2,male
+25793,109560,Gabourey Sidibe,Precious,0,0,52fe44dec3a368484e03b7b5,1,female
+25793,60561,Mo'Nique,Mary,1,1,52fe44dec3a368484e03b7b9,1,female
+25793,52851,Paula Patton,Ms. Rain,2,2,52fe44dec3a368484e03b7c3,1,female
+25793,66586,Mariah Carey,Ms. Weiss,3,3,52fe44dec3a368484e03b7c7,1,female
+25793,109561,Sherri Shepherd,Cornrows,4,4,52fe44dec3a368484e03b7cf,1,female
+25793,77069,Lenny Kravitz,Nurse John,5,5,52fe44dec3a368484e03b7cb,2,male
+25793,109562,Stephanie Andujar,Rita,6,6,52fe44dec3a368484e03b7d3,1,female
+25793,109563,Chyna Layne,Rhonda,7,7,52fe44dec3a368484e03b7d7,1,female
+25793,109564,Amina Robinson,Jermaine,8,8,52fe44dec3a368484e03b7db,1,female
+25793,109565,Xosha Roquemore,Joann,9,9,52fe44dec3a368484e03b7df,1,female
+22881,18277,Sandra Bullock,Leigh Anne Tuohy,0,0,52fe4453c3a368484e01cd1b,1,female
+22881,74428,Tim McGraw,Sean Tuohy,1,1,52fe4453c3a368484e01cd2f,2,male
+22881,112560,Quinton Aaron,Michael Oher,2,2,52fe4453c3a368484e01cd33,2,male
+22881,66658,Jae Head,S.J. Tuohy,3,3,52fe4453c3a368484e01cd37,2,male
+22881,112561,Lily Collins,Collins Tuohy,4,4,52fe4453c3a368484e01cd3b,1,female
+22881,1472,Ray McKinnon,Coach Cotton,5,5,52fe4453c3a368484e01cd3f,2,male
+22881,21165,Kim Dickens,Mrs. Boswell,6,6,52fe4453c3a368484e01cd43,1,female
+22881,53260,Adriane Lenox,Denise Oher,7,7,52fe4453c3a368484e01cd47,1,female
+22881,8534,Kathy Bates,Miss Sue,8,8,52fe4453c3a368484e01cd1f,1,female
+22881,112562,Catherine Dyer,Mrs. Smith,9,9,52fe4453c3a368484e01cd4b,1,female
+12162,17604,Jeremy Renner,Staff Sergeant William James,0,0,52fe44c29251416c7503fef1,2,male
+12162,53650,Anthony Mackie,Sergeant JT Sanborn,1,1,52fe44c29251416c7503fef5,2,male
+12162,49271,Brian Geraghty,Specialist Owen Eldridge,2,2,52fe44c29251416c7503fef9,2,male
+12162,52,David Morse,Colonel Reed,3,3,52fe44c29251416c7503fee7,2,male
+12162,529,Guy Pearce,Sergeant Matt Thompson,4,4,52fe44c29251416c7503fefd,2,male
+12162,19034,Evangeline Lilly,Connie James,5,5,52fe44c29251416c7503ff01,1,female
+12162,5469,Ralph Fiennes,Contractor Team Leader,6,6,52fe44c29251416c7503fee3,2,male
+12162,122029,Christian Camargo,Colonel John Cambridge,7,7,52fe44c29251416c7503ff09,2,male
+12162,96438,Christopher Sayegh,Beckham,8,8,52fe44c29251416c7503ff05,2,male
+12162,1291852,David Gueriera,First Sergeant,9,9,52fe44c29251416c7503ff41,2,male
+14160,68812,Ed Asner,Carl Fredricksen (voice),0,0,52fe45d19251416c75063875,2,male
+14160,290,Christopher Plummer,Charles Muntz (voice),1,1,52fe45d19251416c75063879,2,male
+14160,80676,Jordan Nagai,Russell (voice),2,2,52fe45d19251416c7506387d,2,male
+14160,10,Bob Peterson,Dug / Alpha (voice),3,3,52fe45d19251416c75063881,2,male
+14160,18792,Delroy Lindo,Beta (voice),4,4,52fe45d19251416c75063885,2,male
+14160,7960,Jerome Ranft,Gamma (voice),5,5,52fe45d19251416c750638ad,2,male
+14160,7907,John Ratzenberger,Construction Foreman Tom (voice),6,6,52fe45d19251416c75063889,2,male
+14160,84490,David Kaye,Newsreel Announcer (voice),7,7,52fe45d19251416c7506388d,2,male
+14160,84491,Elie Docter,Young Ellie (voice),8,8,52fe45d19251416c75063891,1,female
+14160,84492,Jeremy Leary,Young Carl (voice),9,9,52fe45d19251416c75063895,2,male
+22947,1461,George Clooney,Ryan Bingham,0,0,52fe4457c3a368484e01d815,2,male
+22947,21657,Vera Farmiga,Alex Goran,1,1,52fe4457c3a368484e01d819,1,female
+22947,84223,Anna Kendrick,Natalie Keener,2,2,52fe4457c3a368484e01d81d,1,female
+22947,16431,Sam Elliott,Maynard Finch,3,3,52fe4457c3a368484e01d829,2,male
+22947,26930,Amy Morton,Kara Bingham,4,4,52fe4457c3a368484e01d82d,1,female
+22947,23532,Jason Bateman,Craig Gregory,5,5,52fe4457c3a368484e01d821,2,male
+22947,15091,Melanie Lynskey,Julie Bingham,6,6,52fe4457c3a368484e01d825,1,female
+22947,18999,J.K. Simmons,Bob,7,7,52fe4457c3a368484e01d831,2,male
+22947,62862,Danny McBride,Jim Miller,8,8,52fe4457c3a368484e01d835,2,male
+22947,58225,Zach Galifianakis,Steve,9,9,52fe4457c3a368484e01d839,2,male
+44115,17051,James Franco,Aron Ralston,0,0,52fe4677c3a36847f8100abf,2,male
+44115,51072,Kate Mara,Kristi Moore,1,1,52fe4677c3a36847f8100ac3,1,female
+44115,20354,Amber Tamblyn,Megan McBride,2,2,52fe4677c3a36847f8100ac7,1,female
+44115,11291,Clémence Poésy,Rana,3,3,52fe4677c3a36847f8100b01,1,female
+44115,51988,Lizzy Caplan,Sonja Ralston,4,4,52fe4677c3a36847f8100aeb,1,female
+44115,20879,Kate Burton,Aron's Mom,5,5,52fe4677c3a36847f8100ad7,1,female
+44115,4515,Treat Williams,Aron's Dad,6,6,52fe4677c3a36847f8100ad3,2,male
+44115,142182,Sean Bott,Aron's Friend,7,7,52fe4677c3a36847f8100acb,2,male
+44115,63484,Fenton Quinn,Blue John,8,8,52fe4677c3a36847f8100ae7,2,male
+44115,1178035,John Lawrence,Brion,9,9,52fe4677c3a36847f8100b65,0,unspecified
+44214,524,Natalie Portman,Nina Sayers / The Swan Queen,0,0,52fe467ec3a36847f810219b,1,female
+44214,18973,Mila Kunis,Lily / The Black Swan,1,1,52fe467ec3a36847f8102151,1,female
+44214,1925,Vincent Cassel,Thomas Leroy / The Gentleman,2,2,52fe467ec3a36847f8102159,2,male
+44214,10767,Barbara Hershey,Erica Sayers / The Queen,3,3,52fe467ec3a36847f8102165,1,female
+44214,1920,Winona Ryder,Beth Macintyre / The Dying Swan,4,4,52fe467ec3a36847f8102155,1,female
+44214,970088,Benjamin Millepied,David Moreau / The Prince,5,5,52fe467ec3a36847f810219f,2,male
+44214,140407,Ksenia Solo,Veronica / Little Swan,6,6,52fe467ec3a36847f810215d,1,female
+44214,43443,Kristina Anapau,Galina / Little Swan,7,7,52fe467ec3a36847f810216d,1,female
+44214,90755,Janet Montgomery,Madeline / Little Swan,8,8,52fe467ec3a36847f8102169,1,female
+44214,60898,Sebastian Stan,Andrew / Suitor,9,9,52fe467ec3a36847f8102191,2,male
+27205,6193,Leonardo DiCaprio,Dom Cobb,0,0,52fe4534c3a368484e04de03,2,male
+27205,24045,Joseph Gordon-Levitt,Arthur,1,1,52fe4534c3a368484e04de0b,2,male
+27205,3899,Ken Watanabe,Saito,2,2,52fe4534c3a368484e04de07,2,male
+27205,2524,Tom Hardy,Eames,3,3,52fe4534c3a368484e04de1b,2,male
+27205,27578,Elliot Page,Ariadne,4,4,52fe4534c3a368484e04de13,3,nonbinary
+27205,95697,Dileep Rao,Yusuf,5,5,52fe4534c3a368484e04de4f,2,male
+27205,2037,Cillian Murphy,"Robert Fischer, Jr.",6,6,52fe4534c3a368484e04de1f,2,male
+27205,13022,Tom Berenger,Peter Browning,7,7,52fe4534c3a368484e04de23,2,male
+27205,8293,Marion Cotillard,Mal Cobb,8,8,52fe4534c3a368484e04de0f,1,female
+27205,4935,Pete Postlethwaite,Maurice Fischer,9,9,52fe4534c3a368484e04de59,2,male
+45317,13240,Mark Wahlberg,Micky Ward,0,0,52fe46bcc3a36847f810f4f7,2,male
+45317,3894,Christian Bale,Dicky Eklund,1,1,52fe46bcc3a36847f810f4fb,2,male
+45317,9273,Amy Adams,Charlene Fleming,2,2,52fe46bcc3a36847f810f4ff,1,female
+45317,6832,Melissa Leo,Alice Ward,3,3,52fe46bcc3a36847f810f503,1,female
+45317,1415263,Mickey O'Keefe,Mickey O'Keefe,4,4,54bc0448c3a368389c00214d,0,unspecified
+45317,10489,Jack McGee,George Ward,5,5,52fe46bcc3a36847f810f535,2,male
+45317,1371551,Melissa McMeekin,"""Little Alice"" Eklund",6,6,54e8c1f4c3a3684ea60017a5,1,female
+45317,999736,Bianca Hunter,"Cathy ""Pork"" Eklund",7,7,52fe46bcc3a36847f810f57b,1,female
+45317,999737,Erica McDermott,"Cindy ""Tar"" Eklund",8,8,52fe46bcc3a36847f810f57f,1,female
+45317,1722118,Jill Quigg,Donna Eklund Jaynes,9,9,62c0b0deaaf8970059e6b4ea,0,unspecified
+39781,1231,Julianne Moore,Jules,0,0,52fe47309251416c9106cfd7,1,female
+39781,516,Annette Bening,Nic,1,1,52fe47309251416c9106cfdb,1,female
+39781,103,Mark Ruffalo,Paul,2,2,52fe47309251416c9106cfdf,2,male
+39781,76070,Mia Wasikowska,Joni,3,3,52fe47309251416c9106cfe3,1,female
+39781,27972,Josh Hutcherson,Laser,4,4,52fe47309251416c9106cfe7,2,male
+39781,60033,Yaya DaCosta,Tanya,5,5,52fe47319251416c9106d02d,1,female
+39781,1224166,Kunal Sharma,Jai,6,6,548044dec3a36829ae001fb3,2,male
+39781,170333,Eddie Hassell,Clay,7,7,5480452b9251416e74002361,2,male
+39781,206966,Zosia Mamet,Sasha,8,8,539770a60e0a266db400a465,1,female
+39781,104381,Joaquín Garrido,Luis,9,9,54804546c3a36829ab002221,2,male
+45269,5472,Colin Firth,King George VI,0,0,53015230c3a3680a1114e905,2,male
+45269,118,Geoffrey Rush,Lionel Logue,1,1,5301525ec3a3680a21163663,2,male
+45269,1283,Helena Bonham Carter,Queen Elizabeth,2,2,5301529fc3a3680a11151e3a,1,female
+45269,529,Guy Pearce,King Edward VIII,3,3,530152d3c3a3680a3f13e964,2,male
+45269,9191,Timothy Spall,Winston Churchill,4,4,53015318c3a3680a0312ab2a,2,male
+45269,5658,Michael Gambon,King George V,5,5,5301534ec3a3680a19145a46,2,male
+45269,49971,Jennifer Ehle,Myrtle Logue,6,6,5301538dc3a36809fd139884,1,female
+45269,937,Derek Jacobi,Archbishop Cosmo Lang,7,7,530153b1c3a3680a091401bf,2,male
+45269,548169,Freya Wilson,Princess Elizabeth,8,8,5301546f925141219e13684a,1,female
+45269,224878,Ramona Marquez,Princess Margaret,9,9,530154a2925141219814d9ea,1,female
+37799,44735,Jesse Eisenberg,Mark Zuckerberg,0,0,52fe466f9251416c910546cb,2,male
+37799,37625,Andrew Garfield,Eduardo Saverin,1,1,52fe466f9251416c910546d7,2,male
+37799,53807,Armie Hammer,Cameron Winklevoss / Tyler Winklevoss,2,2,52fe466f9251416c910546f7,2,male
+37799,12111,Justin Timberlake,Sean Parker,3,3,52fe466f9251416c910546d3,2,male
+37799,108916,Rooney Mara,Erica Albright,4,4,52fe466f9251416c910546c3,1,female
+37799,2978,Max Minghella,Divya Narendra,5,5,52fe466f9251416c910546df,2,male
+37799,88123,Brenda Song,Christy Ling,6,6,52fe466f9251416c910546db,1,female
+37799,928532,Josh Pence,Tyler Winklevoss (Body Double),7,7,5643e6299251410a490039eb,2,male
+37799,80591,Rashida Jones,Marylin Delpy,8,8,52fe466f9251416c91054745,1,female
+37799,20211,John Getz,Sy,9,9,5643e582c3a36870e800393b,2,male
+10193,31,Tom Hanks,Woody (voice),0,0,52fe433f9251416c7500915d,2,male
+10193,12898,Tim Allen,Buzz Lightyear (voice),1,1,52fe433f9251416c75009169,2,male
+10193,3234,Joan Cusack,Jessie (voice),2,2,52fe433f9251416c75009165,1,female
+10193,7167,Don Rickles,Mr. Potato Head (voice),3,3,52fe433f9251416c75009179,2,male
+10193,12900,Wallace Shawn,Rex (voice),4,4,52fe433f9251416c75009181,2,male
+10193,7907,John Ratzenberger,Hamm (voice),5,5,52fe433f9251416c75009175,2,male
+10193,61964,Estelle Harris,Mrs. Potato Head (voice),6,6,52fe433f9251416c7500917d,1,female
+10193,21485,Blake Clark,Slinky Dog (voice),7,7,52fe433f9251416c75009199,2,male
+10193,7882,Jeff Pidgeon,Aliens (voice),8,8,5617ef38c3a3680fa40033c5,2,male
+10193,13726,Ned Beatty,Lotso (voice),9,9,52fe433f9251416c75009185,2,male
+44264,1229,Jeff Bridges,Rooster Cogburn,0,0,52fe4681c3a36847f8102c4b,2,male
+44264,130640,Hailee Steinfeld,Mattie Ross,1,1,52fe4681c3a36847f8102c4f,1,female
+44264,1892,Matt Damon,LaBoeuf,2,2,52fe4681c3a36847f8102c53,2,male
+44264,16851,Josh Brolin,Tom Chaney,3,3,52fe4681c3a36847f8102c57,2,male
+44264,12834,Barry Pepper,Lucky Ned Pepper,4,4,52fe4681c3a36847f8102c5b,2,male
+44264,43364,Dakin Matthews,Col. Stonehill,5,5,52fe4681c3a36847f8102c5f,2,male
+44264,54856,Jarlath Conroy,Undertaker,6,6,52fe4681c3a36847f8102c63,2,male
+44264,61260,Paul Rae,Emmett Quincy,7,7,52fe4681c3a36847f8102c67,2,male
+44264,93210,Domhnall Gleeson,Moon (The Kid),8,8,52fe4681c3a36847f8102c6b,2,male
+44264,126713,Elizabeth Marvel,40-Year-Old Mattie,9,9,52fe4681c3a36847f8102c6f,1,female
+39013,72129,Jennifer Lawrence,Ree Dolly,0,0,52fe46f19251416c91064f27,1,female
+39013,16861,John Hawkes,Teardrop,1,1,52fe46f19251416c91064f2b,2,male
+39013,54711,Kevin Breznahan,Little Arthur,2,2,52fe46f19251416c91064f2f,2,male
+39013,46814,Dale Dickey,Merab,3,3,52fe46f19251416c91064f33,1,female
+39013,39520,Garret Dillahunt,Sheriff Baskin,4,4,52fe46f19251416c91064f37,2,male
+39013,6726,Sheryl Lee,April,5,5,52fe46f29251416c91064f85,1,female
+39013,126487,Shelley Waggener,Sonya,6,6,52fe46f19251416c91064f3b,1,female
+39013,1163717,Isaiah Stone,Sonny,7,7,52fe46f29251416c91064f8d,0,unspecified
+39013,126488,Lauren Sweetser,Gail,8,8,52fe46f19251416c91064f3f,1,female
+39013,1163718,Ashlee Thompson,Ashlee,9,9,52fe46f29251416c91064f91,0,unspecified
+64685,31,Tom Hanks,Thomas Schell,0,0,52fe46e4c3a368484e0a9869,2,male
+64685,18277,Sandra Bullock,Linda Schell,1,1,52fe46e4c3a368484e0a986d,1,female
+64685,929136,Thomas Horn,Oskar Schell,2,2,52fe46e4c3a368484e0a988f,2,male
+64685,19492,Viola Davis,Abby Black,3,3,53a2d44d0e0a26227f0014c8,1,female
+64685,1230,John Goodman,Stan the Doorman,4,4,52fe46e4c3a368484e0a9871,2,male
+64685,2954,Jeffrey Wright,William Black,5,5,53a2d4600e0a26227c001417,2,male
+64685,937681,Zoe Caldwell,Oskar's Grandmother,6,6,53a2d42d0e0a26226e00141e,1,female
+64685,2201,Max von Sydow,The Renter,7,7,52fe46e4c3a368484e0a988b,2,male
+64685,928297,Dennis Hearn,Minister,8,8,624800186f31af009c8d6aee,2,male
+64685,171567,Paul Klementowicz,Homeless Man,9,9,62480025713ea600a1e2d4fd,2,male
+44826,77996,Asa Butterfield,Hugo Cabret,0,0,52fe469dc3a36847f8108b33,2,male
+44826,2282,Ben Kingsley,Georges Méliès,1,1,52fe469dc3a36847f8108b3b,2,male
+44826,56734,Chloë Grace Moretz,Isabelle,2,2,52fe469dc3a36847f8108b37,1,female
+44826,6730,Sacha Baron Cohen,Station Inspector,3,3,52fe469dc3a36847f8108b3f,2,male
+44826,5538,Ray Winstone,Uncle Claude,4,4,52fe469dc3a36847f8108b5b,2,male
+44826,1246,Emily Mortimer,Lisette,5,5,52fe469dc3a36847f8108b57,1,female
+44826,113,Christopher Lee,Monsieur Labisse,6,6,52fe469dc3a36847f8108b47,2,male
+44826,15737,Helen McCrory,Mama Jeanne,7,7,52fe469dc3a36847f8108b4b,1,female
+44826,72873,Michael Stuhlbarg,René Tabard,8,8,52fe469dc3a36847f8108b4f,2,male
+44826,47468,Frances de la Tour,Madame Emilie,9,9,52fe469dc3a36847f8108b5f,1,female
+59436,887,Owen Wilson,Gil,0,0,52fe4990c3a36847f81a0ba7,2,male
+59436,53714,Rachel McAdams,Inez,1,1,52fe4990c3a36847f81a0bab,1,female
+59436,8534,Kathy Bates,Gertrude Stein,2,2,52fe4990c3a36847f81a0bc7,1,female
+59436,29685,Kurt Fuller,John,3,3,52fe4990c3a36847f81a0baf,2,male
+59436,3490,Adrien Brody,Salvador Dalí,4,4,52fe4990c3a36847f81a0bcb,2,male
+59436,937039,Carla Bruni,Museum Guide,5,5,52fe4990c3a36847f81a0bfd,1,female
+59436,8293,Marion Cotillard,Adriana,6,6,52fe4990c3a36847f81a0bbf,1,female
+59436,3968,Michael Sheen,Paul,7,7,52fe4990c3a36847f81a0bb7,2,male
+59436,971329,Nina Arianda,Carol,8,8,52fe4990c3a36847f81a0bf9,1,female
+59436,91606,Tom Hiddleston,F. Scott Fitzgerald,9,9,52fe4990c3a36847f81a0bf1,2,male
+60308,287,Brad Pitt,Billy Beane,0,0,52fe461fc3a368484e0800bd,2,male
+60308,21007,Jonah Hill,Peter Brand,1,1,52fe461fc3a368484e0800c1,2,male
+60308,1233,Philip Seymour Hoffman,Art Howe,2,2,52fe461fc3a368484e0800c9,2,male
+60308,32,Robin Wright,Sharon,3,3,52fe461fc3a368484e0800c5,1,female
+60308,73457,Chris Pratt,Scott Hatteberg,4,4,52fe461fc3a368484e0800cd,2,male
+60308,55205,Stephen Bishop,David Justice,5,5,52fe461fc3a368484e0800d1,2,male
+60308,31508,Reed Diamond,Mark Shapiro,6,6,52fe461fc3a368484e080109,2,male
+60308,84685,Brent Jennings,Ron Washington,7,7,52fe461fc3a368484e0800d5,2,male
+60308,181067,Ken Medlock,Grady Fuson,8,8,52fe461fc3a368484e0800d9,2,male
+60308,16859,Tammy Blanchard,Elizabeth Hatteberg,9,9,52fe461fc3a368484e0800dd,1,female
+74643,56024,Jean Dujardin,George Valentin,0,0,52fe48d7c3a368484e10d8cb,2,male
+74643,82923,Bérénice Bejo,Peppy Miller,1,1,52fe48d7c3a368484e10d8cf,1,female
+74643,1230,John Goodman,Al Zimmer,2,2,52fe48d7c3a368484e10d8d3,2,male
+74643,2505,James Cromwell,Clifton,3,3,52fe48d7c3a368484e10d8d7,2,male
+74643,14698,Penelope Ann Miller,Doris Valentin,4,4,52fe48d7c3a368484e10d8db,1,female
+74643,1294,Missi Pyle,Constance Gray,5,5,52fe48d7c3a368484e10d8df,1,female
+74643,5151,Beth Grant,Peppy's Maid,6,6,52fe48d7c3a368484e10d8e3,1,female
+74643,21523,Ed Lauter,Peppy's Butler,7,7,52fe48d7c3a368484e10d8e7,2,male
+74643,155649,Joel Murray,Policeman Fire,8,8,52fe48d7c3a368484e10d8eb,2,male
+74643,74577,Elizabeth Tulloch,Norma,9,9,52fe48d7c3a368484e10d8ef,1,female
+65057,1461,George Clooney,Matt King,0,0,52fe46fac3a368484e0ae7fd,2,male
+65057,94185,Shailene Woodley,Alexandra King,1,1,52fe46fac3a368484e0ae809,1,female
+65057,933002,Amara Miller,Scottie King,2,2,52fe46fac3a368484e0ae829,1,female
+65057,931945,Nick Krause,Sid,3,3,52fe46fac3a368484e0ae825,2,male
+65057,1237498,Patricia Hastie,Elizabeth King,4,4,65d1d05c77c01f01630ed5cc,0,unspecified
+65057,1394480,Grace A. Cruz,Scottie's Teacher,5,5,54808a36c3a36829ae002a91,0,unspecified
+65057,1394479,Kim Gennaula,School Counselor,6,6,620ce6e00dea6e00442f1403,0,unspecified
+65057,1394481,Karen Kuioka Hironaga,Barb Higgins,7,7,620ce6f2e21023006851d4d6,0,unspecified
+65057,1394482,Carmen Kaichi,Lani Higgins,8,8,620ce703c048a900424decc0,0,unspecified
+65057,1123795,Kaui Hart Hemmings,Matt's Secretary Noe,9,9,620ce71177b1fb0042ea9b52,1,female
+50014,54693,Emma Stone,Skeeter Phelan,0,0,52fe47b5c3a36847f814403f,1,female
+50014,19492,Viola Davis,Aibileen Clark,1,1,52fe47b5c3a36847f814402f,1,female
+50014,18997,Bryce Dallas Howard,Hilly Holbrook,2,2,52fe47b5c3a36847f8144043,1,female
+50014,6944,Octavia Spencer,Minny Jackson,3,3,52fe47b5c3a36847f8144033,1,female
+50014,83002,Jessica Chastain,Celia Foote,4,4,52fe47b5c3a36847f814404f,1,female
+50014,999605,Ahna O'Reilly,Elizabeth Leefolt,5,5,52fe47b5c3a36847f814407f,1,female
+50014,19,Allison Janney,Charlotte Phelan,6,6,52fe47b5c3a36847f814407b,1,female
+50014,221098,Anna Camp,Jolene French,7,7,52fe47b5c3a36847f8144077,1,female
+50014,4804041,Eleanor Henry,Mae Mobley,8,8,668241f44d24c4849534cd85,0,unspecified
+50014,4804042,Emma Henry,Mae Mobley,9,9,6682420456b07a36751e452c,0,unspecified
+8967,287,Brad Pitt,Mr. O'Brien,0,0,52fe44ccc3a36847f80aa95b,2,male
+8967,83002,Jessica Chastain,Mrs. O'Brien,1,1,52fe44ccc3a36847f80aa963,1,female
+8967,1715121,Hunter McCracken,Young Jack,2,2,583b4cb09251415465001823,2,male
+8967,2228,Sean Penn,Jack,3,3,52fe44ccc3a36847f80aa95f,2,male
+8967,10981,Fiona Shaw,Grandmother,4,4,52fe44ccc3a36847f80aa967,1,female
+8967,1034681,Tye Sheridan,Steve,5,5,52fe44ccc3a36847f80aa981,2,male
+8967,1715124,Laramie Eppler,R.L.,6,6,583b4cd7c3a3687b9e001887,2,male
+8967,158231,Will Wallace,Architect,7,7,62350c4d46aed4007b16a9e0,2,male
+8967,1089521,Nicolas Gonda,Mr. Reynolds,8,8,62350bfc1da7a6001d600d5a,2,male
+8967,3470789,Jessica Fuselier,Guide,9,9,62350bbbda10f00046bd340c,1,female
+57212,225692,Jeremy Irvine,Albert Narracott,0,0,52fe4928c3a36847f818c131,2,male
+57212,3064,Peter Mullan,Ted Narracott,1,1,52fe4929c3a36847f818c161,2,male
+57212,1639,Emily Watson,Rose Narracott,2,2,52fe4928c3a36847f818c12d,1,female
+57212,17498,Niels Arestrup,Grandfather,3,3,5a983172925141546f00157e,2,male
+57212,11207,David Thewlis,Lyons,4,4,52fe4928c3a36847f818c13f,2,male
+57212,91606,Tom Hiddleston,Capt. James Nicholls,5,5,52fe4928c3a36847f818c121,2,male
+57212,71580,Benedict Cumberbatch,Maj. Jamie Stewart,6,6,52fe4928c3a36847f818c125,2,male
+57212,1389549,Céline Buckens,Emilie,7,7,5475a3bac3a36859b9001536,1,female
+57212,20286,Toby Kebbell,Geordie Soldier,8,8,52fe4928c3a36847f818c129,2,male
+57212,14432,Patrick Kennedy,Lt. Charlie Waverly,9,9,54cd7459c3a3681c9c000276,2,male
+86837,1352,Jean-Louis Trintignant,Georges,0,0,52fe49a49251416c910b3d79,2,male
+86837,267962,Emmanuelle Riva,Anne,1,1,52fe49a49251416c910b3d81,1,female
+86837,17882,Isabelle Huppert,Eva,2,2,52fe49a49251416c910b3d75,1,female
+86837,2602385,Alexandre Tharaud,Alexandre,3,3,5e96fe5f30f79c0012d89445,2,male
+86837,140238,William Shimell,Geoff,4,4,52fe49a49251416c910b3d7d,2,male
+86837,122461,Ramon Agirre,Concierge's Husband,5,5,580f944e9251416c1400cbb0,2,male
+86837,109713,Rita Blanco,Concierge,6,6,52fe49a49251416c910b3d85,1,female
+86837,17463,Carole Franck,Nurse #1,7,7,52fe49a49251416c910b3d89,1,female
+86837,543366,Dinara Drukarova,Nurse #2,8,8,52fe49a49251416c910b3d8d,1,female
+86837,228719,Laurent Capelluto,Police Officer #1,9,9,52fe49a49251416c910b3d91,2,male
+68734,880,Ben Affleck,Tony Mendez,0,0,52fe47a1c3a368484e0d1b65,2,male
+68734,17419,Bryan Cranston,Jack O'Donnell,1,1,52fe47a1c3a368484e0d1b69,2,male
+68734,1903,Alan Arkin,Lester Siegel,2,2,52fe47a1c3a368484e0d1b71,2,male
+68734,1230,John Goodman,John Chambers,3,3,52fe47a1c3a368484e0d1b6d,2,male
+68734,8536,Victor Garber,Ken Taylor,4,4,52fe47a1c3a368484e0d1b81,2,male
+68734,15455,Tate Donovan,Bob Anders,5,5,52fe47a1c3a368484e0d1b85,2,male
+68734,20387,Clea DuVall,Cora Lijek,6,6,52fe47a1c3a368484e0d1b7d,1,female
+68734,59233,Scoot McNairy,Joe Stafford,7,7,52fe47a1c3a368484e0d1bad,2,male
+68734,51792,Rory Cochrane,Lee Schatz,8,8,52fe47a1c3a368484e0d1bb1,2,male
+68734,61510,Christopher Denham,Mark Lijek,9,9,52fe47a1c3a368484e0d1b91,2,male
+84175,1055235,Quvenzhané Wallis,Hushpuppy,0,0,52fe48dd9251416c9109ad55,1,female
+84175,1055236,Dwight Henry,Wink,1,1,52fe48dd9251416c9109ad59,2,male
+84175,1073500,Levy Easterly,Jean Battiste,2,2,52fe48dd9251416c9109ad5d,2,male
+84175,1073501,Gina Montana,Miss Bathsheeba,3,3,52fe48dd9251416c9109ad61,1,female
+84175,1118577,Lowell Landes,Walrus,4,4,52fe48dd9251416c9109ad71,2,male
+84175,1118578,Pamela Harper,Little Jo,5,5,52fe48dd9251416c9109ad75,1,female
+84175,1137369,Amber Henry,LZA,6,6,52fe48dd9251416c9109ad79,0,unspecified
+84175,1137370,Jonshel Alexander,Joy Strong,7,7,52fe48dd9251416c9109ad7d,1,female
+84175,1118579,Nicholas Clark,Boy with Bell,8,8,52fe48dd9251416c9109ad81,2,male
+84175,1137371,Joseph Brown,Winston,9,9,52fe48dd9251416c9109ad85,0,unspecified
+68718,134,Jamie Foxx,Django Freeman,0,0,52fe479fc3a368484e0d12e3,2,male
+68718,27319,Christoph Waltz,Dr. King Schultz,1,1,52fe479fc3a368484e0d12df,2,male
+68718,6193,Leonardo DiCaprio,Calvin J. Candie,2,2,52fe479fc3a368484e0d12db,2,male
+68718,11703,Kerry Washington,Broomhilda von Shaft,3,3,52fe479fc3a368484e0d12ef,1,female
+68718,2231,Samuel L. Jackson,Stephen,4,4,52fe479fc3a368484e0d12eb,2,male
+68718,27740,Walton Goggins,Billy Crash,5,5,52fe479fc3a368484e0d135f,2,male
+68718,27770,Dennis Christopher,Leonide Moguy,6,6,52fe479fc3a368484e0d1315,2,male
+68718,1736,James Remar,Butch Pooch / Ace Speck,7,7,52fe479fc3a368484e0d1305,2,male
+68718,1067187,David Steen,Mr. Stonesipher,8,8,52fe479fc3a368484e0d1319,2,male
+68718,1133063,Dana Gourrier,Cora,9,9,52fe479fc3a368484e0d131d,1,female
+82695,6968,Hugh Jackman,Jean Valjean,0,0,52fe486c9251416c9108c095,2,male
+82695,934,Russell Crowe,Javert,1,1,52fe486c9251416c9108c099,2,male
+82695,71070,Amanda Seyfried,Cosette,2,2,52fe486c9251416c9108c0a9,1,female
+82695,1813,Anne Hathaway,Fantine,3,3,52fe486c9251416c9108c08d,1,female
+82695,37632,Eddie Redmayne,Marius Pontmercy,4,4,52fe486c9251416c9108c0a1,2,male
+82695,6730,Sacha Baron Cohen,Monsieur Thénardier,5,5,52fe486c9251416c9108c09d,2,male
+82695,1283,Helena Bonham Carter,Madame Thénardier,6,6,52fe486c9251416c9108c091,1,female
+82695,143425,Aaron Tveit,Enjolras,7,7,52fe486c9251416c9108c0a5,2,male
+82695,145116,Samantha Barks,Éponine Thénardier,8,8,52fe486c9251416c9108c0b1,1,female
+82695,1133684,Daniel Huttlestone,Gavroche,9,9,52fe486c9251416c9108c0b5,2,male
+87827,933160,Suraj Sharma,Pi Patel,0,0,52fe49db9251416c910bb0c1,2,male
+87827,76793,Irrfan Khan,Adult Pi Patel,1,1,52fe49db9251416c910bb0b9,2,male
+87827,935504,Ayush Tandon,Pi Patel (11-12 Years),2,2,52fe49db9251416c910bb0c9,2,male
+87827,1133846,Gautam Belur,Pi Patel (5 Years),3,3,52fe49db9251416c910bb0e3,2,male
+87827,227849,Adil Hussain,Santosh Patel,4,4,52fe49db9251416c910bb0c5,2,male
+87827,55062,Tabu,Gita Patel,5,5,52fe49db9251416c910bb0bd,1,female
+87827,1377778,Ayaan Khan,Ravi Patel (7 Years),6,6,544cd9110e0a2608be00209f,2,male
+87827,1133848,Mohd Abbas Khaleeli,Ravi Patel (13-14 Years),7,7,52fe49db9251416c910bb103,2,male
+87827,1133849,Vibish Sivakumar,Ravi Patel (18-19 Years),8,8,52fe49db9251416c910bb0e7,2,male
+87827,28847,Rafe Spall,Writer,9,9,52fe49db9251416c910bb0d3,2,male
+72976,11856,Daniel Day-Lewis,Abraham Lincoln,0,0,52fe4886c3a368484e0fd425,2,male
+72976,35,Sally Field,Mary Todd Lincoln,1,1,52fe4886c3a368484e0fd435,1,female
+72976,11064,David Strathairn,William Seward,2,2,52fe4886c3a368484e0fd445,2,male
+72976,24045,Joseph Gordon-Levitt,Robert Lincoln,3,3,52fe4886c3a368484e0fd429,2,male
+72976,13548,James Spader,W.N. Bilbo,4,4,52fe4886c3a368484e0fd431,2,male
+72976,11066,Hal Holbrook,Preston Blair,5,5,52fe4886c3a368484e0fd45b,2,male
+72976,2176,Tommy Lee Jones,Thaddeus Stevens,6,6,52fe4886c3a368484e0fd42d,2,male
+72976,16861,John Hawkes,Robert Latham,7,7,52fe4886c3a368484e0fd49d,2,male
+72976,17183,Jackie Earle Haley,Alexander Stephens,8,8,52fe4886c3a368484e0fd43d,2,male
+72976,14888,Bruce McGill,Edwin Stanton,9,9,52fe4886c3a368484e0fd44d,2,male
+82693,51329,Bradley Cooper,Pat Solatano Jr.,0,0,52fe486b9251416c9108be65,2,male
+82693,72129,Jennifer Lawrence,Tiffany Maxwell,1,1,52fe486b9251416c9108bde3,1,female
+82693,380,Robert De Niro,Pat Solatano Sr.,2,2,52fe486b9251416c9108bde7,2,male
+82693,67837,Jacki Weaver,Dolores Solatano,3,3,52fe486b9251416c9108be03,1,female
+82693,6217,Anupam Kher,Dr. Cliff Patel,4,4,52fe486b9251416c9108bdff,2,male
+82693,66,Chris Tucker,Danny McDaniels,5,5,52fe486b9251416c9108bdef,2,male
+82693,12041,Julia Stiles,Veronica,6,6,52fe486b9251416c9108bdeb,1,female
+82693,74242,Shea Whigham,Jake Solatano,7,7,52fe486b9251416c9108bdf3,2,male
+82693,40543,John Ortiz,Ronnie,8,8,52fe486b9251416c9108bdfb,2,male
+82693,58535,Paul Herman,Randy,9,9,52fe486b9251416c9108be6d,2,male
+97630,83002,Jessica Chastain,Maya,0,0,52fe49e89251416c750d7415,1,female
+97630,76512,Jason Clarke,Dan,1,1,52fe49e89251416c750d748f,2,male
+97630,33192,Joel Edgerton,Patrick - Squadron Team Leader,2,2,52fe49e89251416c750d7419,2,male
+97630,49971,Jennifer Ehle,Jessica,3,3,52fe49e89251416c750d7443,1,female
+97630,2983,Mark Strong,George,4,4,52fe49e89251416c750d7411,2,male
+97630,3497,Kyle Chandler,Joseph Bradley,5,5,52fe49e89251416c750d7421,2,male
+97630,25616,Edgar Ramírez,Larry from Ground Branch,6,6,52fe49e89251416c750d7437,2,male
+97630,4691,James Gandolfini,C.I.A. Director,7,7,52fe49e89251416c750d745b,2,male
+97630,73457,Chris Pratt,Justin - DEVGRU,8,8,52fe49e89251416c750d741d,2,male
+97630,208296,Callan Mulvey,Saber - DEVGRU,9,9,52fe49e89251416c750d7477,2,male
+76203,5294,Chiwetel Ejiofor,Solomon Northup,0,0,52fe492cc3a368484e11dfad,2,male
+76203,17288,Michael Fassbender,Edwin Epps,1,1,52fe492cc3a368484e11df9f,2,male
+76203,1267329,Lupita Nyong'o,Patsey,2,2,52fe492cc3a368484e11dff5,1,female
+76203,71580,Benedict Cumberbatch,William Ford,3,3,52fe492cc3a368484e11dfb9,2,male
+76203,17142,Paul Dano,John Tibeats,4,4,52fe492cc3a368484e11dfb5,2,male
+76203,34490,Sarah Paulson,Mary Epps,5,5,52fe492cc3a368484e11dfc5,1,female
+76203,467633,Adepero Oduye,Eliza,6,6,52fe492cc3a368484e11dfed,1,female
+76203,59233,Scoot McNairy,Brown,7,7,52fe492cc3a368484e11dfc9,2,male
+76203,13242,Paul Giamatti,Theophilus Freeman,8,8,52fe492cc3a368484e11dfe5,2,male
+76203,287,Brad Pitt,Samuel Bass,9,9,52fe492cc3a368484e11dfa3,2,male
+168672,3894,Christian Bale,Irving Rosenfeld,0,0,52fe4cd3c3a36847f8240665,2,male
+168672,51329,Bradley Cooper,Richie DiMaso,1,1,52fe4cd3c3a36847f824065d,2,male
+168672,9273,Amy Adams,Sydney Prosser,2,2,52fe4cd3c3a36847f8240669,1,female
+168672,17604,Jeremy Renner,Mayor Carmine Polito,3,3,52fe4cd3c3a36847f8240661,2,male
+168672,72129,Jennifer Lawrence,Rosalyn Rosenfeld,4,4,52fe4cd3c3a36847f8240671,1,female
+168672,52849,Louis C.K.,Stoddard Thorsen,5,5,52fe4cd3c3a36847f824066d,2,male
+168672,54738,Jack Huston,Pete Musane,6,6,52fe4cd3c3a36847f82406a9,2,male
+168672,454,Michael Peña,Paco Hernandez / Sheik Abdullah,7,7,52fe4cd3c3a36847f82406a5,2,male
+168672,74242,Shea Whigham,Carl Elway,8,8,52fe4cd3c3a36847f82406bf,2,male
+168672,4941,Alessandro Nivola,Anthony Amado,9,9,52fe4cd3c3a36847f8240693,2,male
+109424,31,Tom Hanks,Captain Richard Phillips,0,0,52fe4ab5c3a36847f81dd51d,2,male
+109424,1261694,Barkhad Abdi,Muse,1,1,52fe4ab5c3a36847f81dd545,2,male
+109424,1266859,Barkhad Abdirahman,Bilal,2,2,52fe4ab5c3a36847f81dd54d,2,male
+109424,1266858,Faysal  Ahmed,Najee,3,3,52fe4ab5c3a36847f81dd549,2,male
+109424,1266862,Mahat M. Ali,Elmi,4,4,52fe4ab5c3a36847f81dd551,2,male
+109424,87070,Michael Chernus,Shane Murphy,5,5,52fe4ab5c3a36847f81dd53d,2,male
+109424,37204,David Warshofsky,Mike Perry,6,6,52fe4ab5c3a36847f81dd535,2,male
+109424,17199,Corey Johnson,Ken Quinn,7,7,52fe4ab5c3a36847f81dd531,2,male
+109424,15824,Chris Mulkey,John Cronan,8,8,52fe4ab5c3a36847f81dd529,2,male
+109424,75604,Yul Vazquez,Captain Frank Castellano,9,9,52fe4ab5c3a36847f81dd52d,2,male
+152532,10297,Matthew McConaughey,Ron Woodroof,0,0,52fe4b239251416c910d1107,2,male
+152532,9278,Jennifer Garner,Eve,1,1,52fe4b239251416c910d110b,1,female
+152532,7499,Jared Leto,Rayon,2,2,52fe4b239251416c910d110f,2,male
+152532,81681,Denis O'Hare,Dr. Sevard,3,3,52fe4b239251416c910d1141,2,male
+152532,18324,Steve Zahn,Tucker,4,4,52fe4b239251416c910d112d,2,male
+152532,21710,Michael O'Neill,Richard Barkley,5,5,52fe4b239251416c910d113d,2,male
+152532,424,Dallas Roberts,David Wayne,6,6,52fe4b239251416c910d111f,2,male
+152532,2171,Griffin Dunne,Dr. Vass,7,7,52fe4b239251416c910d1135,2,male
+152532,114000,Kevin Rankin,T.J.,8,8,52fe4b239251416c910d1131,2,male
+152532,230995,Donna DuPlantier,Nurse Frazin,9,9,531bbf2b92514177b100488c,1,female
+49047,18277,Sandra Bullock,Ryan Stone,0,0,52fe4783c3a36847f8139d6b,1,female
+49047,1461,George Clooney,Matt Kowalski,1,1,52fe4783c3a36847f8139d6f,2,male
+49047,228,Ed Harris,Mission Control (voice),2,2,52fe4783c3a36847f8139dad,2,male
+49047,1223440,Orto Ignatiussen,Aningaaq (voice),3,3,52fe4783c3a36847f8139db5,2,male
+49047,58587,Phaldut Sharma,Shariff (voice),4,4,52fe4783c3a36847f8139db1,2,male
+49047,1223442,Amy Warren,Explorer Captain (voice),5,5,52fe4783c3a36847f8139db9,1,female
+49047,1027852,Basher Savage,Russian Space Station Captain (voice),6,6,52fe4783c3a36847f8139d8b,2,male
+152601,73421,Joaquin Phoenix,Theodore,0,0,52fe4b259251416c910d1639,2,male
+152601,1245,Scarlett Johansson,Samantha (voice),1,1,52fe4b259251416c910d164f,1,female
+152601,549831,Lynn Adrianna,Letter Writer #1,2,2,55f52fa19251416a7600093c,1,female
+152601,154798,Lisa Renee Pitts,Letter Writer #2,3,3,55f52fa19251415cf8000a4a,1,female
+152601,1509453,Gabe Gomez,Letter Writer #3,4,4,55f52fa29251415ca0000b0f,2,male
+152601,73457,Chris Pratt,Paul,5,5,52fe4b259251416c910d1653,2,male
+152601,1509454,Artt Butler,Text Voice (voice),6,6,55f52fa2c3a3686cfd00534e,2,male
+152601,1509455,May Lindstrom,Sexy Pregnant TV Star,7,7,55f52fa2c3a36871ec00534f,0,unspecified
+152601,108916,Rooney Mara,Catherine,8,8,52fe4b259251416c910d1635,1,female
+152601,19278,Bill Hader,Chat Room Friend #2 (voice),9,9,52fe4b269251416c910d1671,2,male
+129670,6905,Bruce Dern,Woody Grant,0,0,52fe4b43c3a368484e1800bf,2,male
+129670,62831,Will Forte,David Grant,1,1,52fe4b43c3a368484e1800bb,2,male
+129670,35515,June Squibb,Kate Grant,2,2,52fe4b43c3a368484e1800f1,1,female
+129670,59410,Bob Odenkirk,Ross Grant,3,3,52fe4b43c3a368484e1800ed,2,male
+129670,825,Stacy Keach,Ed Pegram,4,4,52fe4b43c3a368484e1800f5,2,male
+129670,115767,Mary Louise Wilson,Aunt Martha,5,5,52fe4b43c3a368484e180115,1,female
+129670,22250,Rance Howard,Uncle Ray,6,6,53832e280e0a2624cb00c1d3,2,male
+129670,3146273,Tim Driscoll,Bart,7,7,60e29f00a1d3320075b0a181,0,unspecified
+129670,11516,Devin Ratray,Cole,8,8,52fe4b43c3a368484e180109,2,male
+129670,1033573,Angela McEwan,Peg Nagy,9,9,52fe4b43c3a368484e180105,1,female
+205220,5309,Judi Dench,Philomena,0,0,52fe4d04c3a368484e1d27b3,1,female
+205220,4581,Steve Coogan,Martin Sixsmith,1,1,52fe4d04c3a368484e1d27b7,2,male
+205220,1151957,Sophie Kennedy Clark,Young Philomena,2,2,52fe4d04c3a368484e1d27cf,1,female
+205220,51544,Mare Winningham,Mary Hess,3,3,52fe4d04c3a368484e1d27bf,1,female
+205220,8926,Barbara Jefford,Sister Hildegarde,4,4,568b5014c3a36828f5023c53,1,female
+205220,17026,Ruth McCabe,Mother Barbara,5,5,568b5034c3a3684bcc02f224,1,female
+205220,50117,Peter Hermann,Pete Olsson,6,6,52fe4d04c3a368484e1d27e7,2,male
+205220,117165,Sean Mahon,Michael Hess,7,7,52fe4d04c3a368484e1d27d7,2,male
+205220,29236,Anna Maxwell Martin,Jane,8,8,52fe4d04c3a368484e1d27c3,1,female
+205220,20057,Michelle Fairley,Sally Mitchell,9,9,52fe4d04c3a368484e1d27bb,1,female
+106646,6193,Leonardo DiCaprio,Jordan Belfort,0,0,618978a62f266b002118dd89,2,male
+106646,21007,Jonah Hill,Donnie Azoff,1,1,618978c9e741460043941416,2,male
+106646,234352,Margot Robbie,Naomi Lapaglia,2,2,618978b9cf62cd008c7665c8,1,female
+106646,10297,Matthew McConaughey,Mark Hanna,3,3,52fe4a6dc3a36847f81cd4ef,2,male
+106646,3497,Kyle Chandler,Agent Patrick Denham,4,4,52fe4a6dc3a36847f81cd4ff,2,male
+106646,3026,Rob Reiner,Max Belfort,5,5,52fe4a6dc3a36847f81cd50b,2,male
+106646,19498,Jon Bernthal,Brad,6,6,52fe4a6dc3a36847f81cd4f3,2,male
+106646,15277,Jon Favreau,Manny Riskin,7,7,52fe4a6dc3a36847f81cd4f7,2,male
+106646,56024,Jean Dujardin,Jean Jacques Saurel,8,8,52fe4a6dc3a36847f81cd50f,2,male
+106646,34901,Joanna Lumley,Aunt Emma,9,9,52fe4a6dc3a36847f81cd529,1,female
+190859,51329,Bradley Cooper,Chris Kyle,0,0,549e6afec3a368764f0039ca,2,male
+190859,23459,Sienna Miller,Taya Renae Kyle,1,1,5430143a0e0a26464c0008ab,1,female
+190859,59219,Kyle Gallner,Goat-Winston,2,2,5430150cc3a36831ac000939,2,male
+190859,1530518,Cole Konis,Young Chris Kyle,3,3,56369dd0c3a3681b5401c9b9,2,male
+190859,163139,Ben Reed,Wayne Kyle,4,4,56369e09925141285701b722,2,male
+190859,169334,Elise Robertson,Debbie Kyle,5,5,56369e289251416d5200d497,1,female
+190859,39213,Keir O'Donnell,Jeff Kyle,6,6,54301557c3a36831b800093b,2,male
+190859,1530524,Luke Sunshine,Young Jeff Kyle,7,7,56369e8dc3a3681b4d01dd6f,2,male
+190859,1502954,Kevin Lacz,Dauber,8,8,5636a143c3a3681b5401ca11,2,male
+190859,549063,Troy Vincent,Pastor,9,9,56369eb1c3a3681b5401c9cd,0,unspecified
+194662,2232,Michael Keaton,Riggan,0,0,52fe4cf29251416c91105647,2,male
+194662,54693,Emma Stone,Sam,1,1,52fe4cf29251416c9110564b,1,female
+194662,58225,Zach Galifianakis,Jake,2,2,52fe4cf29251416c9110564f,2,male
+194662,819,Edward Norton,Mike,3,3,52fe4cf29251416c91105653,2,male
+194662,127558,Andrea Riseborough,Laura,4,4,534d5e0b0e0a2679e300024f,1,female
+194662,3489,Naomi Watts,Lesley,5,5,52fe4cf29251416c91105657,1,female
+194662,39388,Amy Ryan,Sylvia,6,6,52fe4cf29251416c9110565b,1,female
+194662,30083,Lindsay Duncan,Tabitha,7,7,543e79c80e0a266f7700233d,1,female
+194662,28044,Merritt Wever,Annie,8,8,543e79be0e0a266f8e00231a,1,female
+194662,155222,Jeremy Shamos,Ralph,9,9,552303d19251417096004404,2,male
+85350,931944,Ellar Coltrane,Mason,0,0,52fe49369251416c910a641d,3,nonbinary
+85350,4687,Patricia Arquette,Mom,1,1,52fe49369251416c910a6421,1,female
+85350,569,Ethan Hawke,Dad,2,2,52fe49369251416c910a6425,2,male
+85350,1327009,Lorelei Linklater,Samantha,3,3,538ce00ac3a368714e0032f1,1,female
+85350,2857,Libby Villari,Grandma,4,4,5556f1a4c3a368776f005a23,1,female
+85350,994259,Marco Perella,Professor Bill Welbrock,5,5,5556ffe6c3a368776f005d26,2,male
+85350,144077,Brad Hawkins,Jim,6,6,555827f2c3a3687774007cd9,2,male
+85350,1467528,Jamie Howard,Mindy,7,7,55570082c3a368777400529d,0,unspecified
+85350,1467529,Andrew Villarreal,Randy,8,8,555700cac3a368776a004eb9,0,unspecified
+85350,955807,Jenni Tooley,Annie,9,9,55583b4f9251410b390001e6,1,female
+273895,35013,David Oyelowo,"Dr. Martin Luther King, Jr.",0,0,5e85ebfc0c3ec800175ab4cd,2,male
+273895,37158,Carmen Ejogo,Coretta Scott King,1,1,53a851200e0a2614360060be,1,female
+273895,207,Tom Wilkinson,President Lyndon B. Johnson,2,2,53a851100e0a26143c005dcd,2,male
+273895,1771,Giovanni Ribisi,Lee White,3,3,53a851780e0a26143c005dd6,2,male
+273895,3129,Tim Roth,Gov. George Wallace,4,4,54ad4525c3a368241e004bdb,2,male
+273895,459980,André Holland,Andrew Young,5,5,53a851370e0a261445005f06,2,male
+273895,91671,Colman Domingo,Ralph Abernathy,6,6,53a851930e0a261445005f0b,2,male
+273895,4238,Common,James Bevel,7,7,54ad452bc3a36822b7006132,2,male
+273895,1388314,Stephan James,John Lewis,8,8,54b0aa59c3a3680939001107,2,male
+273895,59844,Omar J. Dorsey,James Orange,9,9,53a8514b0e0a26143c005dd2,2,male
+120467,5469,Ralph Fiennes,M. Gustave,0,0,52fe4a47c3a368484e14a76d,2,male
+120467,1164,F. Murray Abraham,Mr. Moustafa,1,1,52fe4a47c3a368484e14a79d,2,male
+120467,1291350,Tony Revolori,Zero,2,2,5319c2e0c3a3685c43002ea6,2,male
+120467,3490,Adrien Brody,Dmitri,3,3,52fe4a47c3a368484e14a789,2,male
+120467,5293,Willem Dafoe,Jopling,4,4,52fe4a47c3a368484e14a785,2,male
+120467,8789,Mathieu Amalric,Serge X.,5,5,52fe4a47c3a368484e14a7a1,2,male
+120467,4785,Jeff Goldblum,Deputy Kovacs,6,6,52fe4a47c3a368484e14a791,2,male
+120467,1037,Harvey Keitel,Ludwig,7,7,52fe4a47c3a368484e14a795,2,male
+120467,9642,Jude Law,Young Author,8,8,52fe4a47c3a368484e14a779,2,male
+120467,1532,Bill Murray,M. Ivan,9,9,52fe4a47c3a368484e14a775,2,male
+205596,71580,Benedict Cumberbatch,Alan Turing,0,0,52fe4d0cc3a368484e1d4157,2,male
+205596,116,Keira Knightley,Joan Clarke,1,1,52fe4d0cc3a368484e1d415b,1,female
+205596,1247,Matthew Goode,Hugh Alexander,2,2,54519445c3a368023c005180,2,male
+205596,139549,Rory Kinnear,Detective Robert Nock,3,3,5363bfdbc3a368158d00277c,2,male
+205596,85718,Allen Leech,John Cairncross,4,4,5363bfebc3a368159f002834,2,male
+205596,213394,Matthew Beard,Peter Hilton,5,5,5363bff4c3a368157d00274b,2,male
+205596,4391,Charles Dance,Commander Denniston,6,6,5363bfe2c3a3681586002734,2,male
+205596,2983,Mark Strong,Stewart Menzies,7,7,5363bfd3c3a368159f00282f,2,male
+205596,1362119,James Northcote,Jack Good,8,8,545195c30e0a263a180051c9,2,male
+205596,43034,Tom Goodman-Hill,Sergeant Staehl,9,9,5451952ac3a368023c0051a2,2,male
+266856,37632,Eddie Redmayne,Stephen Hawking,0,0,53db406e0e0a261897000df6,2,male
+266856,72855,Felicity Jones,Jane Hawking,1,1,535c6df30e0a264feb0022c0,1,female
+266856,23458,Charlie Cox,Jonathan Hellyer Jones,2,2,546e7287c3a3682faa0000a1,2,male
+266856,1639,Emily Watson,Beryl Wilde,3,3,535c6e040e0a264fe800232b,1,female
+266856,16358,Simon McBurney,Frank Hawking,4,4,546e724ac3a3682fa10000c4,2,male
+266856,11207,David Thewlis,Dennis Sciama,5,5,535c6e2e0e0a264fd5002390,2,male
+266856,76944,Maxine Peake,Elaine Mason,6,6,535c7025c3a36830b0002bd6,1,female
+266856,205258,Harry Lloyd,Brian,7,7,535c6e1e0e0a264fdb0021ac,2,male
+266856,1361963,Tom Prior,Robert Hawking (Age 17),8,8,546e733192514112eb0000e6,2,male
+266856,1387383,Sophie Perry,Lucy Hawking (Age 14),9,9,546e734a92514112f00000be,0,unspecified
+244786,996701,Miles Teller,Andrew,0,0,52fe4ef7c3a36847f82b3fc3,2,male
+244786,18999,J.K. Simmons,Fletcher,1,1,52fe4ef7c3a36847f82b3fc7,2,male
+244786,781,Paul Reiser,Jim,2,2,5466cd46eaeb817274000acb,2,male
+244786,129104,Melissa Benoist,Nicole,3,3,52fe4ef7c3a36847f82b3fe3,1,female
+244786,970216,Austin Stowell,Ryan,4,4,52fe4ef7c3a36847f82b3fe7,2,male
+244786,1451540,Nate Lang,Carl,5,5,5525414d925141720c001b56,2,male
+244786,15824,Chris Mulkey,Uncle Frank,6,6,5525415fc3a3687df80016c4,2,male
+244786,53454,Damon Gupton,Mr. Kramer,7,7,5525416c9251417276001927,2,male
+244786,1212459,Suanne Spoke,Aunt Emma,8,8,55254179c3a3687ded0016cf,1,female
+244786,52939,Max Kasch,Dorm Neighbor,9,9,552541869251417be200a8f2,2,male
+296098,31,Tom Hanks,James B. Donovan,0,0,54304fd80e0a26464c000ffd,2,male
+296098,40900,Mark Rylance,Rudolf Abel,1,1,543050090e0a26464c001002,2,male
+296098,39388,Amy Ryan,Mary Donovan,2,2,54304fe90e0a26464300102d,1,female
+296098,21278,Alan Alda,Thomas Watters Jr.,3,3,54304ff1c3a36831b20010f6,2,male
+296098,8197,Sebastian Koch,Wolfgang Vogel,4,4,562aa23892514140060014a1,2,male
+296098,970216,Austin Stowell,Francis Gary Powers,5,5,55f009a69251413e4501d3ad,2,male
+296098,141034,Billy Magnussen,Doug Forrester,6,6,54304ff80e0a26464300102f,2,male
+296098,1371012,Michael Simon Hall,Reporter,7,7,54305001c3a36831a6001120,2,male
+296098,91453,Edward James Hyland,Chief Justice Earl Warren,8,8,54305016c3a36831ac001064,2,male
+296098,79991,Stephen Kunken,William Tompkins,9,9,54305021c3a36831a9000ff3,2,male
+167073,36592,Saoirse Ronan,Eilis Lacey,0,0,53d14a2e0e0a265e0100cd01,1,female
+167073,93210,Domhnall Gleeson,Jim Farrell,1,1,53d14a390e0a265de700d193,2,male
+167073,1041440,Emory Cohen,Tony Fiorello,2,2,53d14a4e0e0a265df000d085,2,male
+167073,388,Jim Broadbent,Father Flood,3,3,55e7d750c3a3682c76001117,2,male
+167073,477,Julie Walters,Madge Kehoe,4,4,5649523a9251413acf009f02,1,female
+167073,82096,Jessica Paré,Miss Fortini,5,5,55e7d6c8c3a3682c6200129c,1,female
+167073,1092908,Eve Macklin,Diana Montini,6,6,53d14a8b0e0a265dfc00cebc,1,female
+167073,42601,Brid Brennan,Miss Kelly,7,7,56623fe49251412acd0013b1,1,female
+167073,43135,Fiona Glascott,Rose Lacey,8,8,56623fe5c3a3682bcd0013d1,1,female
+167073,1233105,Jane Brennan,Mary Lacey,9,9,56623fe5c3a3682bd80015ca,1,female
+76341,2524,Tom Hardy,Max Rockatansky,0,0,52fe4933c3a368484e11f773,2,male
+76341,6885,Charlize Theron,Imperator Furiosa,1,1,560e8a2bc3a368681f00b80c,1,female
+76341,3292,Nicholas Hoult,Nux,2,2,52fe4933c3a368484e11f77b,2,male
+76341,26060,Hugh Keays-Byrne,Immortan Joe,3,3,55549e64c3a3682086002b85,2,male
+76341,1056053,Josh Helman,Slit,4,4,55549e84c3a36820800028e6,2,male
+76341,24898,Nathan Jones,Rictus Erectus,5,5,53d450f70e0a26283e002f36,2,male
+76341,37153,Zoë Kravitz,Toast the Knowing,6,6,52fe4933c3a368484e11f787,1,female
+76341,236048,Rosie Huntington-Whiteley,The Splendid Angharad,7,7,53d450c50e0a262841002dc1,1,female
+76341,98522,Riley Keough,Capable,8,8,53d450e00e0a26284d002ba5,1,female
+76341,1036288,Abbey Lee,The Dag,9,9,52fe4933c3a368484e11f791,1,female
+264644,60073,Brie Larson,Ma,0,0,534c1a980e0a2640bf0037fc,1,female
+264644,1277188,Jacob Tremblay,Jack,1,1,557736c7c3a3683970000611,2,male
+264644,11148,Joan Allen,Nancy,2,2,54ac31349251415757004228,1,female
+264644,144160,Sean Bridgers,Old Nick,3,3,55b94ac592514123e70027ba,2,male
+264644,64712,Tom McCamus,Leo,4,4,560efe09c3a368682400c62c,2,male
+264644,3905,William H. Macy,Robert,5,5,54ac312992514155f20042bc,2,male
+264644,59214,Cas Anvar,Dr. Mittal,6,6,560efe08c3a368681000d6b6,2,male
+264644,1232769,Amanda Brugel,Officer Parker,7,7,5577369f925141372d0002cd,1,female
+264644,19957,Wendy Crewson,Talk Show Hostess,8,8,560efe089251414feb003ce4,1,female
+264644,86237,Joe Pingue,Officer Grabowski,9,9,560efe08c3a368681f00c41b,2,male
+314365,103,Mark Ruffalo,Michael Rezendes,0,0,54a1a950c3a3682f1b00d3fe,2,male
+314365,2232,Michael Keaton,Walter 'Robby' Robinson,1,1,54a1a937925141190d001de5,2,male
+314365,53714,Rachel McAdams,Sacha Pfeiffer,2,2,54a1a906c3a3680b2700b897,1,female
+314365,23626,Liev Schreiber,Marty Baron,3,3,54a1a992925141236b0044cd,2,male
+314365,21134,John Slattery,"Ben Bradlee, Jr.",4,4,54a1a9dcc3a3682f1e00d1b7,2,male
+314365,175829,Brian d'Arcy James,Matt Carroll,5,5,563a3f1892514129fe014462,2,male
+314365,2283,Stanley Tucci,Mitchell Garabedian,6,6,54a1a977925141198b001e09,2,male
+314365,1217270,Elena Wohl,Barbara,7,7,563ad8c2c3a3681b54024d97,1,female
+314365,1616703,Gene Amoroso,Steve Kurkjian,8,8,572eb96ec3a3684dc9000b0f,2,male
+314365,60091,Doug Murray,Peter Canellos,9,9,572eb9ec92514173a10016f2,2,male
+318846,4495,Steve Carell,Mark Baum,0,0,55187d649251412c1e0032f5,2,male
+318846,3894,Christian Bale,Michael Burry,1,1,55187d53c3a36862f600484f,2,male
+318846,30614,Ryan Gosling,Jared Vennett,2,2,55187d5e9251411500001d0c,2,male
+318846,287,Brad Pitt,Ben Rickert,3,3,55187d59c3a36862f6004854,2,male
+318846,3141,Marisa Tomei,Cynthia Baum,4,4,5572220ac3a368382b0024cd,1,female
+318846,6832,Melissa Leo,Georgia Hale,5,5,557221e292514111070006da,1,female
+318846,184581,Hamish Linklater,Porter Collins,6,6,5605e2159251413058000264,2,male
+318846,37154,John Magaro,Charlie Geller,7,7,5605e222925141305e000259,2,male
+318846,28847,Rafe Spall,Danny Moses,8,8,5605e2089251413064000265,2,male
+318846,239271,Jeremy Strong,Vinny Daniel,9,9,5605e2409251413055000277,2,male
+286217,1892,Matt Damon,Mark Watney,0,0,53e7e85e0e0a266f9a0029aa,2,male
+286217,83002,Jessica Chastain,Melissa Lewis,1,1,5466c78eeaeb8172820008e4,1,female
+286217,41091,Kristen Wiig,Annie Montrose,2,2,5497ab23c3a368054b0009b4,1,female
+286217,8447,Jeff Daniels,"Theodore ""Teddy"" Sanders",3,3,54a7fe92c3a3680c33001972,2,male
+286217,454,Michael Peña,Rick Martinez,4,4,54bad6cc9251411d77006bc3,2,male
+286217,48,Sean Bean,Mitch Henderson,5,5,54a7feb3c3a3680c33001977,2,male
+286217,51072,Kate Mara,Beth Johanssen,6,6,54a7fe889251414d6a001b59,1,female
+286217,60898,Sebastian Stan,Chris Beck,7,7,54bad6e49251411d79006a03,2,male
+286217,76547,Aksel Hennie,Alex Vogel,8,8,547c8ad89251412d70003329,2,male
+286217,5294,Chiwetel Ejiofor,Vincent Kapoor,9,9,54bad6fec3a3686c61006835,2,male
+281957,6193,Leonardo DiCaprio,Hugh Glass,0,0,53c3fe750e0a26157c00cada,2,male
+281957,2524,Tom Hardy,John Fitzgerald,1,1,53c3fe800e0a26157900cd6a,2,male
+281957,93210,Domhnall Gleeson,Captain Andrew Henry,2,2,54973035c3a36831b80044d7,2,male
+281957,93491,Will Poulter,Jim Bridger,3,3,53c3fe880e0a26158900cf0b,2,male
+281957,1560185,Forrest Goodluck,Hawk,4,4,56903baac3a3684b52000087,2,male
+281957,117428,Duane Howard,Elk Dog,5,5,56903baac3a3684b48000086,2,male
+281957,1839463,Arthur Redcloud,Hikuc,6,6,595133fb92514128e100d6d8,2,male
+281957,2498673,Melaw Nakehk'o,Powaqa,7,7,5e0faaf76f43ec0014588bfd,1,female
+281957,1554188,Grace Dove,Hugh Glass' Wife,8,8,567fa9749251414f6300566a,1,female
+281957,526,Lukas Haas,Jones,9,9,55b1772d9251411e0b00ed0e,2,male
+329865,9273,Amy Adams,Louise Banks,0,0,55219ec8c3a3684dc900362d,1,female
+329865,17604,Jeremy Renner,Ian Donnelly,1,1,55219ecfc3a36828d1001f01,2,male
+329865,2178,Forest Whitaker,Colonel Weber,2,2,55219ed692514171cb0018c7,2,male
+329865,72873,Michael Stuhlbarg,Agent Halpern,3,3,57591108925141090600187d,2,male
+329865,225411,Mark O'Brien,Captain Marks,4,4,577ddc3f9251415d9e004fdd,2,male
+329865,21629,Tzi Ma,General Shang,5,5,577ddc31c3a36817f80050cd,2,male
+329865,1646444,Abigail Pniowsky,8-Year-Old Hannah,6,6,577ddced9251415d91004f6d,1,female
+329865,1522166,Julia Scarlett Dan,12-Year-Old Hannah,7,7,577ddd0dc3a36817fb004bb7,1,female
+329865,1646448,Jadyn Malone,6-Year-Old Hannah,8,8,577dde519251415d98004cc7,1,female
+329865,135993,Frank Schorpion,Dr. Kettler,9,9,5898a7229251417a8e00ba4f,2,male
+393457,5292,Denzel Washington,Troy Maxson,0,0,57150dd2c3a36870c3000191,2,male
+393457,19492,Viola Davis,Rose Maxson,1,1,57150dde9251413d22000917,1,female
+393457,196179,Stephen McKinley Henderson,Jim Bono,2,2,5865c2cd9251412b8d025b54,2,male
+393457,1607522,Jovan Adepo,Cory Maxson,3,3,57150e3ac3a3682f4500074e,2,male
+393457,62649,Russell Hornsby,Lyons Maxson,4,4,57150e0592514146c800080b,2,male
+393457,34,Mykelti Williamson,Gabriel Maxson,5,5,57150dea9251413d2200091b,2,male
+393457,1607523,Saniyya Sidney,Raynell Maxson,6,6,57150e78c3a36870c300019e,1,female
+393457,99407,Lesley Boone,Evangelist Preacher,7,7,585921ddc3a368258c0630d9,1,female
+393457,1725188,Christopher Mele,Deputy Commissioner,8,8,585921a9c3a3682dfe06c5c6,2,male
+393457,134937,Jason Silvis,Garbage Truck Driver,9,9,585921f992514122d200572a,2,male
+324786,37625,Andrew Garfield,Desmond T. Doss,0,0,55b9d30892514123d8003c55,2,male
+324786,65731,Sam Worthington,Captain Glover,1,1,56108d1f9251414feb006fb1,2,male
+324786,4937,Vince Vaughn,Sgt Howell,2,2,55b9d31ec3a3684aed003f78,2,male
+324786,20374,Teresa Palmer,Dorothy Schuttle,3,3,56108cfac3a36868140117ec,1,female
+324786,972356,Luke Bracey,Smitty Ryker,4,4,579a121fc3a3680e430026e7,2,male
+324786,1331,Hugo Weaving,Tom Doss,5,5,579a1230925141408e004276,2,male
+324786,3052,Rachel Griffiths,Bertha Doss,6,6,56108d4892514178990005a0,1,female
+324786,1213279,Ryan Corr,Lieutenant Manville,7,7,579f2b93c3a3683ba900021d,2,male
+324786,12206,Richard Roxburgh,Colonel Stelzer,8,8,579f2b4ac3a3683bd70001bc,2,male
+324786,61784,Goran D. Kleut,Andy 'Ghoul' Walker,9,9,579f2bd9c3a3683ba9000235,2,male
+338766,1229,Jeff Bridges,Marcus Hamilton,0,0,5547eea3c3a3687886000110,2,male
+338766,62064,Chris Pine,Toby Howard,1,1,5547ee9bc3a368788600010e,2,male
+338766,11107,Ben Foster,Tanner Howard,2,2,5547eeaa92514155f40000fd,2,male
+338766,84225,Gil Birmingham,Alberto Parker,3,3,572f8b74c3a36874eb000b2f,2,male
+338766,164094,Marin Ireland,Debbie Howard,4,4,572f8b9f9251415cc10026ea,1,female
+338766,114000,Kevin Rankin,Billy Rayburn,5,5,563ea327c3a3681b6102d94a,2,male
+338766,46814,Dale Dickey,Elsie,6,6,563ea2f49251417819009b36,1,female
+338766,202830,William Sterchi,Mr. Clauson,7,7,57a8050ec3a368254e00213a,2,male
+338766,2090296,Kristin K. Berg,Olney Teller,8,8,69f04410d63e2fb8f0abc1bb,1,female
+338766,59450,Katy Mixon,Jenny Ann,9,9,563ea2e692514134420048d9,1,female
+381284,40036,Taraji P. Henson,Katherine G. Johnson,0,0,574362179251416ce6003c2a,1,female
+381284,6944,Octavia Spencer,Dorothy Vaughan,1,1,5743621e92514101fa001479,1,female
+381284,1005852,Janelle Monáe,Mary Jackson,2,2,5743624092514133ba000e6c,3,nonbinary
+381284,1269,Kevin Costner,Al Harrison,3,3,574362259251415bee0009d4,2,male
+381284,205,Kirsten Dunst,Vivian Mitchell,4,4,5743624bc3a36852d100152d,1,female
+381284,5374,Jim Parsons,Paul Stafford,5,5,57b3876e925141274a00090b,2,male
+381284,932967,Mahershala Ali,Jim Johnson,6,6,5743626a9251416ce6003c37,2,male
+381284,83271,Glen Powell,John Glenn,7,7,57436256c3a368534200169a,2,male
+381284,1141877,Ariana Neal,Joylette Johnson,8,8,5871c43e925141356c010edc,1,female
+381284,1607523,Saniyya Sidney,Constance Johnson,9,9,5871c44cc3a3684f23012d32,1,female
+313369,30614,Ryan Gosling,Sebastian,0,0,575d52d99251415a0a004d9f,2,male
+313369,54693,Emma Stone,Mia,1,1,575d52e3c3a3684516000671,1,female
+313369,113461,John Legend,Keith,2,2,575d53ed9251412443001dc0,2,male
+313369,14892,Rosemarie DeWitt,Laura,3,3,575d53d49251412443001db8,1,female
+313369,168877,Finn Wittrock,Greg,4,4,575d53bfc3a368451600069c,2,male
+313369,1486488,Callie Hernandez,Tracy,5,5,575d53f8c3a3685e2a0002c4,1,female
+313369,1457238,Sonoya Mizuno,Caitlin,6,6,575d53cbc3a36873a3003410,1,female
+313369,1427680,Jessica Rothe,Alexis,7,7,575d54479251414ed500167e,1,female
+313369,16857,Tom Everett Scott,David,8,8,57df4f8fc3a3681da00036eb,2,male
+313369,928532,Josh Pence,Josh,9,9,575d54019251412b0c003132,2,male
+334543,76788,Dev Patel,Saroo Brierley,0,0,5521bd6ac3a368333a001d2d,2,male
+334543,108916,Rooney Mara,Lucy,1,1,55530902c3a3686343000ea0,1,female
+334543,1371,David Wenham,John Brierley,2,2,568a67a292514169d0015b57,2,male
+334543,2227,Nicole Kidman,Sue Brierley,3,3,5521bd5bc3a3684dd400462b,1,female
+334543,1717046,Sunny Pawar,Young Saroo,4,4,58408a0ec3a36832d6001e05,2,male
+334543,1750435,Abhishek Bharate,Guddu,5,5,5896596092514129c800bcec,2,male
+334543,1296866,Priyanka Bose,Kamla Munshi,6,6,5710aef9c3a36860a80042f0,1,female
+334543,1285715,Divian Ladwa,Mantosh Brierley,7,7,5a0ae2779251413118018ea2,2,male
+334543,150220,Deepti Naval,Saroj Sood,8,8,5710aefac3a36831e1002e34,1,female
+334543,87297,Tannishtha Chatterjee,Noor,9,9,5521bd7a9251415c7f004004,1,female
+334541,1893,Casey Affleck,Lee Chandler,0,0,5521bb919251415c870040e1,2,male
+334541,1105079,Lucas Hedges,Patrick Chandler,1,1,5521bb999251415c7c004154,2,male
+334541,1812,Michelle Williams,Randi Chandler,2,2,5521bb8dc3a3684dc1003e72,1,female
+334541,3497,Kyle Chandler,Joe Chandler,3,3,5521bb85c3a36828d100209e,2,male
+334541,1363367,C.J. Wilson,George,4,4,582116459251417cd8001bcd,2,male
+334541,15370,Gretchen Mol,Elise Henderson,5,5,564f970ec3a3680712004d19,1,female
+334541,4756,Matthew Broderick,Jeffrey Garner,6,6,582116239251417ce1001c0a,2,male
+334541,1724137,Anna Baryshnikov,Sandy,7,7,58563733c3a3682fb8056678,1,female
+334541,26716,Heather Burns,Jill,8,8,564f979d9251414b0a004e36,1,female
+334541,1730737,Ivy O'Brien,Young Patrick Chandler,9,9,5868989cc3a3680f45008988,1,female
+376867,1650301,Trevante Rhodes,Black,0,0,57acaebf9251417409000461,2,male
+376867,459980,André Holland,Kevin,1,1,573b4b4392514113ac00002d,2,male
+376867,1005852,Janelle Monáe,Teresa,2,2,57acaea8c3a3681daa00294c,3,nonbinary
+376867,1152019,Ashton Sanders,Chiron,3,3,57acaed2c3a3681ee300058a,2,male
+376867,1664716,Jharrel Jerome,Kevin Age 16,4,4,57acaeefc3a3681daa00296c,2,male
+376867,1688889,Alex R. Hibbert,Little,5,5,57f34064c3a368334500636d,2,male
+376867,1699116,Jaden Piner,Kevin Age 9,6,6,580e6f89c3a36859a40037f1,2,male
+376867,2038,Naomie Harris,Paula,7,7,573b4b26c3a3684df7000031,1,female
+376867,932967,Mahershala Ali,Juan,8,8,573b4b3192514113b6000038,2,male
+376867,1723625,Shariff Earp,Terrence,9,9,5854565dc3a368258c02a1dc,2,male
+398818,1190668,Timothée Chalamet,Elio,0,0,5742ea41c3a3686c8c001a7a,2,male
+398818,53807,Armie Hammer,Oliver,1,1,5742ea48925141111a001d27,2,male
+398818,72873,Michael Stuhlbarg,Mr. Perlman,2,2,5742ea51c3a3687755002666,2,male
+398818,20577,Amira Casar,Annella,3,3,57ce8a99c3a36843f500014e,1,female
+398818,935096,Esther Garrel,Marzia,4,4,5854c38d9251416fad0389af,1,female
+398818,1592949,Victoire du Bois,Chiara,5,5,5854c3a4c3a368258f031def,1,female
+398818,1789600,Vanda Capriolo,Mafalda,6,6,58e3cb3dc3a3684aa401222a,1,female
+398818,1789602,Antonio Rimoldi,Anchise,7,7,58e3cb44c3a3684a79012bcf,2,male
+398818,1526272,Elena Bucci,Bambi,8,8,58e3cb3892514179de013c00,1,female
+398818,1789603,Marco Sgrosso,Nico,9,9,58e3cb4992514127f0021f78,2,male
+399404,64,Gary Oldman,Winston Churchill,0,0,57474ec092514139cf000571,2,male
+399404,8435,Stephen Dillane,Viscount Halifax,1,1,58e3c2e19251412835020a6d,2,male
+399404,1016168,Lily James,Elizabeth Layton,2,2,57d2ed0ac3a3684278001371,1,female
+399404,32556,Ronald Pickup,Neville Chamberlain,3,3,59d715e992514124c900721b,2,male
+399404,77335,Ben Mendelsohn,King George VI,4,4,57d2ed15c3a36842910015e7,2,male
+399404,5470,Kristin Scott Thomas,Clemmie,5,5,57d2ed26c3a36842910015ee,1,female
+399404,26121,Nicholas Jones,Sir John Simon,6,6,58e3c34692514127ec02283a,2,male
+399404,54447,Samuel West,Sir Anthony Eden,7,7,59da27b4c3a368624d03f25a,2,male
+399404,939,David Schofield,Clement Atlee,8,8,5a556ff10e0a2607e001ac35,2,male
+399404,141551,Richard Lumsden,General Ismay,9,9,581eab429251410a16014589,2,male
+374720,1687041,Fionn Whitehead,Tommy,0,0,58a001549251412605001ca8,2,male
+374720,2524,Tom Hardy,Farrier,1,1,56cd9fd9c3a36827730024fe,2,male
+374720,40900,Mark Rylance,Mr. Dawson,2,2,56cd9fcbc3a3682759002633,2,male
+374720,11181,Kenneth Branagh,Commander Bolton,3,3,56cd9fbac3a36827770027e1,2,male
+374720,2037,Cillian Murphy,Shivering Soldier,4,4,57884d1ac3a3683919004522,2,male
+374720,1290466,Barry Keoghan,George,5,5,57a4a76a92514132fa003795,2,male
+374720,1052109,Harry Styles,Alex,6,6,56e368a6c3a3685a9e001732,2,male
+374720,145143,Aneurin Barnard,Gibson,7,7,57a4a644c3a36866d9003bd7,2,male
+374720,579211,Damien Bonnard,French Soldier,8,8,58b1959ec3a368077500c818,2,male
+374720,1324608,Lee Armstrong,Grenadier,9,9,600ccb3f75f1ad003d381c87,2,male
+419430,206919,Daniel Kaluuya,Chris Washington,0,0,57f44d5c925141398a001da4,2,male
+419430,1255540,Allison Williams,Rose Armitage,1,1,57f44d88c3a3680529001cb0,1,female
+419430,2229,Catherine Keener,Missy Armitage,2,2,581e4d789251410a1100ec97,1,female
+419430,11367,Bradley Whitford,Dean Armitage,3,3,57f4d7549251411c810039cc,2,male
+419430,572541,Caleb Landry Jones,Jeremy Armitage,4,4,581e4d3b9251410a0400f221,2,male
+419430,1291961,Marcus Henderson,Walter,5,5,57f4d7d7c3a3684560000d7b,2,male
+419430,1660452,Betty Gabriel,Georgina,6,6,57f4d76ac3a3680553003a5f,1,female
+419430,1200864,LaKeith Stanfield,Andre Logan King,7,7,581e4dccc3a36806f900f185,2,male
+419430,17401,Stephen Root,Jim Hudson,8,8,58ae5c98c3a368357a00086d,2,male
+419430,1488961,Lil Rel Howery,Rod Williams,9,9,589cf441c3a368114f002ff9,2,male
+391713,36592,Saoirse Ronan,Lady Bird McPherson,0,0,5705b7b4c3a3685d4400088b,1,female
+391713,12133,Laurie Metcalf,Marion McPherson,1,1,57ce6ea392514160ce0017fe,1,female
+391713,72638,Tracy Letts,Larry McPherson,2,2,57ce6eb392514119ce000446,2,male
+391713,1105079,Lucas Hedges,Danny O'Neill,3,3,57ce6eab92514161000018c5,2,male
+391713,1190668,Timothée Chalamet,Kyle Sheible,4,4,57ce6ec3c3a36806d6000428,2,male
+391713,1496393,Beanie Feldstein,Julie Steffans,5,5,57ce6eba925141199b00045b,1,female
+391713,2207,Lois Smith,Sister Sarah Joan,6,6,59a8606092514157ee019ac0,1,female
+391713,196179,Stephen McKinley Henderson,Father Leviatch,7,7,58e1f66d92514127f600951b,2,male
+391713,1121786,Odeya Rush,Jenna Walton,8,8,5819398792514133ab001f9c,1,female
+391713,1231115,Jordan Rodrigues,Miguel McPherson,9,9,581939dbc3a368094b00207c,2,male
+400617,11856,Daniel Day-Lewis,Reynolds Woodcock,0,0,57516e409251412317000bc0,2,male
+400617,1080195,Vicky Krieps,Alma Elson,1,1,5891096692514103fd00b06e,1,female
+400617,72305,Lesley Manville,Cyril Woodcock,2,2,5891091292514103f300b8b3,1,female
+400617,38809,Camilla Rutherford,Johanna,3,3,59116279c3a36864ec03ac2e,1,female
+400617,18022,Gina McKee,Countess Henrietta Harding,4,4,5a22c79292514103360b9632,1,female
+400617,63364,Brian Gleeson,Dr. Robert Hardy,5,5,5a1ee0a20e0a264cbc07fced,2,male
+400617,538,Harriet Sansom Harris,Barbara Rose,6,6,5a22c7b10e0a264cc80be8ce,1,female
+400617,1977048,Lujza Richter,Princess Mona Braganza,7,7,5a8206b89251411678004aba,1,female
+400617,1836,Julia Davis,Lady Baltimore,8,8,59ee0b4fc3a36871bc0297a4,1,female
+400617,1502446,Julie Vollono,London Housekeeper,9,9,5e892728d55c3d0015526aaa,1,female
+446354,5064,Meryl Streep,Kay Graham,0,0,58c43123c3a36853c00000f1,1,female
+446354,31,Tom Hanks,Ben Bradlee,1,1,58c43116c3a368536200010d,2,male
+446354,34490,Sarah Paulson,Tony Bradlee,2,2,5936eb67c3a3684be0000ee1,1,female
+446354,59410,Bob Odenkirk,Ben Bagdikian,3,3,5936eb5dc3a3684c28000ecc,2,male
+446354,72638,Tracy Letts,Fritz Beebe,4,4,5936eb50c3a3684c28000ebf,2,male
+446354,11367,Bradley Whitford,Arthur Parsons,5,5,5936eb909251417267000e1e,2,male
+446354,21089,Bruce Greenwood,Robert McNamara,6,6,5936eb3cc3a3684c39000ea2,2,male
+446354,29528,Matthew Rhys,Daniel Ellsberg,7,7,5936eb7b925141724e000e31,2,male
+446354,88029,Alison Brie,Lally Graham,8,8,5936eb159251417285000e45,1,female
+446354,1308445,Carrie Coon,Meg Greenfield,9,9,5936eb25c3a3684bc1000f38,1,female
+399055,39658,Sally Hawkins,Elisa Esposito,0,0,57cbab6f92514141db000c26,1,female
+399055,335,Michael Shannon,Richard Strickland,1,1,574482cb9251411109000845,2,male
+399055,28633,Richard Jenkins,Giles,2,2,57cbab609251413514008e28,2,male
+399055,6944,Octavia Spencer,Zelda Fuller,3,3,57cbab599251414182000d26,1,female
+399055,72873,Michael Stuhlbarg,Dr. Robert Hoffstetler,4,4,57cbab49c3a3680a58000c2e,2,male
+399055,17005,Doug Jones,Amphibian Man,5,5,57cbab429251414182000d1c,2,male
+399055,5892,David Hewlett,Fleming,6,6,59baa736c3a3680cf2014c63,2,male
+399055,12538,Nick Searcy,General Hoyt,7,7,57cbab7592514141d8000c62,2,male
+399055,16591,Stewart Arnott,Bernard,8,8,5a8f955f0e0a2639b20095b1,2,male
+399055,44208,Nigel Bennett,Mihalkov,9,9,59f70e5ec3a3682d6a02fbd9,2,male
+359940,3910,Frances McDormand,Mildred,0,0,55f743e1c3a3686d0700bd6c,1,female
+359940,57755,Woody Harrelson,Willoughby,1,1,5727e383c3a3682148001dde,2,male
+359940,6807,Sam Rockwell,Dixon,2,2,5727e362c3a3682148001dda,2,male
+359940,37260,Abbie Cornish,Anne,3,3,5727e34ac3a3682148001dd6,1,female
+359940,1105079,Lucas Hedges,Robbie,4,4,5727e3d4c3a3685871004605,2,male
+359940,6752,Željko Ivanek,Desk Sergeant,5,5,5803d5379251411b7d003d9b,2,male
+359940,572541,Caleb Landry Jones,Red Welby,6,6,5727e39d9251414dcc000752,2,male
+359940,61011,Clarke Peters,Abercrombie,7,7,581e50aac3a36806f300fb39,2,male
+359940,1372369,Samara Weaving,Penelope,8,8,581e5097c3a36806f300fb28,1,female
+359940,16861,John Hawkes,Charlie,9,9,5727e391c3a3685bd9003cfb,2,male
+332562,237405,Lady Gaga,Ally Campana,0,0,57ea39dbc3a3687ffd007913,1,female
+332562,51329,Bradley Cooper,Jackson Maine,1,1,57ea39cf925141374b0007e1,2,male
+332562,16431,Sam Elliott,Bobby Maine,2,2,59218be0c3a3687a64058418,2,male
+332562,57906,Andrew Dice Clay,Lorenzo Campana,3,3,59218bfac3a3687a8e055c47,2,male
+332562,21660,Rafi Gavron,Rez Gavron,4,4,59218c2ec3a3687a6405846c,2,male
+332562,1560244,Anthony Ramos,Ramon,5,5,5bad57a5c3a3683aaa048e8f,2,male
+332562,4169,Dave Chappelle,"George ""Noodles"" Stone",6,6,59218c09c3a368774e05bea7,2,male
+332562,7447,Alec Baldwin,Alec Baldwin,7,7,5d475b1f2d1e405083be682b,2,male
+332562,930961,Marlon Williams,Marlon Williams,8,8,5bbec6d09251413d4d00726a,2,male
+332562,1395597,Brandi Carlile,Brandi Carlile,9,9,5bbec7039251413d4a006f54,1,female
+487558,1117313,John David Washington,Ron Stallworth,0,0,5a0eaa5092514138ed00c154,2,male
+487558,1023139,Adam Driver,Flip Zimmerman,1,1,5a0eaa2492514138f900bad9,2,male
+487558,17052,Topher Grace,David Duke,2,2,5a0eaa31c3a368628900bb38,2,male
+487558,1606394,Laura Harrier,Patrice Dumas,3,3,5a0eaa2bc3a368627d00d841,1,female
+487558,7447,Alec Baldwin,Dr. Kennebrew Beauregard,4,4,5b552847c3a3685c8500a83e,2,male
+487558,82857,Jasper Pääkkönen,Felix Kendrickson,5,5,5a0eaa86c3a368628300c8c4,2,male
+487558,1154054,Corey Hawkins,Kwame Ture,6,6,5a0eaa43c3a368628000cf26,2,male
+487558,1294982,Paul Walter Hauser,Ivanhoe,7,7,5a0eaa5c92514138f900bb1b,2,male
+487558,1181353,Ryan Eggold,Walter Breachway,8,8,5a0feb0bc3a368628302649f,2,male
+487558,17490,Isiah Whitlock Jr.,Mr. Turrentine,9,9,5b76400f9251411dad01dccc,2,male
+284054,172069,Chadwick Boseman,T'Challa / Black Panther,0,0,544fe785c3a3680242002758,2,male
+284054,135651,Michael B. Jordan,Erik Killmonger,1,1,57364cc69251410b27000e31,2,male
+284054,1267329,Lupita Nyong'o,Nakia,2,2,57374f77c3a3680516000c67,1,female
+284054,82104,Danai Gurira,Okoye,3,3,57951c20925141136a008222,1,female
+284054,7060,Martin Freeman,Everett K. Ross,4,4,585e318192514115ca009b9f,2,male
+284054,206919,Daniel Kaluuya,W'Kabi,5,5,57fb979fc3a36837960090b6,2,male
+284054,1083010,Letitia Wright,Shuri,6,6,580a43f09251411771000bc9,1,female
+284054,1447932,Winston Duke,M'Baku,7,7,57f83a19c3a3685f23000662,2,male
+284054,1225953,Sterling K. Brown,N'Jobu,8,8,586eafc7925141295f00aaad,2,male
+284054,9780,Angela Bassett,Ramonda,9,9,5833e021c3a368338d007b99,1,female
+424694,17838,Rami Malek,Freddie Mercury,0,0,6291acd985b10500526fe3df,2,male
+424694,1220123,Gwilym Lee,Brian May,1,1,599b3986c3a3681d4b003825,2,male
+424694,1452045,Ben Hardy,Roger Taylor,2,2,599b397192514127930037ca,2,male
+424694,4787,Joseph Mazzello,John Deacon,3,3,599b3fbd9251412793003f28,2,male
+424694,86232,Lucy Boynton,Mary Austin,4,4,5a29d184925141033611defd,1,female
+424694,49735,Aidan Gillen,John Reid,5,5,5aea56c20e0a26290e002e09,2,male
+424694,85718,Allen Leech,Paul Prenter,6,6,5aea566f92514172aa002909,2,male
+424694,2441,Tom Hollander,Jim Beach,7,7,5aea56e492514172a3002620,2,male
+424694,12073,Mike Myers,Ray Foster,8,8,5ad8ec329251412cf900178c,2,male
+424694,1227888,Aaron McCusker,Jim Hutton,9,9,5aea569b92514172b40025fa,2,male
+490132,110,Viggo Mortensen,Tony Lip,0,0,5a209bd49251410336099cb5,2,male
+490132,932967,Mahershala Ali,Dr. Don Shirley,1,1,5a209bc7925141032409722c,2,male
+490132,1817,Linda Cardellini,Dolores,2,2,5a209bdc0e0a264cbe09699d,1,female
+490132,299743,Sebastian Maniscalco,Johnny Venere,3,3,5af113e3c3a36837c6000f31,2,male
+490132,1613744,Dimiter D. Marinov,Oleg,4,4,5b731dfb0e0a267ee71c7fb6,2,male
+490132,130532,Mike Hatton,George,5,5,5b731e3292514140681b286c,2,male
+490132,1211946,P.J. Byrne,Record Exec,6,6,5b73156f925141406a1b316a,2,male
+490132,830,Joe Cortese,Gio Loscudo,7,7,5b73152e925141404f17ee5b,2,male
+490132,5907315,Mary Agnes Nixon,Copa Coat Check Girl,8,8,6953f754c5d7af490dd7a242,0,unspecified
+490132,2256705,Von Lewis,Bobby Rydell,9,9,5c7c7f190e0a2632160de6d5,2,male
+426426,1775557,Yalitza Aparicio,Cleo Gutiérrez,0,0,58c62ef09251411d62010548,1,female
+426426,78883,Marina de Tavira,Sofía,1,1,58c62ed69251411d19010b60,1,female
+426426,2108826,Diego Cortina Autrey,Toño,2,2,5b7593e70e0a265c25012e5b,0,unspecified
+426426,2108855,Carlos Peralta,Paco,3,3,5b759578c3a368754e0146d0,0,unspecified
+426426,1775556,Marco Graf,Pepe,4,4,58c62ee0c3a368412000f076,2,male
+426426,1775558,Daniela Demesa,Sofi,5,5,58c62efac3a368412800ee87,0,unspecified
+426426,2108829,Nancy García García,Adela,6,6,5b759412c3a368754e014533,0,unspecified
+426426,1920669,Verónica García,Teresa,7,7,5b759420c3a368754b014a10,0,unspecified
+426426,2108835,Fernando Grediaga,Antonio,8,8,5b759437c3a3687555015d20,0,unspecified
+426426,2108836,Jorge Antonio Guerrero,Fermín,9,9,5b759444c3a368754e014577,2,male
+375262,54693,Emma Stone,Abigail,0,0,568645e0c3a368607501da1f,1,female
+375262,39187,Olivia Colman,Queen Anne,1,1,56864605c3a36828f501471a,1,female
+375262,3293,Rachel Weisz,Lady Sarah,2,2,568645f0c3a368227b013df0,1,female
+375262,3292,Nicholas Hoult,Harley,3,3,58b781adc3a3685c48002686,2,male
+375262,1496392,Joe Alwyn,Masham,4,4,58ba188d925141609e01193d,2,male
+375262,34546,Mark Gatiss,Lord Marlborough,5,5,59bbf2fb9251411e42000a64,2,male
+375262,1184006,James Smith,Godolphin,6,6,58facf9a92514163ec005b8f,2,male
+375262,1648727,Jenny Rainsford,Mae,7,7,58ef069792514141f70042e0,1,female
+375262,2200174,Emma Delves,Queen's Maid,8,8,5c1f25b70e0a264de6ebd940,0,unspecified
+375262,1162218,Faye Daveney,Sarah's Maid,9,9,5c1f25c5c3a3687001e9dd30,1,female
+429197,3894,Christian Bale,Dick Cheney,0,0,5963ccf19251410bfa0ffe69,2,male
+429197,9273,Amy Adams,Lynne Cheney,1,1,5963cd00c3a36828a1112a6b,1,female
+429197,4495,Steve Carell,Donald Rumsfeld,2,2,5963cd15c3a368265d0f34af,2,male
+429197,6807,Sam Rockwell,George W. Bush,3,3,59ac7a54c3a3682cc8035a1f,2,male
+429197,17486,Alison Pill,Mary Cheney,4,4,5a1918acc3a3680b88026a29,1,female
+429197,1665,Eddie Marsan,Paul Wolfowitz,5,5,5bb54f230e0a2633a000104a,2,male
+429197,20301,Justin Kirk,Scooter Libby,6,6,5bb54eda9251410dd5001144,2,male
+429197,64908,LisaGay Hamilton,Condoleezza Rice,7,7,5b05bbd8c3a3684c8c002428,1,female
+429197,88124,Jesse Plemons,Kurt,8,8,5bb5051b0e0a267f29002445,2,male
+429197,121718,Bill Camp,Gerald Ford,9,9,5c245d02c3a3686ff9f054b5,2,male
+530915,146750,George MacKay,Lance Corporal Schofield,0,0,5bd46f2ac3a36820e901ac22,2,male
+530915,1332971,Dean-Charles Chapman,Lance Corporal Blake,1,1,5bd46f350e0a2622dd0195dc,2,male
+530915,2983,Mark Strong,Captain Smith,2,2,5cbe2a11c3a36813698745cc,2,male
+530915,125660,Andrew Scott,Lieutenant Leslie,3,3,5cbe2a3c92514108d1ff7aed,2,male
+530915,512991,Richard Madden,Lieutenant Blake,4,4,5cbe2a340e0a2660dcf28afa,2,male
+530915,2385743,Claire Duburcq,Lauri,5,5,5d51eba977e1f60017ae5bc6,1,female
+530915,5472,Colin Firth,General Erinmore,6,6,5cbe2a57c3a368145881c5d3,2,male
+530915,71580,Benedict Cumberbatch,Colonel MacKenzie,7,7,5cbe2a450e0a261a55f3f022,2,male
+530915,1670,Daniel Mays,Sergeant Sanders,8,8,5cbe2a5ec3a368092a8152a0,2,male
+530915,40311,Adrian Scarborough,Major Hepburn,9,9,5cbe2a6e925141097dfa084b,2,male
+359724,1892,Matt Damon,Carroll Shelby,0,0,5b101f47c3a368621800b091,2,male
+359724,3894,Christian Bale,Ken Miles,1,1,5b101f26c3a368621500a0ad,2,male
+359724,19498,Jon Bernthal,Lee Iacocca,2,2,5b21d90c0e0a264db8013e3f,2,male
+359724,147056,Caitríona Balfe,Mollie Miles,3,3,5b101f6bc3a368621d00a301,1,female
+359724,6164,Josh Lucas,Leo Beebe,4,4,5ca5811bc3a368669baeb220,2,male
+359724,1590759,Noah Jupe,Peter Miles,5,5,5b101f8bc3a368623c00c07d,2,male
+359724,72638,Tracy Letts,Henry Ford II,6,6,5b5677e19251416dc6027cc1,2,male
+359724,41527,Remo Girone,Enzo Ferrari,7,7,5dcd0147cc277c0017e21ae3,2,male
+359724,1472,Ray McKinnon,Phil Remington,8,8,5ca5812f9251415eb16bd627,2,male
+359724,30710,JJ Feild,Roy Lunn,9,9,5dd4f486b39e3500188e1839,2,male
+515001,2054851,Roman Griffin Davis,Jojo,0,0,5b1074570e0a26308900b75c,2,male
+515001,1356758,Thomasin McKenzie,Elsa,1,1,5b1070b99251415f0900b986,1,female
+515001,1245,Scarlett Johansson,Rosie,2,2,5abd55bbc3a3684379031670,1,female
+515001,55934,Taika Waititi,Adolf,3,3,5abd55c20e0a2609e10327d2,2,male
+515001,6807,Sam Rockwell,Captain Klenzendorf,4,4,5adf0ef00e0a2615ea009d6c,2,male
+515001,221581,Rebel Wilson,Fraulein Rahm,5,5,5b0476b1925141095c02fb6f,1,female
+515001,71586,Alfie Allen,Finkel,6,6,5b23e25a9251412fd400006e,2,male
+515001,39189,Stephen Merchant,Deertz,7,7,5b28ccd4c3a36847b4003b5c,2,male
+515001,2089892,Archie Yates,Yorki,8,8,5b551990c3a3685c8800a5a8,2,male
+515001,59096,Luke Brandon Field,Christoph,9,9,5b52303bc3a3680f08017deb,2,male
+475557,73421,Joaquin Phoenix,Arthur Fleck,0,0,5e8593bd98f1f10014aacb71,2,male
+475557,380,Robert De Niro,Murray Franklin,1,1,5b5242749251411f8600052d,2,male
+475557,1545693,Zazie Beetz,Sophie Dumond,2,2,5b5122a00e0a262596006a4c,1,female
+475557,4432,Frances Conroy,Penny Fleck,3,3,5b5636fcc3a3685c8e026bac,1,female
+475557,16841,Brett Cullen,Thomas Wayne,4,4,5b9fecf0c3a3680441002ee1,2,male
+475557,74242,Shea Whigham,Detective Burke,5,5,5ba0149092514177b20076a7,2,male
+475557,121718,Bill Camp,Detective Garrity,6,6,5ba0144fc3a3680441008c31,2,male
+475557,1377670,Glenn Fleshler,Randall,7,7,5ba014700e0a2633c5008920,2,male
+475557,1416396,Leigh Gill,Gary,8,8,5ca5b79d9251415ebe6c3035,2,male
+475557,6181,Josh Pais,Hoyt Vaughn,9,9,5b5d2363925141521a021d99,2,male
+331482,36592,Saoirse Ronan,Jo March,0,0,5b368cbc9251413c89029ecf,1,female
+331482,10990,Emma Watson,Meg March,1,1,5b807ba692514159e000043f,1,female
+331482,1373737,Florence Pugh,Amy March,2,2,5b369580c3a368531402856a,1,female
+331482,1669125,Eliza Scanlen,Beth March,3,3,5b6400450e0a267eed04e058,1,female
+331482,4784,Laura Dern,Marmee March,4,4,5babd5c40e0a2664d7029b80,1,female
+331482,1190668,Timothée Chalamet,Laurie,5,5,5b368cd29251413c8e02e655,2,male
+331482,72638,Tracy Letts,Mr. Dashwood,6,6,5dfb483265686e00158dd1ef,2,male
+331482,59410,Bob Odenkirk,Father March,7,7,5babd5b29251415105026464,2,male
+331482,1205278,James Norton,John Brooke,8,8,5b63771f9251414054037f19,2,male
+331482,16269,Louis Garrel,Friedrich Bhaer,9,9,5b91636b9251412d23000f1e,2,male
+492188,1023139,Adam Driver,Charlie Barber,0,0,5a2ef1c49251410333163404,2,male
+492188,1245,Scarlett Johansson,Nicole Barber,1,1,5a2ef1be0e0a264cc817521a,1,female
+492188,4784,Laura Dern,Nora Fanshaw,2,2,5a2ef1c9c3a3680b8816daeb,1,female
+492188,21278,Alan Alda,Bert Spitz,3,3,5b137f0ac3a3686292012186,2,male
+492188,11477,Ray Liotta,Jay Marotta,4,4,5b7c54b4c3a3687669000818,2,male
+492188,14415,Julie Hagerty,Sandra,5,5,5d3ad5faab684974f590f785,1,female
+492188,28044,Merritt Wever,Cassie,6,6,5a2ef1d3925141032c16bc3b,1,female
+492188,1939366,Azhy Robertson,Henry Barber,7,7,5a2ef1fa925141033616aaf1,2,male
+492188,12900,Wallace Shawn,Frank,8,8,5d5c32096743fa00136eb2a4,2,male
+492188,1572541,Martha Kelly,The Evaluator,9,9,5dce003479a1c300174827c7,1,female
+466272,6193,Leonardo DiCaprio,Rick Dalton,0,0,5a12c204c3a368628306f0db,2,male
+466272,287,Brad Pitt,Cliff Booth,1,1,5967b06392514132e1005850,2,male
+466272,234352,Margot Robbie,Sharon Tate,2,2,5a9f10ea0e0a263277000f20,1,female
+466272,46593,Emile Hirsch,Jay Sebring,3,3,5b1859d90e0a261f8d000748,2,male
+466272,1392137,Margaret Qualley,'Pussycat',4,4,5b864a5c0e0a26110f007d0b,1,female
+466272,18082,Timothy Olyphant,Jim Stacy,5,5,5b185956c3a36848ff000b27,2,male
+466272,1651362,Julia Butters,Trudi Fraser,6,6,5b1ac59cc3a36848e701366e,1,female
+466272,86654,Austin Butler,'Tex',7,7,5b7ebda092514104da013d04,2,male
+466272,501,Dakota Fanning,'Squeaky',8,8,5b18598bc3a36848e90007db,1,female
+466272,6905,Bruce Dern,George Spahn,9,9,5bad3e67c3a3683a9c049867,2,male
+496243,20738,Song Kang-ho,Kim Ki-taek,0,0,5a4db31fc3a3683b82003a00,2,male
+496243,115290,Lee Sun-kyun,Park Dong-ik,1,1,5bcf34f9c3a3686637014df3,2,male
+496243,556435,Cho Yeo-jeong,Yeon-kyo,2,2,5bcf351f92514172df0118e1,1,female
+496243,1255881,Choi Woo-shik,Ki-woo,3,3,5bcf358dc3a368662f013901,2,male
+496243,1442583,Park So-dam,Ki-jung,4,4,5bcf359b0e0a26624f012c00,1,female
+496243,1572354,Lee Jung-eun,Moon-gwang,5,5,5bcfb7620e0a266245022d44,1,female
+496243,2158882,Jang Hye-jin,Chung-sook,6,6,5bcfb74bc3a36866370257e5,1,female
+496243,1694435,Park Myung-hoon,Geun-se,7,7,5cf0d6c70e0a264876ca0538,2,male
+496243,1418762,Jung Zi-so,Da-hye,8,8,5cf0d6a00e0a267cf0ca05d4,1,female
+496243,2306987,Jung Hyeon-jun,Da-song,9,9,5cf0d6af9251411cdbb88c70,2,male
+398978,380,Robert De Niro,Frank Sheeran,0,0,57439a8cc3a3685c400005a1,2,male
+398978,1158,Al Pacino,Jimmy Hoffa,1,1,57439a93c3a3685c4a00052c,2,male
+398978,4517,Joe Pesci,Russell Bufalino,2,2,58c568669251411b4400b1d1,2,male
+398978,1037,Harvey Keitel,Angelo Bruno,3,3,57439a9f92514157e900044f,2,male
+398978,15757,Ray Romano,Bill Bufalino,4,4,59d1e62892514113eb039cad,2,male
+398978,21127,Bobby Cannavale,Skinny Razor,5,5,58c56867c3a3687d2e009fa1,2,male
+398978,10690,Anna Paquin,Older Peggy Sheeran,6,6,59d3d9eec3a368456100389c,1,female
+398978,1115,Stephen Graham,Anthony 'Tony Pro' Provenzano,7,7,59d1e637c3a36878c903945f,2,male
+398978,204651,Stephanie Kurtzuba,Irene Sheeran,8,8,5a535e10925141133003180d,1,female
+398978,54738,Jack Huston,Robert Kennedy / RFK,9,9,5a535e0e925141132c032187,2,male
+583406,206919,Daniel Kaluuya,Fred Hampton,0,0,5c6c84660e0a262c999ea699,2,male
+583406,1200864,LaKeith Stanfield,Bill O'Neal,1,1,5c6c84739251417df40b136e,2,male
+583406,88124,Jesse Plemons,Roy Mitchell,2,2,5d8419ef963864023b3575dc,2,male
+583406,1676520,Dominique Fishback,Deborah Johnson,3,3,5d841a01963864022235c72e,1,female
+583406,1152019,Ashton Sanders,Jimmy Palmer,4,4,5d8c049379b3d40017877eb3,2,male
+583406,1377458,Algee Smith,Jake Winters,5,5,5db778680792e10013444ecc,2,male
+583406,1307543,Darrell Britt-Gibson,Bobby Rush,6,6,5f2d62ce596a910034fb88a8,2,male
+583406,1488961,Lil Rel Howery,Wayne,7,7,5f2d62eb9590e30032166943,2,male
+583406,2133996,Dominique Thorne,Judy Harmon,8,8,5f2d62d59590e3003317c4e3,1,female
+583406,8349,Martin Sheen,J. Edgar Hoover,9,9,5f2d62bf13af5f00357c01ab,2,male
+614560,64,Gary Oldman,Herman Mankiewicz,0,0,5d266174c86b3a0c2a2067d3,2,male
+614560,71070,Amanda Seyfried,Marion Davies,1,1,5da6200b47721500155e09c7,1,female
+614560,112561,Lily Collins,Rita Alexander,2,2,5da62010c9044c00165af6ea,1,female
+614560,3229,Arliss Howard,Louis B. Mayer,3,3,5da6202087e63e001739e485,2,male
+614560,207442,Tom Pelphrey,Joseph Mankiewicz,4,4,5da6206da2423200147761ca,2,male
+614560,5421,Sam Troughton,John Houseman,5,5,5da62054e6d3cc0015ab9086,2,male
+614560,1211873,Ferdinand Kingsley,Irving Thalberg,6,6,5da6203638765100185d83aa,2,male
+614560,89822,Tuppence Middleton,Sara Mankiewicz,7,7,5da62018a242320014776194,1,female
+614560,52891,Tom Burke,Orson Welles,8,8,5da62063c9044c00115b00a5,2,male
+614560,33528,Joseph Cross,Charles Lederer,9,9,5da62048d2b20900198bc85d,2,male
+615643,215055,Steven Yeun,Jacob,0,0,5d2c0187caab6d4c3498400e,2,male
+615643,1057068,Han Ye-ri,Monica,1,1,5d2c0195a294f00012356c74,1,female
+615643,1080935,Youn Yuh-jung,Soonja,2,2,5d2c01b8a294f042db2f3bfb,1,female
+615643,883,Will Patton,Paul,3,3,5d2c01d7caab6d1e819b82e1,2,male
+615643,2476742,Alan Kim,David,4,4,5deaab4d158c8500187ded46,2,male
+615643,2476741,Noel Kate Cho,Anne,5,5,5deaab2edaf57c0013e7cc4f,1,female
+615643,97391,Darryl Cox,Mr. Harlan,6,6,5f9287d455c1f4003825a7bd,2,male
+615643,2527851,Esther Moon,Mrs. Oh,7,7,5e3711af0c2710001a7208d4,1,female
+615643,1486237,Ben Hall,Dowsing Dan,8,8,5ff6590e1dcb77003d992811,2,male
+615643,126199,Eric Starkey,Randy Boomer,9,9,5e3711910c2710001871f599,2,male
+581734,3910,Frances McDormand,Fern,0,0,5c6333c89251412fc6fd4e33,1,female
+581734,11064,David Strathairn,Dave,1,1,5c633403c3a3684cecd4d673,2,male
+581734,2241214,Linda May,Linda,2,2,5c633419c3a3684fa4d91044,1,female
+581734,2776341,Swankie,Swankie,3,3,5f5e45f80b5fd600356db337,1,female
+581734,2786070,Gay DeForest,Gay,4,4,5f678f3157530e0036b405fb,0,unspecified
+581734,2786072,Patricia Grier,Patty,5,5,5f678f4daf3da600352d4ae0,0,unspecified
+581734,2786074,Angela Reyes,Angela,6,6,5f678f826a22270039886bbf,0,unspecified
+581734,2786076,Carl R. Hughes,Carl,7,7,5f678f99a0b690003938d960,0,unspecified
+581734,2786077,Douglas G. Soul,Doug,8,8,5f678fb4a0b690003840ae6d,0,unspecified
+581734,2786078,Ryan Aquino,Ryan,9,9,5f678fdc57530e0039ac4d1e,0,unspecified
+582014,36662,Carey Mulligan,Cassandra,0,0,5c64814fc3a3684f97da01d3,1,female
+582014,115128,Bo Burnham,Ryan,1,1,5c9e893fc3a368735b7fdfb1,2,male
+582014,88029,Alison Brie,Madison,2,2,5c9e8945c3a36873597fd990,1,female
+582014,6574,Clancy Brown,Stanley,3,3,5dd88d4d12aabc00118f832e,2,male
+582014,38334,Jennifer Coolidge,Susan,4,4,5c9e89569251411a1c03cdcd,1,female
+582014,1298360,Laverne Cox,Gail,5,5,5c9e8961c3a368734e7fe48e,1,female
+582014,84300,Chris Lowell,Al Monroe,6,6,5dd88d63ef8b3200148c7ad5,2,male
+582014,28640,Molly Shannon,Mrs. Fisher,7,7,5c9e89810e0a265989f70174,1,female
+582014,86310,Connie Britton,Dean Walker,8,8,5c9e894f9251411a1403c544,1,female
+582014,11702,Adam Brody,Jerry,9,9,5c9e894b9251411a1803cf03,2,male
+502033,53240,Riz Ahmed,Ruben Stone,0,0,5b52a95f0e0a26231a007313,2,male
+502033,1173984,Olivia Cooke,Lou,1,1,5b52a9649251411f82006602,1,female
+502033,1216195,Paul Raci,Joe,2,2,5d6c40cc4a4bfc0012fc374b,2,male
+502033,2287101,Lauren Ridloff,Diane,3,3,5d6c40b70e4fc80013d9cc44,1,female
+502033,8789,Mathieu Amalric,Richard Berger,4,4,5d6c40ac4a4bfc000ffc3a4c,2,male
+502033,3112965,Domenico Toledo,Michael,5,5,60b8deea7cffda006dbd2a26,0,unspecified
+502033,3638666,Chelsea Lee,Jenn,6,6,62e07d52bbcae00050147205,0,unspecified
+502033,2892337,Shaheem Sanchez,Shaheem,7,7,5fd66ad8fcadb4003fd4e30f,2,male
+502033,1344739,Chris Perfetti,Harlan,8,8,5da32cc1e860170012af84c7,2,male
+502033,1774091,Bill Thorpe,The Man,9,9,5fde86b41b157d0040c3f7da,2,male
+600354,4173,Anthony Hopkins,Anthony,0,0,5ccfbc7292514106502486df,2,male
+600354,39187,Olivia Colman,Anne,1,1,5ccfbc780e0a26225a00a4d1,1,female
+600354,34546,Mark Gatiss,The Man,2,2,5d00d635c3a3680e92234812,2,male
+600354,11616,Olivia Williams,The Woman,3,3,5d00d61e0e0a261377ca399e,1,female
+600354,17606,Imogen Poots,Laura,4,4,5d00d6309251411a82c2bf7e,1,female
+600354,17328,Rufus Sewell,Paul,5,5,5d00d6280e0a261fbbcefa01,2,male
+600354,33191,Ayesha Dharker,Dr. Sarai,6,6,5f625a7f156cc70037dde50f,1,female
+600354,3019221,Roman Zeller,Boy,7,7,60579a0b2ac4990054bc9871,2,male
+556984,37632,Eddie Redmayne,Tom Hayden,0,0,5bd8fa4e9251411570002bdb,2,male
+556984,6730,Sacha Baron Cohen,Abbie Hoffman,1,1,5bd3eaecc3a368211200e627,2,male
+556984,40900,Mark Rylance,William Kunstler,2,2,5d685f2dca83540011f66a17,2,male
+556984,24045,Joseph Gordon-Levitt,Richard Schultz,3,3,5c54e00d0e0a265e19d1d2a3,2,male
+556984,8924,Frank Langella,Judge Julius Hoffman,4,4,5d685f1913af5f7d25bbc74d,2,male
+556984,239271,Jeremy Strong,Jerry Rubin,5,5,5d704ec9c5ada50012904c9c,2,male
+556984,3911,John Carroll Lynch,David Dellinger,6,6,5e4459c00c271000138373cf,2,male
+556984,1639847,Yahya Abdul-Mateen II,Bobby Seale,7,7,5d93ead1a097dc001a22d170,2,male
+556984,136127,Alex Sharp,Rennie Davis,8,8,5c54e08292514151a9613d34,2,male
+556984,1526764,Noah Robbins,Lee Weiner,9,9,5d9e557f8fdda9001e5d8e53,2,male
+777270,3232669,Jude Hill,Buddy,0,0,613ebfbf56b9f7008b973c07,2,male
+777270,1254583,Jamie Dornan,Pa,1,1,5fdc20f2cf48a10040475f99,2,male
+777270,147056,Caitríona Balfe,Ma,2,2,5fdc21022efe4e003fd5e171,1,female
+777270,3065081,Lewis McAskie,Will,3,3,62371e568ac3d0001bba949e,2,male
+777270,5309,Judi Dench,Granny,4,4,5fdc211b798e06003e335f5b,1,female
+777270,8785,Ciarán Hinds,Pop,5,5,5fdc212a109dec0042f3c0cf,2,male
+777270,1726976,Lara McDonnell,Moira,6,6,5fdc21412efe4e0040d628ed,1,female
+777270,228866,Colin Morgan,Billy Clanton,7,7,6135a9eecede690060f973f7,2,male
+777270,56101,Gerard Horan,Mackie,8,8,5fdc216b798e0600403479e8,2,male
+777270,1709739,Josie Walker,Auntie Violet,9,9,62371e6ddf2945004607a891,1,female
+776503,1331023,Emilia Jones,Ruby Rossi,0,0,5fd92e5cecbde9003facf17f,1,female
+776503,19797,Marlee Matlin,Jackie Rossi,1,1,5fd92eb1283ed9003e1cc82f,1,female
+776503,1571661,Troy Kotsur,Frank Rossi,2,2,601ce2019a3c490041adad69,2,male
+776503,239574,Eugenio Derbez,Bernardo Villalobos,3,3,5fd92e69075288003e137400,2,male
+776503,1539216,Ferdia Walsh-Peelo,Miles,4,4,5fd92e9968188800429a9248,2,male
+776503,1514387,Daniel Durant,Leo Rossi,5,5,5fd92ea6b0ba7e003f2fe88b,2,male
+776503,1369336,Amy Forsyth,Gertie,6,6,5fdfc329eb0932003f52c044,1,female
+776503,4728,Kevin Chapman,Brady,7,7,5fdfc331f706de003e8119f6,2,male
+776503,935624,John Fiore,Tony Salgado,8,8,5fdfc33cbbe1dd00411edbd8,2,male
+776503,188049,Lonnie Farmer,Arthur,9,9,5fdfc34de7c097003e17ce18,2,male
+646380,6193,Leonardo DiCaprio,Dr. Randall Mindy,0,0,5f874bf3d4b9d90037273f96,2,male
+646380,72129,Jennifer Lawrence,Kate Dibiasky,1,1,5e4d993e54a098001306f500,1,female
+646380,5064,Meryl Streep,President Orlean,2,2,5f874bfda275020039cb574b,1,female
+646380,112,Cate Blanchett,Brie Evantee,3,3,5eb99fbac3514c00205f42f3,1,female
+646380,1281250,Rob Morgan,Dr. Teddy Oglethorpe,4,4,5f5a410d56b9f7003477f413,2,male
+646380,21007,Jonah Hill,Jason Orlean,5,5,5f874c27a1c59d003512e3d7,2,male
+646380,40900,Mark Rylance,Peter Isherwell,6,6,6021b581ea37e0003f3fb01e,2,male
+646380,80602,Tyler Perry,Jack Bremmer,7,7,5fb8b8d72afb25003dfe0313,2,male
+646380,1190668,Timothée Chalamet,Yule,8,8,5f874c113a993700346174a6,2,male
+646380,2372,Ron Perlman,Benedict Drask,9,9,5fb8b8d13bd26e003f8c1c79,2,male
+758866,13250,Hidetoshi Nishijima,Yūsuke Kafuku,0,0,6038f20f68b1ea006cb988af,2,male
+758866,1509659,Toko Miura,Misaki Watari,1,1,6038f22de4b576004202b91c,1,female
+758866,124402,Masaki Okada,Kōshi Takatsuki,2,2,6038f279d400f300691f7842,2,male
+758866,121750,Reika Kirishima,Oto Kafuku,3,3,6038f311f3e0df0023239042,1,female
+758866,3154127,Park Yu-rim,Lee Yoo-na,4,4,60eb31a7ce5d820047017b8a,1,female
+758866,3154128,Jin Dae-yeon,Gong Yoon-su,5,5,60eb31b6a14e10004727a34f,2,male
+758866,2547327,Sonia Yuan,Janice Chang,6,6,60eb31c59824c800465c2c9d,1,female
+758866,3154131,Ahn Hwi-tae,Ryu Jong-ui,7,7,60eb321853f833005d1fec12,2,male
+758866,111636,Perry Dizon,Roy Rossello,8,8,60eb31f8140bad0046f17114,2,male
+758866,1392004,Satoko Abe,Yuzuhara,9,9,60eb31d629c6260047c401da,1,female
+438631,1190668,Timothée Chalamet,Paul Atreides,0,0,5b4d01bac3a36823d803cd45,2,male
+438631,933238,Rebecca Ferguson,Lady Jessica Atreides,1,1,5b90742fc3a368222e002f41,1,female
+438631,25072,Oscar Isaac,Duke Leto Atreides,2,2,5c50bc070e0a2612cccedcb3,2,male
+438631,117642,Jason Momoa,Duncan Idaho,3,3,5c6610319251412fc6017577,2,male
+438631,1640,Stellan Skarsgård,Baron Vladimir Harkonnen,4,4,5c364b61c3a368273c1c5fee,2,male
+438631,196179,Stephen McKinley Henderson,Thufir Hawat,5,5,61468a6985c0a20043d24c95,2,male
+438631,16851,Josh Brolin,Gurney Halleck,6,6,5c64750d9251412fb4feec3e,2,male
+438631,3810,Javier Bardem,Stilgar,7,7,5c55434c0e0a26567ac66f76,2,male
+438631,195666,Sharon Duncan-Brewster,Dr. Liet Kynes,8,8,5e37991c4ca676001252ea99,1,female
+438631,1622,Chang Chen,Dr. Wellington Yueh,9,9,5c8e6e129251410ff4a1c158,2,male
+614917,2888,Will Smith,Richard Williams,0,0,5d288a8fcaab6d00129b75a6,2,male
+614917,53923,Aunjanue Ellis-Taylor,Oracene 'Brandy' Price,1,1,5e191a04a0be280013ff9137,1,female
+614917,1607523,Saniyya Sidney,Venus Williams,2,2,5e19199c2ea6b90017ef1279,1,female
+614917,2214765,Demi Singleton,Serena Williams,3,3,5e1919e33679a10011941aa8,1,female
+614917,19498,Jon Bernthal,Rick Macci,4,4,5e20fc8d397df0001696a64b,2,male
+614917,2988968,Mikayla LaShae Bartholomew,Tunde Price,5,5,6199f1864975600088f4096b,1,female
+614917,3417,Tony Goldwyn,Paul Cohen,6,6,5f876b04a275020039cbb080,2,male
+614917,108696,Susie Abromeit,Robin Finn,7,7,5e587e0e35811d001762a168,1,female
+614917,32597,Dylan McDermott,Will Hodges,8,8,5e619ed055c926001959fd55,2,male
+614917,140198,Judith Chapman,Nancy Reagan,9,9,5ee0b9de90dde00022a6c9df,1,female
+718032,1741367,Alana Haim,Alana Kane,0,0,5f456cbbcee4810037aa2c82,1,female
+718032,2764542,Cooper Hoffman,Gary Valentine,1,1,5f508c67e894a6003749125b,2,male
+718032,2228,Sean Penn,Jack Holden,2,2,613a84ae6c1e040063dc1b7c,2,male
+718032,2887,Tom Waits,Rex Blau,3,3,613f359faaf897008c06f372,2,male
+718032,51329,Bradley Cooper,Jon Peters,4,4,5f284e8b435abd003877e7f2,2,male
+718032,227564,Benny Safdie,Joel Wachs,5,5,5f4b8d9deec4f30036d13d3c,2,male
+718032,61263,Skyler Gisondo,Lance Brannigan,6,6,60bf934d13a388002ba63fd6,2,male
+718032,139309,Mary Elizabeth Ellis,Momma Anita,7,7,61520fc3af95900026022966,1,female
+718032,8265,John Michael Higgins,Jerry Frick,8,8,61a9d76cc5c1ef00450000e6,2,male
+718032,4003,Christine Ebersole,Lucille Doolittle,9,9,619000e163e6fb008dcd6bc5,1,female
+597208,51329,Bradley Cooper,Stanton Carlisle,0,0,5d03e8e60e0a263f96d25f5c,2,male
+597208,112,Cate Blanchett,Dr. Lilith Ritter,1,1,5d44e81ea0be280016a136f6,1,female
+597208,3051,Toni Collette,Zeena the Seer,2,2,5d44e83e0f2fbd7674ed1aeb,1,female
+597208,5293,Willem Dafoe,Clem Hoatley,3,3,5d44e8760f2fbd0b0decef04,2,male
+597208,28633,Richard Jenkins,Ezra Grindle,4,4,5d44e8582d1e401ecbbdfc54,2,male
+597208,108916,Rooney Mara,Molly Cahill,5,5,5d44e8452d1e403b46bdd56f,1,female
+597208,2372,Ron Perlman,Bruno,6,6,5d44e86ca0be280014a1447c,2,male
+597208,2453,Mary Steenburgen,Mrs. Kimball,7,7,61aaeaece54d5d009270ce73,1,female
+597208,11064,David Strathairn,Pete,8,8,5d8ec74b109cd0002941a973,2,male
+597208,154785,Mark Povinelli,The Major,9,9,5d44e8a52d1e403b44bdd511,2,male
+600583,71580,Benedict Cumberbatch,Phil Burbank,0,0,5cd0a6f1c3a36836c1e3227d,2,male
+600583,113505,Kodi Smit-McPhee,Peter Gordon,1,1,5e44a7a40102c9001757f3a6,2,male
+600583,205,Kirsten Dunst,Rose Gordon,2,2,5d9d1b09a5046e003682cb0b,1,female
+600583,88124,Jesse Plemons,George Burbank,3,3,5dd6ff6428723c0012520229,2,male
+600583,1356758,Thomasin McKenzie,Lola,4,4,5e44a79a41465c0016d26945,1,female
+600583,10760,Geneviève Lemon,Mrs. Lewis,5,5,613d9e4bf96a3900435fd064,1,female
+600583,30613,Keith Carradine,The Governor,6,6,5e44a7cc0102c9001757f3e1,2,male
+600583,4432,Frances Conroy,Old Lady,7,7,5e44a7b641465c0014d21c63,1,female
+600583,57904,Kenneth Radley,Barkeep,8,8,64737ef8a894d601195ec1ff,2,male
+600583,962109,Sean Keenan,Sven,9,9,6315ee339408ec007bed7003,2,male
+511809,1159982,Ansel Elgort,Tony,0,0,5bb3265a0e0a263e0a007574,2,male
+511809,2217977,Rachel Zegler,María,1,1,5c3dae2d0e0a2615548d3082,1,female
+511809,1437491,Ariana DeBose,Anita,2,2,5c3de277c3a36805733e838e,1,female
+511809,2225865,David Alvarez,Bernardo,3,3,5c4aa4bac3a368477a8cd724,2,male
+511809,1423520,Mike Faist,Riff,4,4,5cb652da92514108d8f4b637,2,male
+511809,175829,Brian d'Arcy James,Officer Krupke,5,5,5c9199789251410f939fab30,2,male
+511809,74541,Corey Stoll,Lieutenant Schrank,6,6,5c9199640e0a2663c752d203,2,male
+511809,13299,Rita Moreno,Valentina,7,7,5c3de2529251417a60abcc8b,1,female
+511809,2269067,Josh Rivera,Chino,8,8,5c91999fc3a368611f51d9c8,2,male
+511809,1636954,Ana Isabelle,Rosalía,9,9,5cb6e15fc3a3686af2834791,1,female
+49046,3631223,Felix Kammerer,Paul Bäumer,0,0,62d81a591dbc8803343c7592,2,male
+49046,1111158,Albrecht Schuch,Stanislaus 'Kat' Katczinsky,1,1,609a47fc4dc34a003b9e89fe,2,male
+49046,1820948,Aaron Hilmer,Albert Kropp,2,2,609a481038469a003f70b829,2,male
+49046,1818302,Moritz Klaus,Franz Müller,3,3,609a481c006eee003c1f15bb,2,male
+49046,2951325,Adrian Grünewald,Ludwig Behm,4,4,609a492bd6590b003c212683,2,male
+49046,212930,Edin Hasanović,Tjaden Stackfleet,5,5,609a482841eee1003bda5d0c,2,male
+49046,3872,Daniel Brühl,Matthias Erzberger,6,6,5e63e861459ad60011575831,2,male
+49046,19361,Thibault de Montalembert,General Ferdinand Foch,7,7,6336953cdb4ed6007c88164f,2,male
+49046,6086,Devid Striesow,General Friedrichs,8,8,609a47ca38469a003d70b665,2,male
+49046,1411011,Andreas Döhler,Lieutenant Hoppe,9,9,609a47da0f1e58003e37213b,2,male
+76600,65731,Sam Worthington,Jake Sully,0,0,63bedfca5258ae007dbcf660,2,male
+76600,8691,Zoe Saldaña,Neytiri,1,1,52fe4943c3a368484e122b4d,1,female
+76600,10205,Sigourney Weaver,Kiri,2,2,52fe4943c3a368484e122b51,1,female
+76600,32747,Stephen Lang,Colonel Miles Quaritch,3,3,54d9ff969251410a36001935,2,male
+76600,204,Kate Winslet,Ronal,4,4,59d467fdc3a368459400f2de,1,female
+76600,7248,Cliff Curtis,Tonowari,5,5,5935943ec3a3684789000402,2,male
+76600,59231,Joel David Moore,Norm Spellman,6,6,5989fe26c3a368755f01abd4,2,male
+76600,30485,CCH Pounder,Mo'at,7,7,5989fe1bc3a36874f201aa2f,1,female
+76600,36190,Edie Falco,General Frances Ardmore,8,8,60f10d75006eee002d51c229,1,female
+76600,55936,Jemaine Clement,Dr. Ian Garvin,9,9,5d16c2e685c0a2001afb5dcb,2,male
+614934,86654,Austin Butler,Elvis Presley,0,0,5d2ca4ac0745e12050778c3f,2,male
+614934,31,Tom Hanks,Colonel Tom Parker,1,1,5d2897a8a294f0000f2913d3,2,male
+614934,1385063,Olivia DeJonge,Priscilla,2,2,5db310ce4083b30015526165,1,female
+614934,94876,Helen Thomson,Gladys Presley,3,3,5f62bfa51684f70039466172,1,female
+614934,12206,Richard Roxburgh,Vernon Presley,4,4,5f62bf3887f3f200387c4570,2,male
+614934,1344361,Kelvin Harrison Jr.,B.B. King,5,5,5fecfd40a44d09003c7a5421,2,male
+614934,1371,David Wenham,Hank Snow,6,6,5f62bfb81684f700394661e2,2,male
+614934,113505,Kodi Smit-McPhee,Jimmie Rodgers Snow,7,7,620e8ad0d75bd6006ccedc33,2,male
+614934,972356,Luke Bracey,Jerry Schilling,8,8,5f640ca56a2227003782d492,2,male
+614934,1525047,Dacre Montgomery,Steve Binder,9,9,5f62bfc1db154f0036035002,2,male
+545611,1620,Michelle Yeoh,Evelyn Wang,0,0,5b88a3dbc3a3682e5c0033be,1,female
+545611,1381186,Stephanie Hsu,Joy Wang / Jobu Tupaki,1,1,5e28fe934ca676001742aa3c,1,female
+545611,690,Ke Huy Quan,Waymond Wang,2,2,5e28fed81685da0017e21bae,2,male
+545611,20904,James Hong,Gong Gong,3,3,5e28feaf4ca676001241eedd,2,male
+545611,8944,Jamie Lee Curtis,Deirdre Beaubeirdre,4,4,5e28fee898f1f1000ff545cf,1,female
+545611,1071151,Tallie Medel,Becky Sregor,5,5,621a628dafa1b0001e298c86,3,nonbinary
+545611,213001,Jenny Slate,Big Nose,6,6,61c4940319ab590096991521,1,female
+545611,232499,Harry Shum Jr.,Chad,7,7,621a624389d97f0043962c89,2,male
+545611,1367122,Biff Wiff,Rick,8,8,621a625479a1c30043fed706,2,male
+545611,1375002,Sunita Mani,TV Musical - Queen,9,9,621a62667b7b4d001bd3f8c7,1,female
+674324,72466,Colin Farrell,Pádraic Súilleabháin,0,0,5e4c0fd31e9225001ac70fce,2,male
+674324,2039,Brendan Gleeson,Colm Doherty,1,1,5e4c0fc99a3c49001933570f,2,male
+674324,62105,Kerry Condon,Siobhán Súilleabháin,2,2,611287d201e4d1002ecc5090,1,female
+674324,1290466,Barry Keoghan,Dominic Kearney,3,3,611287ca2975ca005d4d5881,2,male
+674324,93209,Gary Lydon,Peadar Kearney,4,4,62e1d07fa44d09188325e42d,2,male
+674324,83278,Pat Shortt,Jonjo Devine,5,5,62e1d07648138212c9ec55a1,2,male
+674324,1597386,Sheila Flitton,Mrs. McCormick,6,6,62e1d08615dea0004cd0ca89,1,female
+674324,1907071,Bríd Ní Neachtain,Mrs. O'Riordan,7,7,6327a62b89b561007bae1c26,1,female
+674324,37169,Jon Kenny,Gerry,8,8,631cf61adb8a00007ed17838,2,male
+674324,210061,Aaron Monaghan,Declan,9,9,637ac6a4336e01007fd2f550,2,male
+804095,1812,Michelle Williams,Mitzi Fabelman,0,0,6047b88b9e458600792c2e04,1,female
+804095,17142,Paul Dano,Burt Fabelman,1,1,606f37d96350130079033d35,2,male
+804095,19274,Seth Rogen,Benny Loewy,2,2,6059437d4557a000280d1083,2,male
+804095,1476330,Gabriel LaBelle,Sammy Fabelman,3,3,60ae82e1d29bdd002c01dd5c,2,male
+804095,3731015,Mateo Zoryan Francis-DeFord,Younger Sammy Fabelman,4,4,634089d69c97bd00796c7ef4,2,male
+804095,3690404,Keeley Karsten,Natalie Fabelman,5,5,631706ce5507e9007ac1ec21,1,female
+804095,3690411,Alina Brace,Young Natalie Fabelman,6,6,631708d6d40d4c007ddd5531,1,female
+804095,1651362,Julia Butters,Reggie Fabelman,7,7,60c9476f2476f200798d506a,1,female
+804095,3690410,Birdie Borria,Younger Reggie Fabelman,8,8,631708ae028420007b3ad487,0,unspecified
+804095,6167,Judd Hirsch,Uncle Boris,9,9,610028e23acd20004617e6c0,2,male
+361743,500,Tom Cruise,Capt. Pete 'Maverick' Mitchell,0,0,62a180ad4f9a9900a4cf58f7,2,male
+361743,996701,Miles Teller,Lt. Bradley 'Rooster' Bradshaw,1,1,5b3bf2b992514102e2002a1d,2,male
+361743,6161,Jennifer Connelly,Penny Benjamin,2,2,5b524c4e9251411f84000faa,1,female
+361743,1241330,Bashir Salahuddin,Wo-1. Bernie 'Hondo' Coleman,3,3,5b7e508ac3a368340900c426,2,male
+361743,65717,Jon Hamm,Adm. Beau 'Cyclone' Simpson,4,4,5d8481cd1f748b023c89e2e8,2,male
+361743,124112,Charles Parnell,Adm. Solomon 'Warlock' Bates,5,5,5b7e50730e0a2615c500f198,2,male
+361743,1525043,Monica Barbaro,Lt. Natasha 'Phoenix' Trace,6,6,5b7e50a90e0a2615bf010ba5,1,female
+361743,1700685,Lewis Pullman,Lt. Robert 'Bob' Floyd,7,7,5e7197efb1f68d0012dbd306,2,male
+361743,151680,Jay Ellis,Lt. Reuben 'Payback' Fitch,8,8,5b7e507c0e0a2615cf00e426,2,male
+361743,1773397,Danny Ramirez,Lt. Mickey 'Fanboy' Garcia,9,9,5b7e50970e0a2615c500f1b5,2,male
+497828,1716493,Harris Dickinson,Carl,0,0,5e39d4affd7aa40017040320,2,male
+497828,1187068,Charlbi Dean,Yaya,1,1,5e39d4c1ac8e6b001ac87308,1,female
+497828,1513304,Dolly de Leon,Abigail,2,2,5e39d5774ca67600145533a3,1,female
+497828,57755,Woody Harrelson,The Captain,3,3,63e18023cb802800a1a4fc27,2,male
+497828,31960,Zlatko Burić,Dimitry,4,4,5e39d524d1a8930014d07ec9,2,male
+497828,84241,Vicki Berlin,Paula,5,5,5e39d5800c2710001374bbc5,1,female
+497828,225636,Henrik Dorsin,Jarmo,6,6,5e2afa83c56d2d001349eb82,2,male
+497828,43451,Iris Berben,Therese,7,7,5e39d531ac8e6b0018c8531c,1,female
+497828,559648,Jean-Christophe Folly,Nelson,8,8,6279d858d400f30099f985c7,2,male
+497828,108620,Amanda Walker,Clementine,9,9,6279d89b07291c0050ed00cb,1,female
+817758,112,Cate Blanchett,Lydia Tár,0,0,6074bb2978570e0040176b93,1,female
+817758,681,Nina Hoss,Sharon Goodnow,1,1,6138ce3f51c01f0025f68ed9,1,female
+817758,1385600,Noémie Merlant,Francesca Lentini,2,2,6138ce57b7abb5008ea0979a,1,female
+817758,3322369,Sophie Kauer,Olga Metkina,3,3,619da677bc2cb30042839584,1,female
+817758,740,Julian Glover,Andris Davis,4,4,619da68003bf8400610065aa,2,male
+817758,2983,Mark Strong,Eliot Kaplan,5,5,619da664a410c80090ab805b,2,male
+817758,3322370,Sylvia Flote,Krista Taylor,6,6,619da68f70b44400930a0b58,1,female
+817758,78018,Allan Corduner,Sebastian Brix,7,7,619da6878de0ae008d9f4119,2,male
+817758,3762504,Mila Bogojevic,Petra,8,8,635ca77095c0af0098f6f3a2,1,female
+817758,2352235,Adam Gopnik,Adam Gopnik,9,9,634243fd71ffdf00825dec62,2,male
+777245,108916,Rooney Mara,Ona,0,0,60ca23a899259c0041184c12,1,female
+777245,120932,Claire Foy,Salome,1,1,60ca23b22fccee00780a23c4,1,female
+777245,1498158,Jessie Buckley,Mariche,2,2,60ca23ba18864b0040175ac7,1,female
+777245,19239,Judith Ivey,Agata,3,3,60ca23d4665408003fd11acd,1,female
+777245,17064,Ben Whishaw,August,4,4,60ca24cb7739410040babb1e,2,male
+777245,29384,Sheila McCarthy,Greta,5,5,60ca249217c44300580e158e,1,female
+777245,3126870,Kate Hallett,Autje,6,6,60ca252e42d8a500298bad52,1,female
+777245,1871793,Michelle McLeod,Mejal,7,7,60ca24ad2fccee0028a1ca13,1,female
+777245,2728905,Liv McNeil,Neitje,8,8,6315498a7fcab30091dd248f,1,female
+777245,1477963,August Winter,Melvin,9,9,666752ac3aec7096e2ddb3a0,3,nonbinary
+1056360,2954,Jeffrey Wright,Thelonious 'Monk' Ellison,0,0,638a5f127d5db50084af162f,2,male
+1056360,40543,John Ortiz,Arthur,1,1,638a5f8b8a84d200c9c9034a,2,male
+1056360,33655,Erika Alexander,Coraline,2,2,638a5f5d8a84d2008478940d,1,female
+1056360,122750,Leslie Uggams,Agnes Ellison,3,3,638a5f6a1283e9007c73c5da,1,female
+1056360,1225953,Sterling K. Brown,Clifford Ellison,4,4,638a5f71c3aa3f0084cc2bad,2,male
+1056360,1499805,Skyler Wright,Brittany,5,5,6507d4498ee49c013809bd9e,1,female
+1056360,64343,John Ales,Leo,6,6,6507d48242d8a5011bd74a43,2,male
+1056360,52801,Patrick Fischler,Mandel,7,7,6507d4a2394a8700e226b8a4,2,male
+1056360,2220239,Carmen Cusack,Gilda,8,8,6507d4ae8a88b200ad5d57e7,1,female
+1056360,4277684,Joseph Marrella,Matthew Wilson,9,9,6507d7de8a88b2013cfa61cb,2,male
+915935,7152,Sandra Hüller,Sandra Voyter,0,0,6243134b2cde9800865d8642,1,female
+915935,145120,Swann Arlaud,Maître Vincent Renzi,1,1,62431359706e56008bdd05b9,2,male
+915935,3302971,Milo Machado-Graner,Daniel,2,2,624313543e09f30087c5485e,2,male
+915935,1795152,Antoine Reinartz,Advocate General,3,3,62535558be6d88009f9d1285,2,male
+915935,1312061,Samuel Theis,Samuel Maleski,4,4,6243136fc50ad2005cdad300,2,male
+915935,1029285,Jehnny Beth,Marge Berger,5,5,624313672cde980047e56b96,1,female
+915935,1613123,Saadia Bentaïeb,Maître Nour Boudaoud,6,6,6243135e3e09f3005b40f0fa,1,female
+915935,1033745,Camille Rutherford,Zoé Solidor,7,7,646c7586d1857200e5a5aa6a,1,female
+915935,2670733,Anne Rotger,President of the Court,8,8,646c75954f3a4c00ea387d79,1,female
+915935,233491,Sophie Fillières,Monica,9,9,646c75a054a0980138659554,1,female
+346698,234352,Margot Robbie,Barbie,0,0,5f88a9d28258fc0036ad14ff,1,female
+346698,30614,Ryan Gosling,Ken,1,1,61732049a217c000434083ec,2,male
+346698,59174,America Ferrera,Gloria,2,2,620408d4194186001ba589e4,1,female
+346698,1767250,Ariana Greenblatt,Sasha,3,3,621e9f569f1be7001b137584,1,female
+346698,1455336,Issa Rae,Barbie,4,4,628697ceec45525126899890,1,female
+346698,1240487,Kate McKinnon,Barbie,5,5,620d7599e039f1001cde4012,1,female
+346698,1253199,Alexandra Shipp,Barbie,6,6,6234a816df29450046fe52f0,1,female
+346698,2201315,Emma Mackey,Barbie,7,7,623b6caa719aeb00486bf21e,1,female
+346698,1611609,Hari Nef,Barbie,8,8,62a5e5b535d1bc5107d08f00,1,female
+346698,1474028,Sharon Rooney,Barbie,9,9,62599b72fe6c18009f13f78f,1,female
+466420,6193,Leonardo DiCaprio,Ernest Burkhart,0,0,5968f416c3a3686f60021bc8,2,male
+466420,380,Robert De Niro,William Hale,1,1,5d3cfcb321621b483fee0dd0,2,male
+466420,1183917,Lily Gladstone,Mollie Burkhart,2,2,6025855c9979d2003feaeb8b,3,nonbinary
+466420,88124,Jesse Plemons,Tom White,3,3,602d8ef2d940350040771ab2,2,male
+466420,7863,Tantoo Cardinal,Lizzie Q,4,4,604a87459e458600243e7c1d,1,female
+466420,12074,John Lithgow,Prosecutor Peter Leaward,5,5,6112b891f04d01001f96bcab,2,male
+466420,18269,Brendan Fraser,W.S. Hamilton,6,6,610966069f5dfb002a2eb252,2,male
+466420,3006897,Cara Jade Myers,Anna,7,7,604a876e54508d004399d546,1,female
+466420,3006898,JaNae Collins,Reta,8,8,604a878c90b87e00227a28e1,1,female
+466420,2698946,Jillian Dion,Minnie,9,9,604a87c390b87e007766009f,1,female
+523607,36662,Carey Mulligan,Felicia Montealegre,0,0,654315886beaea00eaf5eae4,1,female
+523607,51329,Bradley Cooper,Leonard Bernstein,1,1,5af4bd6ec3a3684713002e59,2,male
+523607,66743,Matt Bomer,David Oppenheim,2,2,6230d9a6befd910074c36d9b,2,male
+523607,20588,Vincenzo Amato,Bruno Zirato,3,3,6582d7f0180dea53b98be02c,2,male
+523607,1642941,Greg Hildreth,Isaac,4,4,65a2f441238513012e6285d1,2,male
+523607,123795,Michael Urie,Jerry Robbins,5,5,644b3d7f336e0102fb732d04,2,male
+523607,51996,Brian Klugman,Aaron Copeland,6,6,655f5de31dbc8800c68836ba,2,male
+523607,1094967,Nick Blaemire,Adolph Green,7,7,6582d85b08354745553e66c5,2,male
+523607,1193275,Mallory Portnoy,Betty Comden,8,8,62f727b7a313b8009c852df9,0,unspecified
+523607,4440197,Alexandra Santini,Claudio's Guest #1,9,9,6582d8dffbe36f4b797ef784,1,female
+872585,2037,Cillian Murphy,J. Robert Oppenheimer,0,0,613a940d9653f60043e380df,2,male
+872585,5081,Emily Blunt,Kitty Oppenheimer,1,1,6328c918524978007e9f1a7f,1,female
+872585,1892,Matt Damon,Leslie Groves,2,2,6328ad9843250f00830efdca,2,male
+872585,3223,Robert Downey Jr.,Lewis Strauss,3,3,6328adb143250f00830efdd6,2,male
+872585,1373737,Florence Pugh,Jean Tatlock,4,4,6328adc8229ae2007e7a4fbc,1,female
+872585,2299,Josh Hartnett,Ernest Lawrence,5,5,6328adf543250f007e8c215e,2,male
+872585,1893,Casey Affleck,Boris Pash,6,6,6328af3691b530007d0c4cff,2,male
+872585,17838,Rami Malek,David Hill,7,7,6328add420af7700998bc29b,2,male
+872585,11181,Kenneth Branagh,Niels Bohr,8,8,6328aeb0124c8d007d63c035,2,male
+872585,227564,Benny Safdie,Edward Teller,9,9,6328ade55cea18009106ac6f,2,male
+666277,1260481,Greta Lee,Nora,0,0,6108486b960331004746fc13,1,female
+666277,1387126,Teo Yoo,Hae Sung,1,1,610848659f5dfb007ee233fa,2,male
+666277,37154,John Magaro,Arthur,2,2,61084870f96a39003030a395,2,male
+666277,2309873,Moon Seung-ah,Young Nora,3,3,63cf7d12cf9ba300d357d629,1,female
+666277,3888559,Leem Seung-min,Young Hae Sung,4,4,63cf7d2791745b0089b703ab,2,male
+666277,109646,Yoon Ji-hye,Nora's Mom,5,5,64b5498ee0ca7f00ae76960b,1,female
+666277,1258630,Choi Won-young,Nora's Dad,6,6,64b549ace0ca7f00c8cf4ba9,2,male
+666277,1696022,An Min-young,Hae Sung's Mom,7,7,64b549cf78570e011daa2e3d,1,female
+666277,1998038,Seo Yeon-woo,Young Si Young,8,8,65c3aa608e2e000183a6794f,1,female
+666277,2519070,Chang Ki-ha,Hae Sung's Friend 1,9,9,64b54b15378062013907cc9e,2,male
+792307,54693,Emma Stone,Bella Baxter,0,0,62eb08b38566d2005a484669,1,female
+792307,103,Mark Ruffalo,Duncan Wedderburn,1,1,62eb08da273648005d9c6830,2,male
+792307,5293,Willem Dafoe,Godwin Baxter,2,2,62eb08c7273648005d9c682a,2,male
+792307,1382987,Ramy Youssef,Max McCandles,3,3,62eb08fff1b571005e2c9236,2,male
+792307,984629,Christopher Abbott,Alfie Blessington,4,4,62eb095b25cd850060e73929,2,male
+792307,2331794,Suzy Bemba,Toinette,5,5,62eb09a9223a8b0060454cf0,1,female
+792307,1400880,Jerrod Carmichael,Harry Astley,6,6,62eb090f48333a005e9e1f31,2,male
+792307,72309,Kathryn Hunter,Swiney,7,7,62eb098f6d9fe8005eedbd1f,1,female
+792307,1248292,Vicki Pepperdine,Mrs. Prim,8,8,64bfacad8ee49c0fcfd6ba9c,1,female
+792307,3734,Hanna Schygulla,Martha Von Kurtzroc,9,9,64bfaca56ee3d7014390a074,1,female
+840430,13242,Paul Giamatti,Paul Hunham,0,0,60c79208d132d60072a04057,2,male
+840430,3918497,Dominic Sessa,Angus Tully,1,1,63e9a14d63aad200a14cfd20,2,male
+840430,1180099,Da'Vine Joy Randolph,Mary Lamb,2,2,61f171626e938a00f4a08116,1,female
+840430,7465,Carrie Preston,Miss Lydia Crane,3,3,62b4fb881b722c00941a4f30,1,female
+840430,3013234,Brady Hepner,Teddy Kountze,4,4,6503f27aea37e000c6391da2,2,male
+840430,3797133,Ian Dolley,Alex Ollerman,5,5,6503f2846a222701372ecf50,2,male
+840430,3650522,Jim Kaplan,Ye-Joon Park,6,6,6503f28fefea7a011ab9a7f8,2,male
+840430,1517841,Michael Provost,Jason Smith,7,7,6503f2a0db4ed61038575f52,2,male
+840430,206902,Andrew Garman,Dr. Hardy Woodrup,8,8,6503f2ac63aad201380087f0,0,unspecified
+840430,1745909,Naheem Garcia,Danny,9,9,6503f2f4ffc9de0ee3c77854,2,male
+467244,71374,Christian Friedel,Rudolf Höss,0,0,635c3ad9f28838007b15e2fe,2,male
+467244,7152,Sandra Hüller,Hedwig Höss,1,1,635c3acb88c6590082378026,1,female
+467244,4072267,Johann Karthaus,Claus Höss,2,2,64690ca4006b0100e6b44c20,2,male
+467244,4452138,Luis Noah Witte,Hans Höss,3,3,658d9940f2cf255b084cbc8b,0,unspecified
+467244,4072269,Nele Ahrensmeier,Inge-Brigit Höss,4,4,64690cde2bcf6700e3bab1d9,0,unspecified
+467244,4072268,Lilli Falk,Heideraud Höss,5,5,64690cc5c1606a0138331b6b,1,female
+467244,4452146,Anastazja Drobniak,Annagret Höss,6,6,658d9a021b1f3c5937fcf96b,0,unspecified
+467244,4452147,Cecylia Pekala,Annagret Höss,7,7,658d9a28c044297999842e92,0,unspecified
+467244,4452144,Kalman Wilson,Annagret Höss,8,8,658d99cc84448e6681b54726,0,unspecified
+467244,4072265,Medusa Knopf,Elfriede,9,9,64690c282bcf67013894c355,1,female
+661539,1190668,Timothée Chalamet,Bob Dylan,0,0,5e13c5106c0b360013ffeed4,2,male
+661539,819,Edward Norton,Pete Seeger,1,1,65b2a3b36eecee00c9340834,2,male
+661539,18050,Elle Fanning,Sylvie Russo,2,2,646277e4ef8b320172d62479,1,female
+661539,1525043,Monica Barbaro,Joan Baez,3,3,644ad695596a91054d5764fb,1,female
+661539,59233,Scoot McNairy,Woody Guthrie,4,4,6601ba6e04733f0164eb09d9,2,male
+661539,58873,Dan Fogler,Albert Grossman,5,5,6601ba7c459ad6014af80543,2,male
+661539,467645,Boyd Holbrook,Johnny Cash,6,6,64c8cded89f74900c981c2fc,2,male
+661539,1968242,Will Harrison,Bob Neuwirth,7,7,6601ba841b1f3c0163994969,2,male
+661539,1664022,Joe Tippett,Dave Van Ronk,8,8,675dae51d0b2f1868d1b151b,2,male
+661539,69287,Eriko Hatsune,Toshi Seeger,9,9,675dae23dfbdabdc906892b9,1,female
+1064213,1640439,Mikey Madison,Ani,0,0,649d15428289a000c581b376,1,female
+1064213,3051936,Mark Eydelshteyn,Ivan,1,1,653cde39519bbb01383204b8,2,male
+1064213,1266686,Yura Borisov,Igor,2,2,65392f40f495ee011c2450ec,2,male
+1064213,966306,Karren Karagulian,Toros,3,3,65392f489c24fc00ad1cc3e3,2,male
+1064213,4338956,Vache Tovmasyan,Garnik,4,4,65392f50ae3668012c6738aa,2,male
+1064213,4670423,Luna Sofía Miranda,Lulu,5,5,6627b50c2e2b2c01636795b6,1,female
+1064213,2353434,Lindsey Normington,Diamond,6,6,65c626642d531a0163c5f98a,1,female
+1064213,1163599,Darya Ekamasova,Galina Zakharov,7,7,6627b516221ba600c8126409,1,female
+1064213,113332,Aleksey Serebryakov,Nikolai Zakharov,8,8,6652327a7ff880e8fd55a882,2,male
+1064213,4937028,Anton Bitter,Tom,9,9,66e1c899c891ee7f8368e836,2,male
+974576,5469,Ralph Fiennes,Lawrence,0,0,67485f3d10946c29c602a8ae,2,male
+974576,2283,Stanley Tucci,Bellini,1,1,67485f8510946c29c602a8cc,2,male
+974576,12074,John Lithgow,Tremblay,2,2,67485fc01992d710d3acb279,2,male
+974576,6588,Isabella Rossellini,Sister Agnes,3,3,6748600bd43b4d11cd4bd666,1,female
+974576,1240427,Lucian Msamati,Adeyemi,4,4,6748607dcab0a238dddcf067,2,male
+974576,3935515,Carlos Diehz,Benitez,5,5,674860c0446b8badda2f2d33,2,male
+974576,2166,Sergio Castellitto,Tedesco,6,6,674860decab0a238dddcf09f,2,male
+974576,31713,Brían F. O'Byrne,O'Malley,7,7,674860ff71ccf8e1b0faa0ee,2,male
+974576,17817,Merab Ninidze,Sabbadin,8,8,6748611f2ed39a3af171de3c,2,male
+974576,1052328,Thomas Loibl,Mandorff,9,9,674861461992d710d3acb357,2,male
+693134,1190668,Timothée Chalamet,Paul Atreides,0,0,5e959c45955c6500159f1c98,2,male
+693134,505710,Zendaya,Chani,1,1,5e959c5caf58cb001adc1c94,1,female
+693134,933238,Rebecca Ferguson,Jessica,2,2,5f193d28519bbb003570317b,1,female
+693134,3810,Javier Bardem,Stilgar,3,3,603ccede60c51d7aeb807f49,2,male
+693134,16851,Josh Brolin,Gurney Halleck,4,4,5e959c7daf58cb0012dc1007,2,male
+693134,86654,Austin Butler,Feyd-Rautha,5,5,6261033257530e0066d2daa3,2,male
+693134,1373737,Florence Pugh,Princess Irulan,6,6,626103233d745415a727d041,1,female
+693134,543530,Dave Bautista,Beast Rabban,7,7,5f193dd5a6d931003785f7c0,2,male
+693134,4690,Christopher Walken,Emperor,8,8,627d48c8f6596f16bc6ab4f0,2,male
+693134,121529,Léa Seydoux,Lady Margot Fenring,9,9,62b1fdef9f51af006252fe1a,1,female
+974950,8691,Zoe Saldaña,Rita,0,0,627d381cc92c5d0068a63ba1,1,female
+974950,1505938,Karla Sofía Gascón,Emilia / Manitas,1,1,644f02ad124c8d02f57db8d4,1,female
+974950,77948,Selena Gomez,Jessi,2,2,627d38165aadc41363a95e13,1,female
+974950,983710,Adriana Paz,Epifanía,3,3,64a5f49607faa2010105fcfa,1,female
+974950,25616,Edgar Ramírez,Gustavo Brun,4,4,64711b3c8813e40124267f6c,2,male
+974950,6696,Mark Ivanir,Wasserman,5,5,66199f8c69eb90017cb747d2,2,male
+974950,3337577,Eduardo Aladro,Berlinger,6,6,64a5f5792b531d00aedc94c3,2,male
+974950,4725740,Emiliano Hasan,Gabriel Mendoza,7,7,664bc85cb2dc6e70e13082d1,2,male
+974950,4759023,Gaël Murguia-Fur,Angel,8,8,6661befa1f4daac95af2a141,0,unspecified
+974950,4759024,Tirso Pietriga,Diego,9,9,6661bf22013352475b7b396e,0,unspecified
+1000837,87335,Fernanda Torres,Eunice Paiva,0,0,62d3d6253780620c6fab582f,1,female
+1000837,10055,Fernanda Montenegro,Eunice Paiva (Older),1,1,62d3d63291745b004f25a0da,1,female
+1000837,87341,Selton Mello,Rubens Paiva,2,2,6495a0e1a284eb011cdba067,2,male
+1000837,1508719,Valentina Herszage,Veroca,3,3,65b73b79dbad50016384e16b,1,female
+1000837,932970,Maria Manoella,Veroca,4,4,671db6aab3d5cbb842f4539d,1,female
+1000837,1901533,Bárbara Luz,Nalu,5,5,65b73be0a0b69000e3cdec50,1,female
+1000837,2186407,Gabriela Carneiro da Cunha,Nalu,6,6,671db73f6e4210780f7940cc,1,female
+1000837,4505878,Luiza Kosovski,Eliana,7,7,65b73be80cd32a017ce6fe82,1,female
+1000837,973901,Marjorie Estiano,Eliana,8,8,6713d2372bbba65f7b10d97d,1,female
+1000837,1735633,Pri Helena,Zezé,9,9,6730fa256dddd88d089cc6ca,1,female
+1028196,2104685,Ethan Herisse,Elwood,0,0,635bfdef88c659007d41c074,2,male
+1028196,1674009,Brandon Wilson,Turner,1,1,635bfdf89451e7009127292b,2,male
+1028196,53923,Aunjanue Ellis-Taylor,Hattie,2,2,635bfde8b3316b00790bedd1,1,female
+1028196,184581,Hamish Linklater,Spencer,3,3,635bfe02f28838008317a4d2,2,male
+1028196,557804,Gralen Bryant Banks,Blakeley,4,4,653086520b74e900fe56268d,2,male
+1028196,2099497,Fred Hechinger,Harper,5,5,635bfe0a95c0af007a0fe6f7,2,male
+1028196,1774398,Jimmie Fails,Mr. Hill,6,6,66f827b72c4bdc9db05f396a,2,male
+1028196,2101951,Luke Tennie,Griff,7,7,65308631edeb4300abde5755,2,male
+1028196,2669801,Bryan Gael Guzman,Jaime,8,8,6759eb1bfa004ca062967350,2,male
+1028196,4864004,Ethan Cole Sharp,Young Elwood,9,9,66adaf97c1dee4c3b7f5562b,2,male
+549509,3490,Adrien Brody,László Tóth,0,0,6421b1598d22fc00a9de8b90,2,male
+549509,72855,Felicity Jones,Erzsébet Tóth,1,1,6421b16923be4600c0f65792,1,female
+549509,529,Guy Pearce,Harrison Lee Van Buren Sr,2,2,6421b16123be4600febe9203,2,male
+549509,1496392,Joe Alwyn,Harry Lee,3,3,64358a9daf432401038ed89e,2,male
+549509,1055230,Raffey Cassidy,Zsófia,4,4,64358ab806f98401108b1aab,1,female
+549509,1137823,Stacy Martin,Maggie Lee,5,5,64358af4e6357100f27a1b98,1,female
+549509,4812,Isaach de Bankolé,Gordon,6,6,64358ad0e6357100d32d5257,2,male
+549509,4941,Alessandro Nivola,Attila,7,7,64358ae8ec8a43025fb85869,2,male
+549509,235125,Ariane Labed,Older Zsófia,8,8,66d63a847dddc48ba99b8a91,1,female
+549509,1338019,Michael Epp,Jim Simpson,9,9,654ef358d4653701386136de,2,male
+933260,3416,Demi Moore,Elisabeth,0,0,61f85cfa70309f010ddcfc0e,1,female
+933260,1392137,Margaret Qualley,Sue,1,1,61f85d03dfaae9001db86d18,1,female
+933260,6065,Dennis Quaid,Harvey,2,2,6437617e4a52f800b6fae42c,2,male
+933260,2313436,Edward Hamilton-Clark,Fred,3,3,66ee19e0a82b00570325d226,2,male
+933260,1508131,Gore Abrams,Oliver,4,4,62f38494fea6e3009135a875,2,male
+933260,2566289,Oscar Lesage,Troy,5,5,63669ccb9653f6007af5a930,2,male
+933260,45849,Christian Erickson,Man at Diner,6,6,66ee1a195ee61fbb738d09c9,2,male
+933260,4954230,Robin Greer,Male Nurse,7,7,66ee1aa8b348bea4eb3aec8b,2,male
+933260,584338,Tom Morton,Doctor,8,8,6287fb83f10a1a33aaae3683,2,male
+933260,1720509,Hugo Diego Garcia,Diego - Boyfriend,9,9,62f384a96f31af007a3f6b95,2,male
+402431,1765068,Cynthia Erivo,Elphaba,0,0,675aaed6b9445da4de06c53f,1,female
+402431,226001,Ariana Grande,Galinda / Glinda,1,1,675aaee6b9445da4de06c547,1,female
+402431,1620,Michelle Yeoh,Madame Morrible,2,2,675aaf0a7e7cb94bdf1ec0ad,1,female
+402431,80860,Jonathan Bailey,Fiyero,3,3,675aaf18b9445da4de06c559,2,male
+402431,2271410,Ethan Slater,Boq,4,4,675aaf54661e8dd41d996e4a,2,male
+402431,3102321,Marissa Bode,Nessarose,5,5,675aaf631fc28a646b731ac8,1,female
+402431,4785,Jeff Goldblum,The Wonderful Wizard of Oz,6,6,675aaefc661e8dd41d996e40,2,male
+402431,22970,Peter Dinklage,Dr. Dillamond (voice),7,7,675aaf80661e8dd41d996e59,2,male
+402431,22810,Andy Nyman,Governor Thropp,8,8,675aaf9accf4df966822c80b,2,male
+402431,4824375,Courtney-Mae Briggs,Mrs. Thropp,9,9,675aafa7ccf4df966822c812,1,female

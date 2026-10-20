@@ -1,0 +1,28 @@
+column,definition
+ceremony_number,Academy Awards ceremony number.
+eligibility_year_label,"Original Wikipedia film-eligibility year label, separate from ceremony year."
+film_title,Film title from the Wikipedia nomination table.
+wiki_title,Wikipedia film article title.
+wiki_url,Wikipedia film article URL.
+winner,True for the Best Picture winner; False for another nominee.
+ceremony_year,Year in which the awards ceremony occurred; 2000-2025 inclusive.
+tmdb_id,Resolved TMDB movie identifier.
+tmdb_title,Title of the selected TMDB movie.
+tmdb_release_date,"TMDB release-date field, kept for match checking."
+match_method,Unique title/year rule or supplied title/date/synopsis review.
+search_file,Saved movie-search response containing the resolved candidate.
+movie_popularity,TMDB movie attention score at collection; not actor popularity or historical pre-award popularity.
+popularity_collected_at_utc,UTC collection timestamp for that saved movie-search response.
+women_count,Selected distinct actors whose TMDB gender code is 1.
+men_count,Selected distinct actors whose TMDB gender code is 2.
+nonbinary_count,Selected distinct actors whose TMDB gender code is 3.
+unknown_gender_count,Selected distinct actors whose gender is unspecified (code 0 or missing).
+cast_count,"Number of selected distinct billed people, at most ten."
+known_gender_count,"Selected people with female, male or non-binary gender recorded."
+women_share_known,women_count / known_gender_count; missing if denominator is zero; sensitivity only.
+women_share_all,women_count / cast_count; primary recorded female-share measure.
+gender_coverage,known_gender_count / cast_count.
+women_to_men_ratio,women_count / men_count; missing if men_count is zero.
+fewer_than_10_cast,True if fewer than ten distinct people were selected.
+has_unknown_gender,True if at least one selected person has unspecified gender.
+nominee_count,Number of Best Picture nominees in the same ceremony (5-10).
